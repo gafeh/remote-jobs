@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Worldwide Remote Jobs</title>
+<style>
+:root{--bg:#f6f6f3;--card:#fff;--fg:#1b1b1b;--muted:#666;--line:#e2e2dc;--accent:#0b6e4f;--warn:#a15c00}
+@media (prefers-color-scheme:dark){:root{--bg:#111;--card:#1b1b1b;--fg:#eee;--muted:#999;--line:#2c2c2c;--accent:#3ccf91;--warn:#f0a443}}
+*{box-sizing:border-box}
+body{margin:0;font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--fg)}
+header,main{max-width:960px;margin:auto;padding:16px 20px}
+h1{margin:0 0 4px;font-size:22px}
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:10px}
+input,select,button{font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
+button{cursor:pointer}
+.job{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0}
+.top{display:flex;justify-content:space-between;gap:12px}
+.score{font-weight:700;font-size:22px;color:var(--accent)}
+.meta{color:var(--muted);font-size:13px}
+.pill{display:inline-block;padding:0 8px;border-radius:99px;border:1px solid var(--line);font-size:12px;margin-right:6px}
+.new{background:var(--accent);color:#fff;border-color:transparent}
+.gap{color:var(--warn);font-size:14px}
+.applied{opacity:.45}
+a.btn{display:inline-block;padding:7px 12px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;margin-right:8px}
+p{margin:6px 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>Worldwide Remote Jobs</h1>
+  <div class="meta" id="info">Loading...</div>
+  <div class="controls">
+    <input id="q" placeholder="Search title, company, skill">
+    <label>Min score <input id="min" type="number" value="50" min="0" max="100" style="width:72px"></label>
+    <select id="verdict">
+      <option value="">All verdicts</option>
+      <option value="apply">apply</option>
+      <option value="stretch">stretch</option>
+    </select>
+    <label><input type="checkbox" id="newOnly"> New today</label>
+    <label><input type="checkbox" id="hideApplied" checked> Hide applied</label>
+  </div>
+</header>
+<main id="list"></main>
+<script>
+const $ = s => document.querySelector(s);
+let JOBS = [];
+const applied = new Set(JSON.parse(localStorage.getItem("applied") || "[]"));
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe = u => /^https?:\/\//.test(u || "") ? u : "#";
+function ago(iso){ if(!iso) return "date unknown"; const h=(Date.now()-new Date(iso))/36e5; return h<24 ? Math.max(1,Math.round(h))+"h ago" : Math.round(h/24)+"d ago"; }
+
+function card(j){
+  const llm = j.llm;
+  return `<div class="job ${applied.has(j.id)?"applied":""}">
+    <div class="top">
+      <div>
+        <strong>${esc(j.title)}</strong> at ${esc(j.company)} ${j.is_new?'<span class="pill new">new</span>':""}
+        <div class="meta">${esc(j.location)} · ${esc(j.source)} · ${ago(j.posted)}${j.salary?" · "+esc(j.salary):""}</div>
+      </div>
+      <div class="score">${j.score}</div>
+    </div>
+    ${llm?`<p><span class="pill">${esc(llm.verdict)}</span>${esc(llm.why)}</p>`:""}
+    ${llm?.gaps?.length?`<p class="gap">Gaps: ${llm.gaps.map(esc).join(", ")}</p>`:""}
+    ${j.penalties.length?`<p class="meta">Flags: ${j.penalties.map(esc).join(", ")}</p>`:""}
+    <p class="meta">Matched: ${j.skills_hit.map(esc).join(", ") || "none"}</p>
+    <a class="btn" href="${esc(safe(j.url))}" target="_blank" rel="noopener">Open job</a>
+    <button data-applied="${esc(j.id)}">${applied.has(j.id)?"Unmark":"Mark applied"}</button>
+  </div>`;
+}
+
+function render(){
+  const q=$("#q").value.toLowerCase(), min=+$("#min").value||0, v=$("#verdict").value;
+  const rows = JOBS.filter(j =>
+    j.score >= min &&
+    (!v || j.llm?.verdict === v) &&
+    (!$("#newOnly").checked || j.is_new) &&
+    (!$("#hideApplied").checked || !applied.has(j.id)) &&
+    (!q || (j.title+" "+j.company+" "+j.skills_hit.join(" ")).toLowerCase().includes(q)));
+  $("#list").innerHTML = rows.map(card).join("") || '<p class="meta">No jobs match these filters.</p>';
+}
+
+document.addEventListener("click", e => {
+  const id = e.target.dataset?.applied; if(!id) return;
+  applied.has(id) ? applied.delete(id) : applied.add(id);
+  localStorage.setItem("applied", JSON.stringify([...applied])); render();
+});
+["#q","#min","#verdict","#newOnly","#hideApplied"].forEach(s => $(s).addEventListener("input", render));
+
+fetch("jobs.json?" + Date.now()).then(r => r.json()).then(d => {
+  JOBS = d.jobs;
+  $("#info").textContent = `${d.jobs.length} worldwide roles · ${d.rejected_count} filtered out · updated ${new Date(d.generated_at).toLocaleString()}`;
+  render();
+}).catch(() => $("#info").textContent = "Could not load jobs.json");
+</script>
+</body>
+</html>

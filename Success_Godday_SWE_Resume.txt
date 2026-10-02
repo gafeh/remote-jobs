@@ -1,0 +1,71 @@
+SUCCESS GODDAY
+Software Engineer | Backend & AI
+Remote (UTC+1) | successthecodess@gmail.com | github.com/codexdotcom | portfolioo-swe.vercel.app
+
+SUMMARY
+Backend and AI engineer building systems where correctness is the product: idempotent payment and subscription infrastructure, durable job
+pipelines, and evaluation harnesses that measure whether LLM agents can be trusted. TypeScript/Node.js and Python on PostgreSQL.
+
+EXPERIENCE
+Software Engineer, EnginearU LLC
+Charleston, SC (Remote) | Nov 2022 – Present | AI-adaptive AP Computer Science learning platform
+•​ Designed and built the production backend from scratch in Node.js, Python, Express, Prisma, and PostgreSQL, deployed on AWS across 40+ REST
+endpoints serving 3,500+ registered users at 75,000+ requests/day, 180ms p95 latency, and 99.9% uptime over 1.2M+ records.
+•​ Built the payment and subscription infrastructure on Stripe and GoHighLevel: server-side checkout orchestration, webhook-driven reconciliation,
+and transactional updates across pending, successful, failed, and reversed states. Idempotency keys and explicit state transitions let duplicate or
+out-of-order webhooks retry safely without duplicating entitlements, with auditable records linking each provider event to a user and plan.
+•​ Chose PostgreSQL over MongoDB for the core data model to guarantee relational integrity and transactional consistency for grades and mastery
+state, trading slower schema iteration for correctness as usage scaled.
+•​ Built the adaptive-learning core: a concept knowledge graph, Bayesian and deep knowledge tracing to model mastery, NLP-generated practice
+questions, and spaced-repetition scheduling.
+•​ Built a distributed background-job pipeline processing 250,000+ jobs/month for adaptive question sequencing and progress-report generation,
+with retry logic, idempotent job handling, and structured logging.
+•​ Built an agentic tool-calling framework in TypeScript for multi-step LLM workflows, guarded by an evaluation pipeline that runs test cases against
+expected-output datasets and routes low-confidence results to human review before students see them; a pgvector retrieval layer grounds
+difficulty adjustments in each student’s history.
+•​ Maintained 85% automated test coverage and shipped 15+ production deployments/month via GitHub Actions CI/CD.
+
+Fullstack Engineer, uLesson
+Lagos, Nigeria (Remote) | Jan 2020 – Nov 2022
+•​ Owned the teacher portal and student learning experience end-to-end on a platform serving 1M+ users.
+•​ Designed and maintained the GraphQL and REST APIs powering content delivery, progress tracking, and account management across both
+applications.
+•​ Optimized API and application performance to reduce latency across high-traffic learning workflows and improve responsiveness for students and
+teachers.
+Tech stack: Python, Django, AWS, SQL, RESTful APIs, System Design, Terraform, Docker, CI/CD, Agile
+
+PROJECTS
+EvalGate, Agent Evaluation Platform | TypeScript, GraphQL, Python, React, Redux, PostgreSQL | github.com/codexdotcom/evalgate
+•​ Scores multi-step agent trajectories with deterministic scorers (tool-call order, loop detection, step budget) and LLM judges, with judge
+confidence derived from self-consistency vote spread rather than model self-report.
+•​ Calibrates every scorer against blind human labels and execution-verified ground truth (Cohen’s kappa, false-pass/false-fail rates), with blind vs.
+non-blind labeling modes to measure reviewer anchoring on judge verdicts.
+•​ TypeScript GraphQL API (Pothos, Prisma) over async Python workers claiming jobs from a Postgres queue via FOR UPDATE SKIP LOCKED, with a
+stale-job reaper, graceful SIGTERM drain, shared 429 rate-limit gate, and a zero-model-call replay mode; keyboard-driven React/Redux review
+queue.
+
+TalentOps, Hiring Operations Platform | Next.js 15, TypeScript, Prisma, Neon Postgres, Inngest, Resend | talentops-nine.vercel.app
+•​ Seven-module platform: GitHub, Stack Overflow, and Hacker News sourcing bots, multi-touch outreach sequences, market-intelligence tripwires,
+warm paths, interview automation, a public careers site, and a nightly data-integrity engine.
+•​ Inngest pipelines refresh data daily with Resend email and Slack webhook alerts; LinkedIn excluded from sourcing on documented ToS grounds.
+
+Ember: HTTP/1.1 Server and Framework from Raw Sockets | Python, epoll/selectors, Hypothesis, pytest, mypy, GitHub Actions |
+https://github.com/codexdotcom/ember
+•​ Built an HTTP/1.1 server from raw sockets in pure Python (custom event loop, pre-fork supervisor with zero-downtime reloads, WSGI support),
+verified with differential fuzzing that caught a real protocol bug.
+
+TECHNICAL SKILLS
+Languages: TypeScript, JavaScript, Python, Java, C++, SQL
+Backend & Systems: Node.js, Express, Fastify, FastAPI, Django, REST & GraphQL API design, Prisma, Postgres work queues, background jobs,
+webhooks & idempotency, payment integration (Stripe), auth, WebSockets
+Data: PostgreSQL, pgvector, Redis, MongoDB, MySQL
+Cloud & Tooling: AWS (EC2, RDS, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions, Linux, Git, Vercel
+Frontend & Testing: React, Next.js, Redux Toolkit (RTK Query), Tailwind CSS; Jest, Pytest, Cypress
+AI / LLM: Anthropic API, agentic tool-calling, agent trajectory evaluation, LLM-judge calibration (Cohen's kappa), retrieval-augmented generation,
+structured outputs
+
+EDUCATION
+University of Lagos | B.Eng., Systems Engineering | Coursework: DSA, NLP, Mathematical Modeling & AI, Linear Algebra, Probability & Statistics
+Additional: LeetCode 700+ solved (Java, C++, Python), 500-day streak. Ambassador & Judge, Technovation Girls Challenge (2022 – Present).
+
+

@@ -1,0 +1,54 @@
+{
+ "generated_at": "2026-10-02T08:22:39.862240+00:00",
+ "stats": {
+  "Remotive": 16,
+  "RemoteOK": 99,
+  "WeWorkRemotely": 50,
+  "Himalayas": 300,
+  "Jobicy": 100,
+  "WorkingNomads": 59
+ },
+ "rejected_count": 492,
+ "jobs": [
+  {
+   "id": "remotive-2091140",
+   "title": "Senior Shopify Developer",
+   "company": "Sanctuary Computer Inc",
+   "location": "Worldwide",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+   "source": "Remotive",
+   "posted": "2026-09-18T15:10:28+00:00",
+   "salary": "$80k - $150k",
+   "score": 21,
+   "h_score": 32,
+   "skills_hit": [
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Backend",
+    "GraphQL",
+    "Payments",
+    "Full stack",
+    "Redis",
+    "Next.js"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": {
+    "interview_odds": 15,
+    "verdict": "skip",
+    "why": "Strong backend/AI engineer with TypeScript and system design expertise, but lacks deep Shopify ecosystem experience (Liquid, Online Store 2.0, Storefront API, Hydrogen), minimal frontend-focused work, and the role requires 8+ years of frontend performance optimization which the resume doesn't demonstrate.",
+    "gaps": [
+     "Deep Shopify ecosystem mastery (Liquid, Online Store 2.0, Shopify Storefront API, Hydrogen/Remix)",
+     "8+ years of frontend-first performance optimization with Lighthouse/Core Web Vitals focus",
+     "Headless CMS integration experience (Sanity, Contentful, Prismic)",
+     "E-commerce platform-specific integrations (Klaviyo, Recharge, Searchspring)",
+     "Design system/component library work for commercial platforms"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  }
+ ]
+}
