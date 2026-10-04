@@ -1080,156 +1080,1788 @@
   "reason": "title excluded (seniority or role type)"
  },
  {
-  "title": "Indirect Procurement Category Manager",
-  "company": "Ferrellgas",
+  "title": "Sales Development Representative",
+  "company": "Bitwarden",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/bitwarden/jobs/sales-development-representative-2649602121",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Fullstack Developer (Java & React)",
+  "company": "Be | Shaping the Future",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ferrellgas/jobs/indirect-procurement-category-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Field Sales Representative, NFG",
-  "company": "Cetera",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/cetera/jobs/field-sales-representative-nfg",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Oracle Cloud Fusion EPM Consolidations (FCCS) - Lead Consultant",
-  "company": "Argano",
-  "location": "Mexico",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/argano/jobs/oracle-cloud-fusion-epm-consolidations-fccs-lead-consultant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Product Manager - Smart Buildings",
-  "company": "Realpage",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/realpage/jobs/senior-product-manager-smart-buildings",
-  "reason": "not an engineering title"
- },
- {
-  "title": "QA Automation Engineer",
-  "company": "TransPerfect",
-  "location": "Worldwide",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Player Support Agent - English",
-  "company": "TransPerfect",
-  "location": "Worldwide",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/transperfect/jobs/player-support-agent-english",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior .NET Developer - REMOTE (Philippines only)",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/senior-net-developer-remote-philippines-only",
+  "url": "https://himalayas.app/companies/be-shaping-the-future/jobs/fullstack-developer-java-react",
   "reason": "location restricted: United States"
  },
  {
-  "title": "Director Product Management",
-  "company": "Cotiviti",
+  "title": "Digital Media Advisor",
+  "company": "iCrossing",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/cotiviti/jobs/director-product-management",
+  "url": "https://himalayas.app/companies/icrossing/jobs/digital-media-advisor",
   "reason": "not an engineering title"
  },
  {
-  "title": "Healthcare Customer Service Representative (RN) - Remote",
-  "company": "Teleperformance",
+  "title": "Senior Director - Global Pricing",
+  "company": "RWS Group",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/rws-group/jobs/senior-director-global-pricing",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Manager, Corporate Travel",
+  "company": "Internova Travel Group",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/healthcare-customer-service-representative-rn-remote",
+  "url": "https://himalayas.app/companies/internova-travel-group/jobs/manager-corporate-travel",
   "reason": "not an engineering title"
  },
  {
-  "title": "Senior Audit Associate-Affordable Housing",
-  "company": "GR8 Global",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/gr8-global/jobs/senior-audit-associate-affordable-housing",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Director Revenue Cycle Reporting and Analytics",
-  "company": "Piedmont Healthcare",
+  "title": "Data/ BI Analyst",
+  "company": "All Native Shared Services Company",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/piedmont-healthcare/jobs/director-revenue-cycle-reporting-and-analytics",
+  "url": "https://himalayas.app/companies/all-native-shared-services-company/jobs/data-bi-analyst",
   "reason": "not an engineering title"
  },
  {
-  "title": "Senior Proposal Consultant",
-  "company": "Aptive",
-  "location": "United States",
+  "title": "Data Scientist voor Smart Factory en Pharma (Freelance kan)",
+  "company": "EngiFlex",
+  "location": "Belgium",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/aptive/jobs/senior-proposal-consultant",
+  "url": "https://himalayas.app/companies/engiflex/jobs/data-scientist-voor-smart-factory-en-pharma-freelance-kan",
   "reason": "not an engineering title"
  },
  {
-  "title": "Chief Analytics Officer (CAO) \u2014 Insurance & Investments",
-  "company": "TheHiveCareers",
-  "location": "Virgin Islands, British",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/thehivecareers/jobs/chief-analytics-officer-cao-insurance-investments-6277670128",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Technical Writer (WFH - Philippines)",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/technical-writer-wfh-philippines",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Graphic Designer (Manpower Pooling)",
-  "company": "JNB Exectant",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/jnb-exectant/jobs/graphic-designer-manpower-pooling",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Credentialing Specialist",
-  "company": "BerryDunn",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/berrydunn/jobs/credentialing-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Discovery Call Specialist",
-  "company": "Modern Thyroid Clinic",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/modern-thyroid-clinic/jobs/discovery-call-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Medicaid Fraud Auditor Team Lead",
+  "title": "Administrative Action Specialist",
   "company": "Peraton",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/peraton/jobs/medicaid-fraud-auditor-team-lead",
+  "url": "https://himalayas.app/companies/peraton/jobs/administrative-action-specialist",
   "reason": "not an engineering title"
  },
  {
-  "title": "Federal Capture Director (Contract) - Bethesda, MD",
+  "title": "Substation Physical Engineering Consultant 2 - Grid",
+  "company": "Sargent & Lundy",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/sargent-lundy/jobs/substation-physical-engineering-consultant-2-grid-6995982255",
+  "reason": "location restricted: United States; no sponsorship"
+ },
+ {
+  "title": "Lead Software Engineer - Guidewire (ClaimCenter)",
+  "company": "AF Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/af-group/jobs/lead-software-engineer-guidewire-claimcenter",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Front End and Digital Experience Engineer",
+  "company": "DecisionPoint Corporation",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/front-end-and-digital-experience-engineer",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Senior Customer Success Manager, Strategic",
+  "company": "Quest Software",
+  "location": "Ireland",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/quest-software/jobs/senior-customer-success-manager-strategic",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Portfolio Revenue Manager - Australia",
+  "company": "IHG",
+  "location": "Australia",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ihg/jobs/portfolio-revenue-manager-australia",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Interoperability Architect",
+  "company": "Aptive",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/aptive/jobs/senior-interoperability-architect",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Azure Platform Engineer || Offshore",
+  "company": "Zensar",
+  "location": "India",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/zensar/jobs/azure-platform-engineer-offshore",
+  "reason": "location restricted: India"
+ },
+ {
+  "title": "Cribl / Splunk Engineer",
+  "company": "Valiant Solutions",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/valiant-solutions/jobs/cribl-splunk-engineer",
+  "reason": "security clearance"
+ },
+ {
+  "title": "ServiceNow Developer",
+  "company": "Steampunk",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/steampunk/jobs/servicenow-developer",
+  "reason": "security clearance"
+ },
+ {
+  "title": "Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)",
+  "company": "Yelp, Inc",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/yelp-inc/jobs/retention-restaurant-support-specialist-saas-sales-remote-us",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote --- Automotive Customer Service Representative",
+  "company": "Teleperformance",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/remote-automotive-customer-service-representative",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Global Talent Attraction Content Strategist",
+  "company": "Ford",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ford/jobs/global-talent-attraction-content-strategist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Application Administrator",
+  "company": "Consilio LLC",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/consilio-llc/jobs/application-administrator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Mission Finding Specialist | Spanish | United States | Part-Time",
+  "company": "The Church of Jesus Christ of Latter-day Saints",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/mission-finding-specialist-spanish-united-states-part-time",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "VP, Finance ERP Implementation & Systems",
+  "company": "EagleBank",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/eaglebank/jobs/vp-finance-erp-implementation-systems",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Semi-Senior QA Engineer (Manual & Automation)",
+  "company": "Cloudnonic Corp",
+  "location": "Colombia",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/cloudnonic-corp/jobs/semi-senior-qa-engineer-manual-automation",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Marketing Operations Specialist- Hybrid",
+  "company": "Basement Kings USA",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/basement-kings-usa/jobs/marketing-operations-specialist-hybrid",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "KNOWLEDGE CENTER TEAM LEAD",
+  "company": "Empower AI Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/empower-ai-inc/jobs/knowledge-center-team-lead",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Founding Software Engineer, Skunkworks",
+  "company": "AIT Worldwide Logistics",
+  "location": "Israel",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ait-worldwide-logistics/jobs/founding-software-engineer-skunkworks",
+  "reason": "location not worldwide: Israel"
+ },
+ {
+  "title": "WC Regional Manager, Claims (Remote - Residency in Western States)",
+  "company": "AF Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/af-group/jobs/wc-regional-manager-claims-remote-residency-in-western-states",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Accounts Payable Coordinator",
+  "company": "eClerx",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/eclerx/jobs/accounts-payable-coordinator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Transmission Line Project Manager - REMOTE",
+  "company": "WSP Africa",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wsp-africa/jobs/senior-transmission-line-project-manager-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Office Learning & Development Manager",
+  "company": "CooperCompanies",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/coopercompanies-com/jobs/office-learning-development-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Principal Security Engineer",
+  "company": "Valiant Solutions",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/valiant-solutions/jobs/principal-security-engineer-2505230557",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Real Estate Administrator - US Based Remote",
+  "company": "Anywhere Real Estate Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/real-estate-administrator-us-based-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "DRG Trainer",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/drg-trainer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Open Science professional/Scientist",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/open-science-professional-scientist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Director Product Management",
+  "company": "Cotiviti",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/cotiviti/jobs/senior-director-product-management",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Full Stack Engineer",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/senior-full-stack-engineer",
+  "reason": "requires US citizenship"
+ },
+ {
+  "title": "Senior Manager - Data Analyst for Medical Health Claims",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/senior-manager-data-analyst-for-medical-health-claims",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Public Relations Professional | Europe North Area | Full Time (40 Hours) | Perma",
+  "company": "The Church of Jesus Christ of Latter-day Saints",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/public-relations-professional-europe-north-area-full-time-40-hours-perma",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Consultant, Transaction Advisory Services",
+  "company": "Wipfli",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wipfli/jobs/senior-consultant-transaction-advisory-services",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Principal Engineer, Solutions Architecture",
+  "company": "dell",
+  "location": "Singapore",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/dell/jobs/principal-engineer-solutions-architecture-3959397292",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Staff Accountant 1",
+  "company": "GPM Investments, LLC",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/gpm-investments-llc/jobs/staff-accountant-1",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Cartus - Consultant EVIP Relocation - US Based Remote",
+  "company": "Anywhere Real Estate Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/cartus-consultant-evip-relocation-us-based-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Payment Integrity Subject Matter Expert - Inpatient/Outpatient",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/payment-integrity-subject-matter-expert-inpatient-outpatient",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Fraud Investigations Manager",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/fraud-investigations-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Digital Experience Engineer (Web Development) \u2013 Military OneSource",
+  "company": "DecisionPoint Corporation",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/digital-experience-engineer-web-development-military-onesource",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Customer Service Specialist - Remote",
+  "company": "Teleperformance",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/customer-service-specialist-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Accountant | Remote",
+  "company": "OperationsArmy",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/operationsarmy/jobs/senior-accountant-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Teleradiologist - Physician - PRN Employment - INTEGRIS Health Southwest Medical",
+  "company": "INTEGRIS Health",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/integrisok/jobs/teleradiologist-physician-prn-employment-integris-health-southwest-medical",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Benefit Programs Specialist II (Albemarle)",
+  "company": "Virginia.gov",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/virginia-gov/jobs/benefit-programs-specialist-ii-albemarle",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Examiners - Health (Mental Health)",
+  "company": "NCFE",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ncfe/jobs/examiners-health-mental-health",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "System Administrator \u2013 SME (Cloud, Hybrid)",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/system-administrator-sme-cloud-hybrid",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Property & Casualty Licensed Insurance Representative - Non-Sales",
+  "company": "Teleperformance",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/remote-property-casualty-licensed-insurance-representative-non-sales",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Growth and Business Development Lead",
+  "company": "Quad",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/bequad/jobs/growth-and-business-development-lead",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Moderators - Care of Children and Young People",
+  "company": "NCFE",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ncfe/jobs/moderators-care-of-children-and-young-people",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Prin Mechanical Engineer (SRM - Thermal Analyst) (Remote Option Available)",
+  "company": "General Dynamics - Ordnance and Tactical Systems (AR,ME,N...",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/general-dynamics-ordnance-and-tactical-systems-ar-me-n/jobs/prin-mechanical-engineer-srm-thermal-analyst-remote-option-available",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Global Account Director (Supply Chain Solutions)",
+  "company": "Kinaxis",
+  "location": "Canada",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kinaxis/jobs/global-account-director-supply-chain-solutions",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Marketing Representative - Eastern Alliance",
+  "company": "ProAssurance",
+  "location": "Georgia",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/proassurance/jobs/senior-marketing-representative-eastern-alliance",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Medical Science Liaison - Movement Disorders",
+  "company": "Praxis Precision Medicines",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/praxis-precision-medicines/jobs/senior-medical-science-liaison-movement-disorders-5635231821",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "In-Home Health - Physician (Part Time)- Hartford, CT",
+  "company": "Lifelancer",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-health-physician-part-time-hartford-ct",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Agentic Audio Specialist - Freelance AI Trainer Project",
+  "company": "Invisible Technologies",
+  "location": "Worldwide",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/inv/jobs/agentic-audio-specialist-freelance-ai-trainer-project",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Legal Advisor",
+  "company": "IntellectEU",
+  "location": "Ukraine",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/intellecteu/jobs/legal-advisor",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Functional Specialist",
+  "company": "NetImpact Strategies",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/netimpact-strategies/jobs/senior-functional-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "OpenSesame",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/opensesame/jobs/sales-development-representative-6547929420",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Director of GTM, Partnerships",
+  "company": "Power Digital Marketing",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/power-digital-marketing/jobs/director-of-gtm-partnerships",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Health Insurance/ERISA Litigation Attorneys",
+  "company": "Gordon Rees Scully Mansukhani, LLP",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/gordon-rees-scully-mansukhani-llp/jobs/health-insurance-erisa-litigation-attorneys",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "*Enterprise Account Executive - Data Centers",
+  "company": "Buildots",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/buildots/jobs/enterprise-account-executive-data-centers",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Head of Platforms",
+  "company": "Thatch",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/thatch/jobs/head-of-platforms",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "AI Infrastructure Credit Research Analyst",
+  "company": "SemiAnalysis",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/semianalysis/jobs/ai-infrastructure-credit-research-analyst",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Automation Engineer - n8n",
+  "company": "Huzzle",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/huzzle/jobs/automation-engineer-n8n",
+  "reason": "location restricted: United Kingdom"
+ },
+ {
+  "title": "Programs Business Development Manager - Specialty Insurance (remote US)",
+  "company": "AF Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/af-group/jobs/programs-business-development-manager-specialty-insurance-remote-us",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Teleradiologist- Emergency",
+  "company": "HealthTrust Workforce Solutions",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/healthtrust-workforce-solutions/jobs/teleradiologist-emergency",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "TECH001: HR Information System (HRIS) Stack Owner",
+  "company": "JerseySTEM",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/jerseystem/jobs/tech001-hr-information-system-hris-stack-owner",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Quality Analyst - Diagnosis-Related Group (DRG), Healthcare",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/quality-analyst-diagnosis-related-group-drg-healthcare",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Operations Manager",
+  "company": "ScaleJet",
+  "location": "Croatia",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/scalejet/jobs/senior-operations-manager-1111249009",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "XTN-FDC7841 | RENEWALS MANAGER",
+  "company": "KMC Solutions Inc",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-fdc7841-renewals-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "XTN-28A4286 | BILLING & COLLECTIONS MANAGER",
+  "company": "KMC Solutions Inc",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-28a4286-billing-collections-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Lead Electrical Engineer - 765kV EHV Substation Design",
+  "company": "SolveNow, Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/solvenow-inc/jobs/lead-electrical-engineer-765kv-ehv-substation-design-3517997830",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Specialist Social Media Manager - RecruitEase",
+  "company": "Taraki",
+  "location": "Pakistan",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/taraki/jobs/specialist-social-media-manager-recruitease",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "US Payroll Specialist",
+  "company": "eClerx",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/eclerx/jobs/us-payroll-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Account Executive - Enterprise SaaS Solutions",
+  "company": "The Fedcap Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-fedcap-group/jobs/senior-account-executive-enterprise-saas-solutions-9735212826",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Quality Engineer",
+  "company": "MindPlus (Pvt) Ltd",
+  "location": "Sri Lanka",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/mindplus-pvt-ltd/jobs/senior-quality-engineer",
+  "reason": "location not worldwide: Sri Lanka"
+ },
+ {
+  "title": "Full Stack Developer \u2013 Java / Spring Boot / Angular Job Ref. (X94X7WW3)",
+  "company": "Oben Technology",
+  "location": "Romania",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/oben-technology/jobs/full-stack-developer-java-spring-boot-angular-job-ref-x94x7ww3",
+  "reason": "location not worldwide: Romania"
+ },
+ {
+  "title": "Trust & Company Administrator",
+  "company": "Ruth Maskell Recruitment",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ruth-maskell-recruitment/jobs/trust-company-administrator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote --- Customer Service Representative",
+  "company": "Teleperformance",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/remote-customer-service-representative-4779110113",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Sr. Manager, Pricing and Deal Desk",
+  "company": "KLDiscovery",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kldiscovery/jobs/sr-manager-pricing-and-deal-desk",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Epic Products Analyst",
+  "company": "Baptist Health",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/baptisthealthal/jobs/epic-products-analyst-6746402850",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Healthcare Sales - Remote",
+  "company": "Teleperformance",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/healthcare-sales-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior System Architect",
+  "company": "Caliberly",
+  "location": "United Arab Emirates",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/caliberly/jobs/senior-system-architect",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "AI Engineer",
+  "company": "Services For The Underserved, Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/services-for-the-underserved-inc/jobs/ai-engineer",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Independent Numeracy Curriculum Specialist - Australia Fiji Education Fiji Progr",
+  "company": "Abt Global",
+  "location": "Fiji",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/abt-global/jobs/independent-numeracy-curriculum-specialist-australia-fiji-education-fiji-progr",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Full Stack Software Engineer",
+  "company": "Crum & Forster",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/crum-forster/jobs/full-stack-software-engineer",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Customer Service Expert",
+  "company": "micro1",
+  "location": "Worldwide",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/micro1/jobs/customer-service-expert",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Hearing Screen Market Manager (East Division)",
+  "company": "Pediatrix",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/pediatrix/jobs/hearing-screen-market-manager-east-division",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Lead Data Engineer",
+  "company": "GATX",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/gatx/jobs/lead-data-engineer",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Technical Services Engineer",
+  "company": "HealthEdge",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/healthedge/jobs/technical-services-engineer",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Medical Coder (Inpatient)",
+  "company": "Aptive",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/aptive/jobs/medical-coder-inpatient",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Talent Acquisition Recruiter",
+  "company": "Goldbelt",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/goldbelt/jobs/talent-acquisition-recruiter",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "SPANISH SPEAKERS - Work AT HOME Customer Support Specialist",
+  "company": "Teleperformance",
+  "location": "Romania",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/spanish-speakers-work-at-home-customer-support-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Subject Matter Expert - Medicare Administrative Contractors (MACs)",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/subject-matter-expert-medicare-administrative-contractors-macs",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Virtual Diagnostic Assistant",
+  "company": "Penske",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/penske/jobs/virtual-diagnostic-assistant",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior HVAC Engineer 2 - Nuclear",
+  "company": "Sargent & Lundy",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/sargent-lundy/jobs/senior-hvac-engineer-2-nuclear",
+  "reason": "location restricted: United States; no sponsorship"
+ },
+ {
+  "title": "Auditor Clinical Validation Outpatient Specialty Clinical",
+  "company": "Cotiviti",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/cotiviti/jobs/auditor-clinical-validation-outpatient-specialty-clinical-9734956115",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Product Sales Specialist, AI Data Platform",
+  "company": "dell",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/dell/jobs/product-sales-specialist-ai-data-platform",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "AWS Cloud Security Engineer",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/aws-cloud-security-engineer-7948006673",
+  "reason": "requires US citizenship"
+ },
+ {
+  "title": "WC Regional Manager, Claims (Remote - Residency in Western States)",
+  "company": "Blue Cross Blue Shield of Michigan",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/blue-cross-blue-shield-of-michigan/jobs/wc-regional-manager-claims-remote-residency-in-western-states",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Databricks Engineers",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/senior-databricks-engineers",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Digital Media Advisor",
+  "company": "CDS Global",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/cds-global/jobs/digital-media-advisor-9960564157",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Service Level Agreement (SLA) Specialist",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/service-level-agreement-sla-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Performance Test Engineer",
+  "company": "Yum! Brands",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/yum-brands/jobs/performance-test-engineer",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Growth Marketing Director - remote opportunity",
+  "company": "Tivity Health",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/tivity-health/jobs/growth-marketing-director-remote-opportunity",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Power Distribution Engineer",
+  "company": "Leidos",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/leidos/jobs/senior-power-distribution-engineer",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Scrum Master (Information Technology/Software/Remote)",
+  "company": "Black Pen Recruitment",
+  "location": "Albania",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/black-pen-recruitment/jobs/scrum-master-information-technology-software-remote-5947708981",
+  "reason": "location not worldwide: Albania"
+ },
+ {
+  "title": "Coordinator - FT",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/coordinator-ft-5135886946",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Medical Coder/Professional Fee Coder - Inpatient",
+  "company": "Aptive",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/aptive/jobs/medical-coder-professional-fee-coder-inpatient",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Clinical Director - Behavioral Health (Consulting) - Nashville, TN",
   "company": "The Wilkinson Firm",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/federal-capture-director-contract-bethesda-md",
+  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/clinical-director-behavioral-health-consulting-nashville-tn",
   "reason": "not an engineering title"
+ },
+ {
+  "title": "Vice President & General Counsel",
+  "company": "SSOE Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ssoe-group/jobs/vice-president-general-counsel",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Revenue Cycle Specialist",
+  "company": "Cotiviti",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/cotiviti/jobs/senior-revenue-cycle-specialist-4511519983",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Clinical Research Associate II - Sponsor dedicated - Belgium - Home based (m/w/d",
+  "company": "IQVIA",
+  "location": "Belgium",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/iqvia/jobs/clinical-research-associate-ii-sponsor-dedicated-belgium-home-based-m-w-d",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "RFP Specialist",
+  "company": "KLDiscovery",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kldiscovery/jobs/rfp-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Manager, Communications & Community Engagement",
+  "company": "Fujifilm",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/fujifilm/jobs/senior-manager-communications-community-engagement",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "1025 - 340RAN | Sr. Marketing Operations Specialist",
+  "company": "TalentCross",
+  "location": "Worldwide",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/talentcross/jobs/1025-340ran-sr-marketing-operations-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Vacation Experience Designer",
+  "company": "Triglidetravel",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/triglidetravel/jobs/remote-vacation-experience-designer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Client Loyalty Specialist",
+  "company": "National Debt Relief, LLC.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/national-debt-relief-llc/jobs/client-loyalty-specialist-4440290958",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Account Manager - Airlines",
+  "company": "Forward Air Corp.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/forward-air-corp/jobs/account-manager-airlines",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Information Security Consultant",
+  "company": "Dautom",
+  "location": "United Arab Emirates",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/dautom/jobs/senior-information-security-consultant",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Global Vice President, Enterprise Accounts",
+  "company": "Allied Universal",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/allied-universal/jobs/global-vice-president-enterprise-accounts",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Transmission Line Engineering Consultant 2 - Grid",
+  "company": "Sargent & Lundy",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/sargent-lundy/jobs/transmission-line-engineering-consultant-2-grid-1199876558",
+  "reason": "location restricted: United States; no sponsorship"
+ },
+ {
+  "title": "Learning and Development Consultant",
+  "company": "Penske",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/penske/jobs/learning-and-development-consultant",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Director of Proposal Development (Contract) - Remote",
+  "company": "The Wilkinson Firm",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/director-of-proposal-development-contract-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Account Executive - SaaS Solutions",
+  "company": "The Fedcap Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-fedcap-group/jobs/account-executive-saas-solutions",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Data Entry",
+  "company": "Applied Systems",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/applied-systems/jobs/remote-data-entry",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Grant Writer (Contingency Contract) - Remote",
+  "company": "The Wilkinson Firm",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/grant-writer-contingency-contract-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "3RD PARTY CLAIMS PROCESSING SUPERVISOR",
+  "company": "BrightSpring Health Services",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/brightspring-health-services/jobs/3rd-party-claims-processing-supervisor",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Grants Financial Analyst",
+  "company": "Carle Health",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/carlehealth/jobs/grants-financial-analyst",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Care Coordinator",
+  "company": "WEB-TPA, Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/web-tpa-inc/jobs/care-coordinator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Principal Solution Sales Executive",
+  "company": "Connection",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/connection/jobs/principal-solution-sales-executive",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Billing Specialist - Remote",
+  "company": "Acadia Healthcare",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/acadia-healthcare/jobs/billing-specialist-remote-2347094341",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Client Services Pharmacy Support Analyst",
+  "company": "Capital Blue Cross",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/capital-blue-cross/jobs/client-services-pharmacy-support-analyst",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Technical Product Manager II - Platform Engineering",
+  "company": "Delta Dental",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/deltadentalins/jobs/technical-product-manager-ii-platform-engineering",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Franchise Business Consultant \u2013 Northern California",
+  "company": "Wingstop Restaurants Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wingstop-restaurants-inc/jobs/franchise-business-consultant-northern-california",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Short-Form Video Creator (Performance Contract) - Remote",
+  "company": "The Wilkinson Firm",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/short-form-video-creator-performance-contract-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Planning Coordinator",
+  "company": "Nexoratalent",
+  "location": "Colombia",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nexoratalent/jobs/planning-coordinator-7514740023",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Travel Experience Curator",
+  "company": "Triglidetravel",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/triglidetravel/jobs/remote-travel-experience-curator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "GRC Lead \u2014 Governance, Risk & Compliance (Cybersecurity)",
+  "company": "Be | Shaping the Future",
+  "location": "Romania",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/be-shaping-the-future/jobs/grc-lead-governance-risk-compliance-cybersecurity",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Consultant - Regulatory",
+  "company": "Lumanity",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/lumanity/jobs/senior-consultant-regulatory",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Medical Assistant",
+  "company": "Phoenix Healthcare Services, Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/phoenix-healthcare-services-inc/jobs/remote-medical-assistant",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Lawyer",
+  "company": "micro1",
+  "location": "Worldwide",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/micro1/jobs/lawyer-8317315362",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "TIER I SERVICE DESK AGENT (JUNIOR, EXTENDED HOURS)",
+  "company": "Empower AI Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/empower-ai-inc/jobs/tier-i-service-desk-agent-junior-extended-hours",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Java Full Stack Developer -Spring/Angular/Micro services Architecture",
+  "company": "Quagmire IT Services LLP",
+  "location": "India",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/quagmire-it-services-llp/jobs/java-full-stack-developer-spring-angular-micro-services-architecture",
+  "reason": "location restricted: India"
+ },
+ {
+  "title": "Information Security Spec II",
+  "company": "Bio-Rad Laboratories",
+  "location": "Worldwide",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/bio-rad-laboratories/jobs/information-security-spec-ii",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Director, Product Marketing",
+  "company": "Rain Bird",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/rain-bird/jobs/director-product-marketing",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Technology Consultant - ETL and Data Integration",
+  "company": "Kinaxis",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kinaxis/jobs/senior-technology-consultant-etl-and-data-integration",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Head of Engineering \u2014 Insurance & Investments",
+  "company": "TheHiveCareers",
+  "location": "Virgin Islands, British",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/thehivecareers/jobs/head-of-engineering-insurance-investments-9069205356",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Lead UX Designer",
+  "company": "Consilio LLC",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/consilio-llc/jobs/lead-ux-designer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Director, AI Program Management, OS, System & Data",
+  "company": "Ford",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ford/jobs/director-ai-program-management-os-system-data",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Designer",
+  "company": "Omega Technical Services",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/omega-technical-services/jobs/designer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Junior Subrogation Specialist",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/junior-subrogation-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Cloud Infrastructure",
+  "company": "Siegen HR Solutions, Inc.",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/siegen-hr-solutions-inc/jobs/cloud-infrastructure",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Program Manager",
+  "company": "Artemis ARC",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/artemis-arc/jobs/program-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Content Writer",
+  "company": "Plutus21",
+  "location": "Pakistan",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/plutus21/jobs/content-writer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Customer Service Coordinator",
+  "company": "Nexoratalent",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nexoratalent/jobs/customer-service-coordinator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Patient Services Specialist - Patient Engagement - Full time, Variable, Remote",
+  "company": "Providence",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/providence/jobs/patient-services-specialist-patient-engagement-full-time-variable-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Outsourced Accounting Senior Accountant-Senor Living/Home Health",
+  "company": "Wipfli",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wipfli/jobs/outsourced-accounting-senior-accountant-senor-living-home-health",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Pharmacist - Medical Information Specialist (French)",
+  "company": "Med Communications International",
+  "location": "Tunisia",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/med-communications-international/jobs/pharmacist-medical-information-specialist-french-966315436",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Cybersecurity Manager",
+  "company": "Wood",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wood/jobs/cybersecurity-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Data Platform Engineer",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/senior-data-platform-engineer",
+  "reason": "requires US citizenship"
+ },
+ {
+  "title": "Assistant Vice President",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/assistant-vice-president",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Culture & Engagement Officer",
+  "company": "MR DIY Philippines",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/mr-diy-philippines/jobs/culture-engagement-officer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Disability Quality Analyst",
+  "company": "MRO Corp",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/mro-corp/jobs/disability-quality-analyst",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Advisory | Accounting | Audit | Tax | Payroll",
+  "company": "ITC WORLDWIDE",
+  "location": "Italy, Malta",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/itc-worldwide/jobs/advisory-accounting-audit-tax-payroll-2737488936",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "SAP BW/4HANA Consultants",
+  "company": "Jobskey Consultancy",
+  "location": "India",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/jobskeyconsultancy/jobs/sap-bw-4hana-consultants",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Product Description Acquisition Specialist - 12 month fixed term contract",
+  "company": "Kingfisher",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kingfisher/jobs/product-description-acquisition-specialist-12-month-fixed-term-contract",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "WC&D Principal Engineer (Salwick Preston, GB)",
+  "company": "Westinghouse Electric Company",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/westinghouse-electric-company/jobs/wc-d-principal-engineer-salwick-preston-gb",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Chief Strategy Officer",
+  "company": "TheHiveCareers",
+  "location": "Bahamas",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/thehivecareers/jobs/chief-strategy-officer-4266216896",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Consultant Organizational Change Management",
+  "company": "Argano",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/argano/jobs/senior-consultant-organizational-change-management",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Regional Business Development Manager, Tax Channel",
+  "company": "Cetera",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/cetera/jobs/regional-business-development-manager-tax-channel",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Program and Policy Consultant-Medicaid",
+  "company": "BerryDunn",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/berrydunn/jobs/senior-program-and-policy-consultant-medicaid-8033797527",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Service Engineer II IS - Remote",
+  "company": "Providence",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/providence/jobs/service-engineer-ii-is-remote",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Remote Social Media Manager / Content Creator",
+  "company": "Evolution Sports Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-social-media-manager-content-creator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Beauty Consultant / Product Sales Advisor",
+  "company": "Evolution Sports Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-beauty-consultant-product-sales-advisor",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Delivery Manager",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/senior-delivery-manager-3845256531",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Medical Sales Representative_Remote",
+  "company": "Leading Edge",
+  "location": "Pakistan",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/leading-edge/jobs/medical-sales-representative_remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Chief Marketing Officer - Leading Tech Company",
+  "company": "Kate Worthington",
+  "location": "Thailand",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kate-worthington/jobs/chief-marketing-officer-leading-tech-company",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Full Stack Developer",
+  "company": "Volume7",
+  "location": "Canada",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/volume7/jobs/full-stack-developer",
+  "reason": "location restricted: Canada"
+ },
+ {
+  "title": "Donor Resource Coordinator",
+  "company": "Gift of Hope",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/gift-of-hope/jobs/donor-resource-coordinator-9781793360",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Lead Cloud Engineer - Infrastructure\u200b (Azure) - WFH",
+  "company": "TASQ Staffing Solutions",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-cloud-engineer-infrastructure-azure-wfh",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Senior Product Manager - Multiline (Remote US Residency)",
+  "company": "Blue Cross Blue Shield of Michigan",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/blue-cross-blue-shield-of-michigan/jobs/senior-product-manager-multiline-remote-us-residency",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "UX Analyst - AI Enabled Designer",
+  "company": "Peraton",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/peraton/jobs/ux-analyst-ai-enabled-designer",
+  "reason": "title excluded (seniority or role type)"
+ },
+ {
+  "title": "Triage Specialist | Remote",
+  "company": "OperationsArmy",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/operationsarmy/jobs/triage-specialist-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Production Editor",
+  "company": "iCrossing",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/icrossing/jobs/production-editor",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote - Registered Nurse - Utilization Review Coordinator RN - FlexStaff - $62",
+  "company": "Northwell FlexStaff Inc.",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/northwell-flexstaff-inc/jobs/remote-registered-nurse-utilization-review-coordinator-rn-flexstaff-62",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Remote Admissions Assistant / Enrollment Coordinator",
+  "company": "Evolution Sports Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-admissions-assistant-enrollment-coordinator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Payment Integrity Concept Development SME",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/payment-integrity-concept-development-sme",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Associate 2- RMS - Offshore - RMAI Other",
+  "company": "KPMG Australia",
+  "location": "India",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/kpmg-australia/jobs/senior-associate-2-rms-offshore-rmai-other",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Data Entry Assistant / Entry level - Remote -United States",
+  "company": "Applied Systems",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/applied-systems/jobs/data-entry-assistant-entry-level-remote-united-states",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "AVP-Solution Architect",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/avp-solution-architect",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Permanent WFH AWS Architect",
+  "company": "Jobskey Consultancy",
+  "location": "India",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/jobskeyconsultancy/jobs/permanent-wfh-aws-architect",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "HR Transformation Project Manager",
+  "company": "Q2 HR Solutions - Group of Companies",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/q2-hr-solutions-group-of-companies/jobs/hr-transformation-project-manager",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Transmission Line Engineer (Rocky Mountain) - Remote",
+  "company": "WSP Africa",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wsp-africa/jobs/senior-transmission-line-engineer-rocky-mountain-remote",
+  "reason": "location restricted: United States"
+ },
+ {
+  "title": "Online Fitness Instructor / Health Program Coordinator",
+  "company": "Evolution Sports Group",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/online-fitness-instructor-health-program-coordinator",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Facilities Assessment Consultant - Architectural (East, US)",
+  "company": "Fortive",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/fortive/jobs/facilities-assessment-consultant-architectural-east-us",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Examiners - Health (Supporting the Care of Children and Young People)",
+  "company": "NCFE",
+  "location": "United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/ncfe/jobs/examiners-health-supporting-the-care-of-children-and-young-people",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Azure DevOps Engineer - Remote",
+  "company": "TASQ Staffing Solutions",
+  "location": "Philippines",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/senior-azure-devops-engineer-remote",
+  "reason": "location restricted: Philippines"
+ },
+ {
+  "title": "Senior Complex Casualty Claims Resolution Specialist - Northwest Region",
+  "company": "Liberty Mutual",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/liberty-mutual/jobs/senior-complex-casualty-claims-resolution-specialist-northwest-region",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Service Delivery Engineer",
+  "company": "dell",
+  "location": "India",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/dell/jobs/service-delivery-engineer",
+  "reason": "location restricted: India"
+ },
+ {
+  "title": "Premium Insurance Auditor - Remote",
+  "company": "EXL",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/exl/jobs/premium-insurance-auditor-remote",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Supervisor, Credit Bureau Reporting and Corrections",
+  "company": "Carrington",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/carringtonwholesale/jobs/supervisor-credit-bureau-reporting-and-corrections",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Client Support Specialist",
+  "company": "Nexoratalent",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nexoratalent/jobs/client-support-specialist",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Network Automation Engineer / Consultant (m/w/d) - Remote, modern, menschlich \u2013",
+  "company": "nscon network, security & consulting gmbh",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nscon-network-security-consulting-gmbh/jobs/network-automation-engineer-consultant-m-w-d-remote-modern-menschlich-4236366147",
+  "reason": "location restricted: Germany"
+ },
+ {
+  "title": "Web Developer (m/w/d)",
+  "company": "UPSTART",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/upstart-co/jobs/web-developer-m-w-d-9646449450",
+  "reason": "location restricted: Germany"
+ },
+ {
+  "title": "Innovation Manager (m/w/d)",
+  "company": "UPSTART",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/upstart-co/jobs/innovation-manager-m-w-d-3332013595",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "(Senior) Network Engineer / Consultant (m/w/d) - Remote | Projekte, die dich wir",
+  "company": "nscon network, security & consulting gmbh",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nscon-network-security-consulting-gmbh/jobs/senior-network-engineer-consultant-m-w-d-remote-projekte-die-dich-wir-5766605317",
+  "reason": "location restricted: Germany"
+ },
+ {
+  "title": "(Senior) DevOps Engineer / Consultant - Infrastructure, Network & Security (m/w/",
+  "company": "nscon network, security & consulting gmbh",
+  "location": "Austria, Germany, Switzerland",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nscon-network-security-consulting-gmbh/jobs/senior-devops-engineer-consultant-infrastructure-network-security-m-w",
+  "reason": "location restricted: Austria, Germany, Switzerland"
+ },
+ {
+  "title": "Software Engineer - Workflow Automation (m/w/d)",
+  "company": "envite consulting GmbH",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/envite-consulting-gmbh/jobs/software-engineer-workflow-automation-m-w-d-39055836",
+  "reason": "location restricted: Germany"
+ },
+ {
+  "title": "SDET team lead",
+  "company": "Valce Talent Solutions",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-team-lead",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Scrum Master",
+  "company": "Valce Talent Solutions",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/scrum-master",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "General Manager - India (Forex/CFD)",
+  "company": "David Kennedy Recruitment",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/david-kennedy-recruitment/jobs/general-manager-india-forex-cfd",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Business Development Manager (LatAm)",
+  "company": "SOFTSWISS",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/softswiss/jobs/business-development-manager-latam",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Initiativbewerbung (Festanstellung)",
+  "company": "DEKOM GmbH",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/dekom-gmbh/jobs/initiativbewerbung-festanstellung-3636965429",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Product Development Manager - AdTech",
+  "company": "TradeTracker",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/tradetracker/jobs/product-development-manager-adtech-3825709086",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Initiativbewerbung bei stp.one",
+  "company": "stp.one",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/stp-one/jobs/initiativbewerbung-bei-stp-one-9682787199",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Ruby Developer mit Gaming-Interesse (m/w/d)",
+  "company": "Nitrado",
+  "location": "Germany",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/nitrado/jobs/ruby-developer-mit-gaming-interesse-m-w-d-1986400659",
+  "reason": "location restricted: Germany"
  },
  {
   "title": "Technicien de service (h/f/x)",
@@ -1392,1827 +3024,259 @@
   "reason": "not an engineering title"
  },
  {
-  "title": "Training Consultant",
-  "company": "Foreground LLC",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/foreground-llc/jobs/training-consultant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Microsoft Azure Cloud Developer",
-  "company": "Planned Systems International",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/planned-systems-international/jobs/microsoft-azure-cloud-developer",
-  "reason": "security clearance"
- },
- {
-  "title": "Temporary Designer, Delish",
-  "company": "CDS Global",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/cds-global/jobs/temporary-designer-delish",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Medical Biller and Coding Specialist",
-  "company": "Elevate Calls Inc.",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/elevate-calls-inc/jobs/medical-biller-and-coding-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Customer Service Rep I (Part Time)",
-  "company": "WEB-TPA, Inc.",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/web-tpa-inc/jobs/customer-service-rep-i-part-time",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Technical Services Engineer",
-  "company": "HealthEdge",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/healthedge/jobs/senior-technical-services-engineer",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Care Manager RN",
-  "company": "Blue Cross Blue Shield of Michigan",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/blue-cross-blue-shield-of-michigan/jobs/care-manager-rn",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Federal Capture Director (Contract) - Savannah, GA",
-  "company": "The Wilkinson Firm",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/federal-capture-director-contract-savannah-ga",
-  "reason": "not an engineering title"
- },
- {
-  "title": "DevOps Engineer",
-  "company": "Dautom",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/dautom/jobs/devops-engineer",
-  "reason": "location restricted: India"
- },
- {
-  "title": "Manager Growth Marketing (Public Sector)",
-  "company": "Akamai Technologies",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/manager-growth-marketing-public-sector",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Hospitality Recruiter (Contract) - Atlanta, GA",
-  "company": "The Wilkinson Firm",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/hospitality-recruiter-contract-atlanta-ga",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Technical Program Manager II",
-  "company": "Akamai Technologies",
-  "location": "Mexico",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/technical-program-manager-ii-2144070803",
-  "reason": "not an engineering title"
- },
- {
-  "title": "TikTok Shop Growth Manager",
-  "company": "ScaleJet",
-  "location": "Nigeria",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/scalejet/jobs/tiktok-shop-growth-manager-6400517481",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Amazon Graphic Designer",
-  "company": "ScaleJet",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/scalejet/jobs/amazon-graphic-designer-1363809961",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Administrative Assistant",
-  "company": "Carboline",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/carboline/jobs/administrative-assistant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Advertising Technology & Privacy Attorney",
-  "company": "Gordon Rees Scully Mansukhani, LLP",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/gordon-rees-scully-mansukhani-llp/jobs/advertising-technology-privacy-attorney",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Property Lawyer (Contract/Remote)",
-  "company": "Arbor Law",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/arbor-law/jobs/senior-property-lawyer-contract-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Java Specialist",
-  "company": "Be | Shaping the Future",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/be-shaping-the-future/jobs/java-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Paid Media Specialist",
-  "company": "Benzinga",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/benzinga/jobs/paid-media-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Complex Casualty Claims Resolution Specialist - Central Region",
-  "company": "Liberty Mutual",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/liberty-mutual/jobs/senior-complex-casualty-claims-resolution-specialist-central-region",
-  "reason": "not an engineering title"
- },
- {
-  "title": "National Technical Training Manager",
-  "company": "Hoya Vision Care",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/hoya-vision-care/jobs/national-technical-training-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Cloud Engineer - WFH/Remote",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-cloud-engineer-wfh-remote",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Senior Consultant Azure, Power BI - Remote",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/senior-consultant-azure-power-bi-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Utilization Management Assistant - Utilization Management PT Night/Evenin",
-  "company": "Providence",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/providence/jobs/senior-utilization-management-assistant-utilization-management-pt-night-evenin",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Recruiter | Talent Acquisition Specialist | Recruitment Consultant",
-  "company": "Talent Bridge HR Consultancy Dubai",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/talent-bridge-hr-consultancy-dubai/jobs/recruiter-talent-acquisition-specialist-recruitment-consultant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Software Engineer",
-  "company": "AF Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/af-group/jobs/lead-software-engineer",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Senior Backend Infrastructure Engineer",
-  "company": "Akamai Technologies",
-  "location": "Israel",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-backend-infrastructure-engineer",
-  "reason": "location not worldwide: Israel"
- },
- {
-  "title": "Inside Sales Agent/Call Center - Remote",
-  "company": "NVISION Eye Centers",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nvision-eye-centers/jobs/inside-sales-agent-call-center-remote-1595353546",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote Travel Support Specialist",
-  "company": "Triglidetravel",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/triglidetravel/jobs/remote-travel-support-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "WFH opportunity | Lead DevOps/Cloud Engineer",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/wfh-opportunity-lead-devops-cloud-engineer",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Customer Acquisition Specialist (CAS)-Remote",
-  "company": "TheHiveCareers",
-  "location": "Virgin Islands, British",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/thehivecareers/jobs/customer-acquisition-specialist-cas-remote-8557898373",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Medical Coder (Outpatient)",
-  "company": "Aptive",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/aptive/jobs/medical-coder-outpatient",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Director, Claims Program Management, Property & Casualty, Remote",
-  "company": "Crum & Forster",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/crum-forster/jobs/director-claims-program-management-property-casualty-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Recruiting Coordinator - Bilingual Spanish",
-  "company": "TrueBlue",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/trueblue/jobs/recruiting-coordinator-bilingual-spanish",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Payroll Specialist II",
-  "company": "TrueBlue",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/trueblue/jobs/payroll-specialist-ii",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Tax Analyst- 18 months",
-  "company": "Akamai Technologies",
-  "location": "Poland",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-tax-analyst-18-months",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Business Development Exec Tech (Chicago, IL)",
-  "company": "Staples Canada",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/staples-canada/jobs/business-development-exec-tech-chicago-il",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Program Manager - Government Programs & Value-Based Care - Remote",
-  "company": "Molina Healthcare",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/molina-healthcare/jobs/program-manager-government-programs-value-based-care-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Application Consultant",
-  "company": "TheHiveCareers",
-  "location": "Barbados",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/thehivecareers/jobs/application-consultant-3296878555",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Customer Service Representative",
-  "company": "Answer Aide",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/answer-aide/jobs/customer-service-representative",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Director, Global Payroll",
-  "company": "StandardAero",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/standardaero/jobs/director-global-payroll",
-  "reason": "not an engineering title"
- },
- {
-  "title": "LEAD ANALYST, GLOBAL OPERATIONS (ITAM SAM & CMDB Lead Administrator)",
-  "company": "Qualfon",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/qualfon/jobs/lead-analyst-global-operations-itam-sam-cmdb-lead-administrator",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Examiners - Engineering",
-  "company": "NCFE",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ncfe/jobs/examiners-engineering",
-  "reason": "location restricted: United Kingdom"
- },
- {
-  "title": "IT Operations Support Analyst Tier 1",
-  "company": "Cellular Sales",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/cellular-sales/jobs/it-operations-support-analyst-tier-1-759059916",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Statistician",
-  "company": "Lumanity",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/lumanity/jobs/senior-statistician",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Devops Engineer - WFH/Remote",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/devops-engineer-wfh-remote",
-  "reason": "location restricted: Philippines"
- },
- {
-  "title": "AI Engineer (GenAI)",
-  "company": "Bridgenext",
-  "location": "Argentina",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/bridgenext/jobs/ai-engineer-genai",
-  "reason": "location restricted: Argentina"
- },
- {
-  "title": "DRG Quality Analyst IV - Healthcare",
-  "company": "EXL",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/exl/jobs/drg-quality-analyst-iv-healthcare",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Consultant - Data Architecture & Engineering (GDC) - Remote",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-consultant-data-architecture-engineering-gdc-remote-4658373952",
-  "reason": "location restricted: Philippines"
- },
- {
-  "title": "Virtual Esthetic Consultant / Product Sales Advisor",
-  "company": "Evolution Sports Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/virtual-esthetic-consultant-product-sales-advisor",
-  "reason": "not an engineering title"
- },
- {
-  "title": "AI Creative Designer (Marketing Team)",
-  "company": "BetterMe",
-  "location": "Ukraine",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/betterme/jobs/ai-creative-designer-marketing-team",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Informatica Common Services (ICS) Specialist",
-  "company": "Kreative Technologies",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/kreative-technologies/jobs/informatica-common-services-ics-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Representative, Sales Support",
-  "company": "ICU Medical",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/icu-medical/jobs/representative-sales-support",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Care Management Processor-Must reside in Iowa",
-  "company": "Molina Healthcare",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/molina-healthcare/jobs/care-management-processor-must-reside-in-iowa",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Business Development Representative-Consumer Packaged Goods",
-  "company": "TELUS",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/telus/jobs/business-development-representative-consumer-packaged-goods",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Contact Center Agent I",
-  "company": "Crawford & Company",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/crawford-company/jobs/contact-center-agent-i-335686734",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Full Stack Engineer",
-  "company": "Cherokee Federal",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/cherokee-federal/jobs/senior-full-stack-engineer",
-  "reason": "requires US citizenship"
- },
- {
-  "title": "Federal Account Executive (Contract) - Arlington, VA",
-  "company": "The Wilkinson Firm",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/federal-account-executive-contract-arlington-va",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Java Software Developer with French (25000L9P)",
-  "company": "Be | Shaping the Future",
-  "location": "Romania",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/be-shaping-the-future/jobs/java-software-developer-with-french-25000l9p",
-  "reason": "location not worldwide: Romania"
- },
- {
-  "title": "Ancillary Coder - Hospital",
-  "company": "Piedmont Healthcare",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/piedmont-healthcare/jobs/ancillary-coder-hospital",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Training Manager",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/training-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Software Engineer (Billing)",
-  "company": "AF Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/af-group/jobs/lead-software-engineer-billing",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Project Manager \u2013 Payment Integrity Quality Operations",
-  "company": "EXL",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/exl/jobs/project-manager-payment-integrity-quality-operations",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote E-Commerce Beauty Specialist / Order Support Agent",
-  "company": "Evolution Sports Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-e-commerce-beauty-specialist-order-support-agent",
-  "reason": "not an engineering title"
- },
- {
-  "title": "WFM Manager",
-  "company": "Teleperformance",
-  "location": "South Africa",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/wfm-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Project Administrator III",
-  "company": "Geosyntec Consultants",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/geosyntec-consultants/jobs/project-administrator-iii",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Bookkeeper",
-  "company": "Elevate Calls Inc.",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/elevate-calls-inc/jobs/bookkeeper",
-  "reason": "not an engineering title"
- },
- {
-  "title": "In-Home Physician Part Time - Newport News, VA",
-  "company": "Lifelancer",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-physician-part-time-newport-news-va",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Regional Sales Account Manager",
-  "company": "Hire Capacity",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/hire-capacity/jobs/regional-sales-account-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Director, Health Plan Provider Relations - Remote in Boise, ID",
-  "company": "Molina Healthcare",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/molina-healthcare/jobs/director-health-plan-provider-relations-remote-in-boise-id",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior TypeScript Full-Stack Engineer",
-  "company": "Caliberly",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/caliberly/jobs/senior-typescript-full-stack-engineer",
-  "reason": "location not worldwide: United Arab Emirates"
- },
- {
-  "title": "Document Controller (Marine/Offshore)",
-  "company": "Talent Titans Pte Ltd",
-  "location": "Singapore",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/talent-titans-pte-ltd/jobs/document-controller-marine-offshore",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Associate 1 - RMT",
-  "company": "KPMG Australia",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Healthcare Consultant",
-  "company": "BerryDunn",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/berrydunn/jobs/senior-healthcare-consultant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "WFM Real Time Analyst - English (Bangkok)",
-  "company": "Teleperformance",
-  "location": "Thailand",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/wfm-real-time-analyst-english-bangkok",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Sr. Java Developer",
-  "company": "Jobskey Consultancy",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/jobskeyconsultancy/jobs/sr-java-developer",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Construction Project Executive I - Wind",
-  "company": "Mortenson",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/mortenson/jobs/construction-project-executive-i-wind",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Consultant II, NetSuite Optimization",
-  "company": "Wipfli",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/wipfli/jobs/consultant-ii-netsuite-optimization",
-  "reason": "not an engineering title"
- },
- {
-  "title": "D365 Senior System Analyst",
-  "company": "Oregon Lottery",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/oregon-lottery/jobs/d365-senior-system-analyst",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Oncology Data Specialist",
-  "company": "Providence",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/providence/jobs/oncology-data-specialist-2932249389",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead UX Content Designer",
-  "company": "Consilio LLC",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/consilio-llc/jobs/lead-ux-content-designer",
-  "reason": "not an engineering title"
- },
- {
-  "title": "FDE Advisory AI Strategist",
-  "company": "dell",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/dell/jobs/fde-advisory-ai-strategist",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Remote Outreach Coordinator / Community Support Assistant",
-  "company": "Evolution Sports Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-outreach-coordinator-community-support-assistant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Director Product Management",
-  "company": "Akamai Technologies",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/director-product-management",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Application Consultant, Supply Chain Optimization",
-  "company": "Kinaxis",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/kinaxis/jobs/senior-application-consultant-supply-chain-optimization-565067465",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Analyst, Business Intelligence, MLD, II",
-  "company": "Carrington",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/carringtonms/jobs/analyst-business-intelligence-mld-ii",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Software Development Engineer in Test",
-  "company": "Akamai Technologies",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Examiners - Science",
-  "company": "NCFE",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ncfe/jobs/examiners-science",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Medical Transcriptionist / Medical Scribe",
-  "company": "Jobskey Consultancy",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/jobskeyconsultancy/jobs/medical-transcriptionist-medical-scribe",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Software Engineer",
-  "company": "Akamai Technologies",
-  "location": "Ireland",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-453965386",
-  "reason": "location restricted: Ireland"
- },
- {
-  "title": "Director of Operations",
-  "company": "MB2 Dental",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/mb2-dental/jobs/director-of-operations",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Inside Sales Representative",
-  "company": "MBC Talent Connections",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/mbc-talent-connections/jobs/inside-sales-representative",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Engagement Manager",
-  "company": "Tyto Athene",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tyto-athene/jobs/engagement-manager-8616775002",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Cybersecurity Analyst",
-  "company": "KLDiscovery",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/kldiscovery/jobs/cybersecurity-analyst",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Data Engineer",
-  "company": "Unravel Carbon Pte Ltd",
-  "location": "Malaysia",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/unravel-carbon-pte-ltd/jobs/senior-data-engineer-7527915417",
-  "reason": "location not worldwide: Malaysia"
- },
- {
-  "title": "Program Manager, Healthcare Services - Clinical Analytics/Pega/CCA - Remote",
-  "company": "Molina Healthcare",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/molina-healthcare/jobs/program-manager-healthcare-services-clinical-analytics-pega-cca-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Business Growth Champion - Rockstars Needed",
-  "company": "The Employee Connect",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-employee-connect/jobs/business-growth-champion-rockstars-needed",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Android Developer",
-  "company": "Sourceworx",
-  "location": "South Africa",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/sourceworx/jobs/senior-android-developer",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "AUTHORIZATION SPECIALIST",
-  "company": "BrightSpring Health Services",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/brightspring-health-services/jobs/authorization-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Site Reliability Engineer",
-  "company": "Akamai Technologies",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-site-reliability-engineer-3720683365",
-  "reason": "location restricted: India"
- },
- {
-  "title": "Portal Developer",
-  "company": "Dautom",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/dautom/jobs/portal-developer",
-  "reason": "location not worldwide: United Arab Emirates"
- },
- {
-  "title": "Cash & Vendor Reconciliation Specialist",
-  "company": "Bravo Global Staffing",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/bravo-global-staffing/jobs/cash-vendor-reconciliation-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Supply Chain Analyst II",
-  "company": "Akamai Technologies",
-  "location": "Poland",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/supply-chain-analyst-ii",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Vice President Data and AI Growth Partner, Strategic Accounts (Healthcare Payer)",
-  "company": "EXL",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/exl/jobs/vice-president-data-and-ai-growth-partner-strategic-accounts-healthcare-payer",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Sales Development Representative (HR Advisory) - Atlanta, GA",
-  "company": "The Wilkinson Firm",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/sales-development-representative-hr-advisory-atlanta-ga",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Bilingual Customer Care Rep - Virtual - 1st shift!",
-  "company": "SKYGEN",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/skygen/jobs/bilingual-customer-care-rep-virtual-1st-shift",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote Medical Billing Assistant / Care Scheduler",
-  "company": "Evolution Sports Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-medical-billing-assistant-care-scheduler",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Data Architecture & Engineering Lead Consultant (GDC) - remote, midshift",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/data-architecture-engineering-lead-consultant-gdc-remote-midshift",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Klantenservice Medewerker- 100% Home Office in Spanje",
-  "company": "Conduent",
-  "location": "Spain",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/conduent/jobs/klantenservice-medewerker-100-home-office-in-spanje-2053122859",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Consultant Data Architecture & Engineering (GDC) - WFH",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/senior-consultant-data-architecture-engineering-gdc-wfh-9079272463",
-  "reason": "location restricted: Philippines"
- },
- {
-  "title": "Product Owner Director\u2013 Underwriting & AI Innovation",
-  "company": "Majesco",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/majesco/jobs/product-owner-director-underwriting-ai-innovation",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Service Desk Analyst",
-  "company": "MRO Corp",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/mro-corp/jobs/service-desk-analyst",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Credentialing Specialist",
-  "company": "Elevate Calls Inc.",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/elevate-calls-inc/jobs/credentialing-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Federal Proposal Manager (Contract) - Arlington, VA",
-  "company": "The Wilkinson Firm",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/federal-proposal-manager-contract-arlington-va",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Azure DevOps Engineer | WFH",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-azure-devops-engineer-wfh-7072758098",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "JavaScript Developer",
-  "company": "Dautom",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/dautom/jobs/javascript-developer",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Remote Beauty Brand Social Media Manager / Content Creator",
-  "company": "Evolution Sports Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-beauty-brand-social-media-manager-content-creator",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Delivery Manager",
-  "company": "EXL",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/exl/jobs/delivery-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "US Finance & Accounting Manager",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/us-finance-accounting-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Employee Assistance Program (EAP) Consultant (Contract) - Charlotte, NC",
-  "company": "The Wilkinson Firm",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/employee-assistance-program-eap-consultant-contract-charlotte-nc",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Cloud Consultant - Business Intelligence",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-cloud-consultant-business-intelligence",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Global ERP Business Analyst",
-  "company": "Kemin",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/kemin/jobs/global-erp-business-analyst",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Software Engineer - Cyber Security",
-  "company": "Akamai Technologies",
-  "location": "Israel",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-cyber-security",
-  "reason": "location not worldwide: Israel"
- },
- {
-  "title": "Training and Development (Instructional Design Analyst)",
-  "company": "Siegen HR Solutions, Inc.",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/siegen-hr-solutions-inc/jobs/training-and-development-instructional-design-analyst",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Client Experience Specialist",
-  "company": "Nexoratalent",
-  "location": "Mexico",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nexoratalent/jobs/client-experience-specialist-8273399443",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Special Educational Needs And Disabilities",
-  "company": "iWork Recruitment",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/iwork-recruitment/jobs/special-educational-needs-and-disabilities",
-  "reason": "not an engineering title"
- },
- {
-  "title": "OFFSHORE OPERATIONS SUPPORT COORDINATOR",
-  "company": "NMDC Careers",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nmdc-careers/jobs/offshore-operations-support-coordinator",
-  "reason": "not an engineering title"
- },
- {
-  "title": "System Engineer",
-  "company": "MicroTech",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/microtech-net/jobs/system-engineer",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Senior Vice President, Disability & Leave",
-  "company": "Crawford & Company",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/crawford-company/jobs/senior-vice-president-disability-leave",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Outpatient Trainer",
-  "company": "EXL",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/exl/jobs/outpatient-trainer-778212642",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Customer Service Specialist",
-  "company": "Nexoratalent",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nexoratalent/jobs/customer-service-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Support Officer - Leaving Violence Program",
-  "company": "Telstra Health",
-  "location": "Australia",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/telstra-health/jobs/support-officer-leaving-violence-program",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Customer Success Specialist SaaS (m/w/d) Remote o. Hybrid, VZ/TZ",
-  "company": "DigitalCheckIn",
-  "location": "Germany",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/digitalcheckin/jobs/senior-customer-success-specialist-saas-m-w-d-remote-o-hybrid-vz-tz",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Especialista Funcional Odoo",
-  "company": "iCodde",
-  "location": "Colombia",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/icodde/jobs/especialista-funcional-odoo",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Customer Service Business Process Specialist (Mandarin Speaker)",
-  "company": "Binance",
-  "location": "Singapore",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/binance/jobs/customer-service-business-process-specialist-mandarin-speaker-6319791648",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Consultor Funcional Odoo",
-  "company": "iCodde",
-  "location": "Mexico",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/icodde/jobs/consultor-funcional-odoo",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Software Architect (L6)",
-  "company": "Twilio",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/twilio/jobs/software-architect-l6",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Copy Editor (US)",
-  "company": "Jewish News Syndicate",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/jewish-news-syndicate/jobs/copy-editor-us",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote Pediatric Therapist (Part-Time), Hawaii",
-  "company": "Hazel Health",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/hazel-health/jobs/remote-pediatric-therapist-part-time-hawaii",
-  "reason": "not an engineering title"
- },
- {
-  "title": "QA Engineer",
-  "company": "Workwize",
-  "location": "Netherlands",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/workwize/jobs/qa-engineer",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Economist",
-  "company": "SemiAnalysis",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/semianalysis/jobs/economist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Developer Relations Manager, AI Natives",
-  "company": "NVIDIA",
-  "location": "Sweden",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nvidia/jobs/developer-relations-manager-ai-natives-1061574597",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Expression of Interest (Australia)",
-  "company": "Gridsight",
-  "location": "Australia",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/gridsight/jobs/expression-of-interest-australia",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Sales Development Representative - AI Solutions",
-  "company": "Huzzle",
-  "location": "South Africa",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/huzzle/jobs/sales-development-representative-ai-solutions",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Senior SEO Specialist",
-  "company": "Huzzle",
-  "location": "South Africa",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/huzzle/jobs/senior-seo-specialist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Expression of Interest (United States)",
-  "company": "Gridsight",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/gridsight/jobs/expression-of-interest-united-states",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Architect - Development (WMS Development)",
-  "company": "Wesco",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/wesco/jobs/architect-development-wms-development",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Developer (WMS Development)",
-  "company": "Wesco",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/wesco/jobs/senior-developer-wms-development",
-  "reason": "location restricted: United States"
- },
- {
-  "title": "Senior Analyst - Location Master Data Digital",
-  "company": "Wesco",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/wesco/jobs/senior-analyst-location-master-data-digital",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote Audit Senior Manager (Digital Assets/Crypto/Exchange/Treasury/Blockchain)",
-  "company": "BDO USA",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/bdo-usa/jobs/remote-audit-senior-manager-digital-assets-crypto-exchange-treasury-blockchain",
-  "reason": "not an engineering title"
- },
- {
-  "title": "ASSOCIATE LAWYER - CORPORATE & COMMERCIAL",
-  "company": "Manpower Malta",
-  "location": "Malta",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/manpower-malta/jobs/associate-lawyer-corporate-commercial",
-  "reason": "not an engineering title"
- },
- {
-  "title": "AI-Driven Cloud Architect",
-  "company": "Solteq",
-  "location": "Denmark, Finland, Poland, Sweden",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/solteq/jobs/ai-driven-cloud-architect",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "People & Organization Consultant",
-  "company": "Foreground LLC",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/foreground-llc/jobs/people-organization-consultant",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Director Business Development - Technology Alliances Manager",
-  "company": "Akamai Technologies",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/director-business-development-technology-alliances-manager",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Cartus - Consultant II Domestic Relocation - Canada Based Remote",
-  "company": "Anywhere Real Estate Inc.",
+  "title": "Principal Software Developer - Databases",
+  "company": "Autodesk",
   "location": "Canada",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/cartus-consultant-ii-domestic-relocation-canada-based-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Sr Director, Clinical Quality & Accreditation",
-  "company": "BrightSpring Health Services",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/brightspring-health-services/jobs/sr-director-clinical-quality-accreditation",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Residential Sales & Save Specialist - East",
-  "company": "WM",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/wm/jobs/residential-sales-save-specialist-east",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Pharmacy Claims Processor / Remote",
-  "company": "BrightSpring Health Services",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/brightspring-health-services/jobs/pharmacy-claims-processor-remote-9578511773",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Vice President Product Management IaaS",
-  "company": "Akamai Technologies",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/vice-president-product-management-iaas",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Business Development Executive (Remote, Dayshift) - Cagayan de Oro",
-  "company": "TASQ Staffing Solutions",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/business-development-executive-remote-dayshift-cagayan-de-oro",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Litigation Counsel",
-  "company": "Liberty Mutual",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/liberty-mutual/jobs/litigation-counsel",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Account Manager Mascus",
-  "company": "Ritchie Bros.",
-  "location": "France",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ritchie-bros/jobs/account-manager-mascus",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Scientist",
-  "company": "Geosyntec Consultants",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/geosyntec-consultants/jobs/senior-scientist",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Vice President, Data Engineering",
-  "company": "TASQ Staffing Solutions",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/vice-president-data-engineering",
+  "url": "https://himalayas.app/companies/autodesk/jobs/principal-software-developer-databases-9348849243",
   "reason": "title excluded (seniority or role type)"
  },
  {
-  "title": "SAP FICO",
-  "company": "Dautom",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/dautom/jobs/sap-fico",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Graphic Designer",
-  "company": "Artemis ARC",
+  "title": "Head of Safety, Health & Environment",
+  "company": "Lonza",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/artemis-arc/jobs/graphic-designer",
+  "url": "https://himalayas.app/companies/lonza/jobs/head-of-safety-health-environment",
   "reason": "not an engineering title"
  },
  {
-  "title": "Virtual Health Support Tech",
-  "company": "Piedmont Healthcare",
+  "title": "AP Vendor Administrator",
+  "company": "Lithia & Driveway",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/piedmont-healthcare/jobs/virtual-health-support-tech",
+  "url": "https://himalayas.app/companies/lithia-driveway/jobs/ap-vendor-administrator",
   "reason": "not an engineering title"
  },
  {
-  "title": "Senior Electrical Engineer",
-  "company": "Sargent & Lundy",
+  "title": "Associate Director, Maintenance",
+  "company": "Lonza",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/sargent-lundy/jobs/senior-electrical-engineer",
-  "reason": "location restricted: United States; no sponsorship"
+  "url": "https://himalayas.app/companies/lonza/jobs/associate-director-maintenance",
+  "reason": "not an engineering title"
  },
  {
-  "title": "Western Region - Weekend Team - Inbound Retention Specialist - Sales - US - Remo",
-  "company": "Yelp, Inc",
+  "title": "Director, MSAT",
+  "company": "Lonza",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/yelp-inc/jobs/western-region-weekend-team-inbound-retention-specialist-sales-us-remo-7356694271",
+  "url": "https://himalayas.app/companies/lonza/jobs/director-msat",
   "reason": "not an engineering title"
  },
  {
-  "title": "Financial Clearance Representative L1 (PreReg)",
-  "company": "Ohio State University Physicians, Inc.",
+  "title": "NICX Technician",
+  "company": "SOLV Energy",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ohio-state-university-physicians-inc/jobs/financial-clearance-representative-l1-prereg",
+  "url": "https://himalayas.app/companies/solv-energy/jobs/nicx-technician",
   "reason": "not an engineering title"
  },
  {
-  "title": "Senior Clinical Trial Manager",
-  "company": "ICON",
-  "location": "Mexico",
+  "title": "Account Director, Enterprise",
+  "company": "Genesys",
+  "location": "South Africa",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/iconplc/jobs/senior-clinical-trial-manager-884200120",
+  "url": "https://himalayas.app/companies/genesys/jobs/account-director-enterprise",
   "reason": "not an engineering title"
  },
  {
-  "title": "Remote Planning Coordinator",
-  "company": "Nexoratalent",
-  "location": "Costa Rica",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nexoratalent/jobs/remote-planning-coordinator-7383140253",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Examiners - Interactive Media",
-  "company": "NCFE",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ncfe/jobs/examiners-interactive-media",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Lead Distribution Sales Team",
-  "company": "Acosta",
+  "title": "Branded Sales Director",
+  "company": "Pacific Coast Producers",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/acosta/jobs/lead-distribution-sales-team",
+  "url": "https://himalayas.app/companies/pacific-coast-producers/jobs/branded-sales-director",
   "reason": "not an engineering title"
  },
  {
-  "title": "Sr Site Reliability Engineer",
-  "company": "Sinch",
-  "location": "France",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/sinch/jobs/sr-site-reliability-engineer",
-  "reason": "location restricted: France; no sponsorship"
- },
- {
-  "title": "Federal Capture Director (Contract) - Reston, VA",
-  "company": "The Wilkinson Firm",
+  "title": "VP, Relationship Manager - Mortgage Warehouse Lending",
+  "company": "Customers Bank",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/federal-capture-director-contract-reston-va",
+  "url": "https://himalayas.app/companies/customers-bank/jobs/vp-relationship-manager-mortgage-warehouse-lending",
   "reason": "not an engineering title"
  },
  {
-  "title": "Mission Finding Specialist | United States | Part-Time",
-  "company": "The Church of Jesus Christ of Latter-day Saints",
-  "location": "United States",
+  "title": "Senior Sales Account Executive (m/w/d)",
+  "company": "evoila GmbH",
+  "location": "Austria",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/mission-finding-specialist-united-states-part-time",
+  "url": "https://himalayas.app/companies/evoila-gmbh/jobs/senior-sales-account-executive-m-w-d",
   "reason": "not an engineering title"
  },
  {
-  "title": "Scrum Master (Information Technology/Software/Remote)",
-  "company": "Black Pen Recruitment",
-  "location": "Croatia",
+  "title": "Delivery Director",
+  "company": "Miratech",
+  "location": "Canada",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/black-pen-recruitment/jobs/scrum-master-information-technology-software-remote-156745704",
-  "reason": "location not worldwide: Croatia"
+  "url": "https://himalayas.app/companies/miratech/jobs/delivery-director",
+  "reason": "not an engineering title"
  },
  {
-  "title": "Accounts Receivable (AR) - Billing & Invoice Submission Analyst",
-  "company": "eClerx",
+  "title": "English/Spanish Remote Contract Interpreter (OPI/VRI)",
+  "company": "LingoAid",
+  "location": "Argentina",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/lingoaid/jobs/english-spanish-remote-contract-interpreter-opi-vri-7618436377",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Outbound Sales Development Representative - B2B (U.S Market)",
+  "company": "Gushwork",
   "location": "Philippines",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/eclerx/jobs/accounts-receivable-ar-billing-invoice-submission-analyst",
+  "url": "https://himalayas.app/companies/gushwork/jobs/outbound-sales-development-representative-b2b-u-s-market",
   "reason": "not an engineering title"
  },
  {
-  "title": "Senior Director, Global Operations Improvement",
-  "company": "ICU Medical",
+  "title": "Senior Manager - Technical Implementation & Value Realization",
+  "company": "PackageX",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/icu-medical/jobs/senior-director-global-operations-improvement",
+  "url": "https://himalayas.app/companies/packagex/jobs/senior-manager-technical-implementation-value-realization",
   "reason": "not an engineering title"
  },
  {
-  "title": "Compliance Analyst",
-  "company": "Teleperformance",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/compliance-analyst",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Examiners - Health (Midwifery)",
-  "company": "NCFE",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ncfe/jobs/examiners-health-midwifery",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Interpreter - Cantonese - Work-From-Home",
-  "company": "Teleperformance",
-  "location": "Myanmar",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-cantonese-work-from-home",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote - Tech & Sales Support Representative",
-  "company": "Teleperformance",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/remote-tech-sales-support-representative",
-  "reason": "not an engineering title"
- },
- {
-  "title": "COMLEX Tutor",
-  "company": "MedSchoolCoach",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/medschoolcoach/jobs/comlex-tutor",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Business Analyst",
-  "company": "ScaleJet",
-  "location": "Ukraine",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/scalejet/jobs/business-analyst-6698597520",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Escrow Processing Supervisor - US Based Remote",
-  "company": "Anywhere Real Estate Inc.",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/escrow-processing-supervisor-us-based-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Account Executive",
-  "company": "Ritchie Bros.",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ritchie-bros/jobs/account-executive",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Interpreter - Khmer - Work-From-Home",
-  "company": "Teleperformance",
-  "location": "Myanmar",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-khmer-work-from-home",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Real Estate Coordinator - US Based Remote (Central/Pacific Time Zone)",
-  "company": "Anywhere Real Estate Inc.",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/real-estate-coordinator-us-based-remote-central-pacific-time-zone",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Portfolio Manager, Commercial Servicing",
-  "company": "Ocwen Financial Corporation",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/ocwen-financial-corporation/jobs/portfolio-manager-commercial-servicing",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Product Owner (Salesforce) - REMOTE",
-  "company": "Molina Healthcare",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/molina-healthcare/jobs/product-owner-salesforce-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote ---Customer Service Representative - Bilingual Spanish/English - Remote",
-  "company": "Teleperformance",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/remote-customer-service-representative-bilingual-spanish-english-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Director of Sales - Global MTO & PSP Markets (Crypto/Fintech/Payments)",
-  "company": "Black Pen Recruitment",
-  "location": "Senegal",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/black-pen-recruitment/jobs/senior-director-of-sales-global-mto-psp-markets-crypto-fintech-payments-5067850681",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Systems Engineer, Wintel",
-  "company": "Planit Careers",
-  "location": "Philippines",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/planit-careers/jobs/senior-systems-engineer-wintel",
-  "reason": "location restricted: Philippines"
- },
- {
-  "title": "Oracle HCM Payroll Analyst (UK & US Payroll)",
-  "company": "GP Strategies Corporation",
-  "location": "India",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/gp-strategies-corporation/jobs/oracle-hcm-payroll-analyst-uk-us-payroll",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Medical Review Team Lead - Medicaid",
-  "company": "Peraton",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/peraton/jobs/medical-review-team-lead-medicaid",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Enterprise Architect (EA) \u2014 Autonomous Network Operations (ANO)",
-  "company": "Be | Shaping the Future",
-  "location": "United Kingdom",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/be-shaping-the-future/jobs/enterprise-architect-ea-autonomous-network-operations-ano",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Head of Practice",
-  "company": "Augintel",
-  "location": "Israel, United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/augintel/jobs/head-of-practice",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Project Coordinator",
-  "company": "Peraton",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/peraton/jobs/project-coordinator",
-  "reason": "not an engineering title"
- },
- {
-  "title": "(Senior) Clinical Project Manager, IQVIA Biotech",
+  "title": "Principal Software Development Engineer (PBM AI Solutions)",
   "company": "Lifelancer",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/lifelancer/jobs/senior-clinical-project-manager-iqvia-biotech",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Interpreter - Mandarin - Work-From-Home (Indonesia)",
-  "company": "Teleperformance",
-  "location": "Indonesia",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-mandarin-work-from-home-indonesia",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Grant Writer and Coordinator -FT",
-  "company": "Adena Health",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/adena-health/jobs/grant-writer-and-coordinator-ft",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior System Administrator",
-  "company": "Dautom",
-  "location": "United Arab Emirates",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/dautom/jobs/senior-system-administrator",
-  "reason": "not an engineering title"
- },
- {
-  "title": "AMOS Admin",
-  "company": "Elwood Roberts",
-  "location": "Ireland",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/elwood-roberts/jobs/amos-admin",
-  "reason": "not an engineering title"
- },
- {
-  "title": "VMware and Windows Server Administrator",
-  "company": "Peraton",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/peraton/jobs/vmware-and-windows-server-administrator",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Head of Engineering \u2014 Insurance & Investments",
-  "company": "TheHiveCareers",
-  "location": "Anguilla",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/thehivecareers/jobs/head-of-engineering-insurance-investments-5916208673",
+  "url": "https://himalayas.app/companies/lifelancer/jobs/principal-software-development-engineer-pbm-ai-solutions-4018206418",
   "reason": "title excluded (seniority or role type)"
  },
  {
-  "title": "Analyst - Supply Chain Analytics",
-  "company": "Wesco",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/wesco/jobs/analyst-supply-chain-analytics",
-  "reason": "not an engineering title"
- },
- {
-  "title": "SAP Finance Application Manager (S/4HANA)",
-  "company": "TalentCloud Group",
-  "location": "Switzerland",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/talentcloud-group/jobs/sap-finance-application-manager-s-4hana",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Sales Customer Service Representative - Remote",
-  "company": "Teleperformance",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/sales-customer-service-representative-remote",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote Quality Control Assistant / Data Documentation Clerk",
-  "company": "Evolution Sports Group",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/evolution-sports-group/jobs/remote-quality-control-assistant-data-documentation-clerk",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Head of Business Intelligence \u2014 Insurance & Investments",
-  "company": "TheHiveCareers",
-  "location": "Saint Lucia",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/thehivecareers/jobs/head-of-business-intelligence-insurance-investments-3078181214",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Medical Benefit Review Services Associate",
-  "company": "Conduent",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/conduent/jobs/medical-benefit-review-services-associate",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Site Reliability Engineer (Server Enablement & Qualification) - Remote",
-  "company": "Akamai Technologies",
-  "location": "Poland",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-site-reliability-engineer-server-enablement-qualification-remote",
-  "reason": "location restricted: Poland"
- },
- {
-  "title": "Licensed Insurance Representative",
-  "company": "Teleperformance",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/teleperformanceusa/jobs/licensed-insurance-representative",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Remote Coding Quality Education Review Specialist ($5k sign on bonus!)",
-  "company": "Lifepoint Health",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/lifepoint-health/jobs/remote-coding-quality-education-review-specialist-5k-sign-on-bonus",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Franchise Sales Director - Better Homes and Gardens Real Estate - SC, NC, VA, MD",
-  "company": "Anywhere Real Estate Inc.",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/franchise-sales-director-better-homes-and-gardens-real-estate-sc-nc-va-md",
-  "reason": "not an engineering title"
- },
- {
-  "title": "D\u00e9veloppeur logiciel principal (React)/ Senior Software Developer (React)",
+  "title": "In-Home Health - Physician (Part Time)- Augusta ME",
   "company": "Lifelancer",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/lifelancer/jobs/developpeur-logiciel-principal-react-senior-software-developer-react-1819378236",
+  "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-health-physician-part-time-augusta-me",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Medical Science Liaison - Movement Disorders",
+  "company": "Praxis Precision Medicines",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/praxis-precision-medicines/jobs/medical-science-liaison-movement-disorders-2090888939",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Creative Director for Events",
+  "company": "Meeting Tomorrow",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/meeting-tomorrow/jobs/creative-director-for-events",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Director of Demand Generation",
+  "company": "Meeting Tomorrow",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/meeting-tomorrow/jobs/director-of-demand-generation",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Distinguished Engineer, Enterprise Solutions Engineering",
+  "company": "Lifelancer",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/lifelancer/jobs/distinguished-engineer-enterprise-solutions-engineering",
   "reason": "title excluded (seniority or role type)"
  },
  {
-  "title": "eCOA Implementation Project Manager",
-  "company": "Lifelancer",
+  "title": "Software Quality Operations Specialist, Domain Expansion",
+  "company": "Waymo",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/lifelancer/jobs/ecoa-implementation-project-manager-8184410538",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Sr. Security Engineer -Japanese Bilingual",
-  "company": "A-STAFFING, INC.",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/a-staffing-inc/jobs/sr-security-engineer-japanese-bilingual",
+  "url": "https://himalayas.app/companies/waymo/jobs/software-quality-operations-specialist-domain-expansion",
   "reason": "location restricted: United States"
  },
  {
-  "title": "WFH Opportunity - Sr. Sales Engineer | APPLY NOW!",
-  "company": "TASQ Staffing Solutions",
+  "title": "Director of Lifecycle Marketing",
+  "company": "Metro Vein Centers",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/wfh-opportunity-sr-sales-engineer-apply-now",
-  "reason": "title excluded (seniority or role type)"
- },
- {
-  "title": "Business Development Director, Quantum",
-  "company": "Tyto Athene",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tyto-athene/jobs/business-development-director-quantum",
+  "url": "https://himalayas.app/companies/metro-vein-centers/jobs/director-of-lifecycle-marketing-865643541",
   "reason": "not an engineering title"
  },
  {
-  "title": "Remote Client Experience Specialist",
-  "company": "Nexoratalent",
+  "title": "Technical Solutions Engineer",
+  "company": "Elation Health",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/nexoratalent/jobs/remote-client-experience-specialist",
-  "reason": "not an engineering title"
+  "url": "https://himalayas.app/companies/elation-health/jobs/technical-solutions-engineer",
+  "reason": "location restricted: United States"
  },
  {
-  "title": "Assistant Manager / Manager Investor Relations - FAST-GROWING company",
-  "company": "Kate Worthington",
-  "location": "Thailand",
+  "title": "Fraud Prevention Investigation Lead",
+  "company": "Bybit",
+  "location": "Albania, American Samoa, Andorra, Australia, Austria, Bangladesh, Belarus, Belgium, Bhutan, Bosnia and Herzegovina, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Croatia, Czechia, Denmark, Estonia, Faroe Islands, Fiji, Finland, France, French Polynesia, Germany, Gibraltar, Greece, Guam, Guernsey, Holy See (Vatican City State), Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Italy, Japan, Jersey, Kiribati, Kosovo, Lao People's Democratic Republic, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Malta, Marshall Islands, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Myanmar, Nauru, Nepal, Netherlands, New Caledonia, New Zealand, Niue, Norfolk Island, North Macedonia, Northern Mariana Islands, Norway, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Poland, Portugal, Romania, Samoa, San Marino, Serbia, Singapore, Slovakia, Slovenia, Solomon Islands, South Korea, Spain, Sri Lanka, Svalbard and Jan Mayen, Sweden, Switzerland, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, Ukraine, United Kingdom, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna, \u00c5land Islands",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/kate-worthington/jobs/assistant-manager-manager-investor-relations-fast-growing-company",
+  "url": "https://himalayas.app/companies/bybit/jobs/fraud-prevention-investigation-lead-8512016983",
   "reason": "not an engineering title"
  },
  {
-  "title": "Production Editor",
-  "company": "FDB",
+  "title": "Deputy/Associate General Counsel",
+  "company": "Calbright College",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/fdb/jobs/production-editor",
+  "url": "https://himalayas.app/companies/calbright-college/jobs/deputy-associate-general-counsel-5559581096",
   "reason": "not an engineering title"
  },
  {
-  "title": "Lead Consultant Data Architecture & Engineering - WFH",
-  "company": "TASQ Staffing Solutions",
+  "title": "Helpdesk Support Agent [2631-407585]",
+  "company": "LevelUp",
   "location": "Philippines",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-consultant-data-architecture-engineering-wfh",
-  "reason": "location restricted: Philippines"
- },
- {
-  "title": "Program Manager II \u2013 MEAL Continuity of Integrated Health Services (CIHS) Projec",
-  "company": "Catholic Relief Services",
-  "location": "United States",
-  "source": "Himalayas",
-  "url": "https://himalayas.app/companies/catholic-relief-services/jobs/program-manager-ii-meal-continuity-of-integrated-health-services-cihs-projec",
+  "url": "https://himalayas.app/companies/levelup/jobs/helpdesk-support-agent-2631-407585",
   "reason": "not an engineering title"
  },
  {
-  "title": "Project Manager - Senior - Law",
-  "company": "Cummins",
+  "title": "Technology Transactions Lawyer",
+  "company": "Axiom",
   "location": "United States",
   "source": "Himalayas",
-  "url": "https://himalayas.app/companies/cummins/jobs/project-manager-senior-law",
+  "url": "https://himalayas.app/companies/axiomlaw/jobs/technology-transactions-lawyer",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Registered Dietitian (Contract)",
+  "company": "VeSync",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/vesync/jobs/registered-dietitian-contract",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Epic Clin Doc / Orders Analyst - Perm - Remote",
+  "company": "Waterfall Technology Consulting Partners",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/waterfall-technology-consulting-partners/jobs/epic-clin-doc-orders-analyst-perm-remote-8840889751",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Head of State Government Sales",
+  "company": "Wonderschool",
+  "location": "United States",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/wonderschool-com/jobs/head-of-state-government-sales",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Customer Support Representative",
+  "company": "Xsolla",
+  "location": "Russian Federation",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/xsolla/jobs/customer-support-representative",
+  "reason": "not an engineering title"
+ },
+ {
+  "title": "Senior Product Owner \u2013 Xsolla Money Account",
+  "company": "Xsolla",
+  "location": "France, Georgia, Germany, Portugal, Serbia, Spain, Turkey, United Kingdom",
+  "source": "Himalayas",
+  "url": "https://himalayas.app/companies/xsolla/jobs/senior-product-owner-xsolla-money-account",
   "reason": "not an engineering title"
  },
  {
@@ -9316,7 +9380,7 @@
   "company": "Notabene",
   "location": "Remote",
   "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.fr/jobs/companies/notabene/remote-controller-54080",
+  "url": "https://www.arbeitnow.com/jobs/companies/notabene/remote-controller-358524",
   "reason": "not an engineering title"
  },
  {
@@ -11904,99 +11968,35 @@
   "reason": "title excluded (seniority or role type)"
  },
  {
-  "title": "Partner Development Manager",
-  "company": "Cohere",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/cohere/partner-development-manager-berlin-15899",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Venture Manager (Berlin)",
-  "company": "Almedia",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/almedia/venture-manager-berlin-161517",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Venture Lead (Berlin)",
-  "company": "Almedia",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/almedia/senior-venture-lead-berlin-156473",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Founder's Associate",
-  "company": "Almedia",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/almedia/founders-associate-berlin-351116",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Founding Engineer",
-  "company": "Almedia",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/almedia/founding-engineer-berlin-176331",
-  "reason": "location not worldwide: Berlin"
- },
- {
-  "title": "Director of Customer Lifecycle (CRM)",
-  "company": "Almedia",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/almedia/director-of-customer-lifecycle-crm-berlin-177806",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Forward Deployed Engineer (m/f/d)",
-  "company": "praxipal",
-  "location": "Berlin",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/praxipal/forward-deployed-engineer-berlin-76605",
-  "reason": "location not worldwide: Berlin"
- },
- {
-  "title": "Werkstudentin im Bereich E-Commerce / Marketplace (m/w/d)",
-  "company": "Gusti Leder GmbH",
-  "location": "Rostock, Mecklenburg-Vorpommern, Deutschland",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/werkstudentin-im-bereich-e-commerce-marketplace-rostock-366445",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Legal Assistant (m/w/d) - Werkstudent",
-  "company": "Bergmanclinics",
-  "location": "HoldCo Hamburg",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/bergmanclinics/legal-assistant-werkstudent-holdco-hamburg-482370",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Senior Audit Consultant / Pr\u00fcfungsleiter (m/w/d)",
-  "company": "Asg",
+  "title": "AI Lead (gn)",
+  "company": "Workidentity",
   "location": "Hamburg",
   "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/asg/senior-audit-consultant-prufungsleiter-hamburg-348739",
+  "url": "https://www.arbeitnow.com/jobs/companies/workidentity/ai-lead-gn-hamburg-324733",
+  "reason": "location not worldwide: Hamburg"
+ },
+ {
+  "title": "Lead Product Engineer (a)",
+  "company": "Meondi",
+  "location": "Stuttgart",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/meondi/lead-product-engineer-a-stuttgart-92065",
+  "reason": "location not worldwide: Stuttgart"
+ },
+ {
+  "title": "Project Manager or Project Officer Biomass Value Chains (f/m/d)",
+  "company": "Agora Thinktanks",
+  "location": "Berlin",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/agora-thinktanks/project-manager-or-project-officer-biomass-value-chains-berlin-462809",
   "reason": "not an engineering title"
  },
  {
-  "title": "Senior Scaled Enablement Manager (m/w/d)",
-  "company": "Maltego",
-  "location": "Munich Headquarters",
+  "title": "Supply Chain Manager (m/w/d)",
+  "company": "Memodo Gmbh",
+  "location": "M\u00fcnchen",
   "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/maltego/senior-scaled-enablement-manager-munich-headquarters-323026",
-  "reason": "not an engineering title"
- },
- {
-  "title": "Onboarding Manager, Cybersecurity/CTI (m/w/d)",
-  "company": "Maltego",
-  "location": "Munich Headquarters",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/maltego/onboarding-manager-cybersecurity-cti-munich-headquarters-362579",
+  "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-manager-munchen-145070",
   "reason": "not an engineering title"
  }
 ]
