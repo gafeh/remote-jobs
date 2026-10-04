@@ -7,20 +7,23 @@ from email.utils import parsedate_to_datetime
 import feedparser
 import requests
 
+from . import config
+
 UA = {"User-Agent": "Mozilla/5.0 (personal job board)"}
 TIMEOUT = 30
 
 
-def _get(url, **kw):
-    r = requests.get(url, headers=UA, timeout=TIMEOUT, **kw)
+def _get(url, timeout=TIMEOUT, **kw):
+    r = requests.get(url, headers=UA, timeout=timeout, **kw)
     r.raise_for_status()
     return r
 
 
 def strip_html(s):
     s = html.unescape(str(s or ""))
+    s = re.sub(r"<(br|p|li|/p|/li|/div)[^>]*>", " | ", s)  # keep block boundaries as separators
     s = re.sub(r"<[^>]+>", " ", s)
-    return re.sub(r"\s+", " ", html.unescape(s)).strip()
+    return re.sub(r"\s+", " ", html.unescape(s)).strip(" |")
 
 
 def parse_date(v):
@@ -42,12 +45,12 @@ def parse_date(v):
 
 
 def make(source, id, title, company, location, url, posted, description,
-         tags=None, salary="", worldwide_hint=False):
+         tags=None, salary="", worldwide_hint=False, visa_hint=False):
     dt = parse_date(posted)
     return {
         "source": source,
         "id": str(id),
-        "title": strip_html(title),
+        "title": strip_html(title).strip(" |"),
         "company": strip_html(company) or "Unknown",
         "location": strip_html(location),
         "url": url or "",
@@ -56,8 +59,15 @@ def make(source, id, title, company, location, url, posted, description,
         "tags": [str(t) for t in (tags or [])],
         "salary": str(salary or ""),
         "worldwide_hint": worldwide_hint,
+        "visa_hint": visa_hint,
     }
 
+
+def _bare_remote(slug, loc):
+    return slug in config.TRUST_BARE_REMOTE and loc.strip().lower() in ("remote", "remote, remote", "fully remote")
+
+
+# ---------------- Aggregators ----------------
 
 def remotive():
     data = _get("https://remotive.com/api/remote-jobs", params={"category": "software-dev"}).json()
@@ -133,12 +143,57 @@ def workingnomads():
                    j.get("location", ""), j.get("url"), j.get("pub_date"), j.get("description"), tags)
 
 
+def arbeitnow(pages=5):
+    """Germany-focused board, many English-language roles. Only useful via the visa path."""
+    for p in range(1, pages + 1):
+        data = _get("https://www.arbeitnow.com/api/job-board-api", params={"page": p}).json()
+        for j in data.get("data", []):
+            yield make("Arbeitnow", f"arbeitnow-{j.get('slug')}", j.get("title"), j.get("company_name"),
+                       j.get("location", ""), j.get("url"), j.get("created_at"),
+                       j.get("description"), j.get("tags"))
+        if not (data.get("links") or {}).get("next"):
+            break
+        time.sleep(1)
+
+
+HN_SEP = re.compile(r"\s+\|\s+")
+
+
+def hn_whos_hiring(threads=2):
+    """HN 'Who is hiring?' threads. Posters tag REMOTE (Worldwide) or VISA in the header line."""
+    s = _get("https://hn.algolia.com/api/v1/search_by_date",
+             params={"tags": "story,author_whoishiring", "query": "who is hiring"}).json()
+    stories = [h for h in s.get("hits", []) if h.get("title", "").lower().startswith("ask hn: who is hiring")]
+    title_rx = re.compile(config.TITLE_ROLE, re.I)
+    for story in stories[:threads]:
+        item = _get(f"https://hn.algolia.com/api/v1/items/{story['objectID']}", timeout=90).json()
+        for c in item.get("children", []):
+            raw = c.get("text") or ""
+            if not raw:
+                continue
+            header = strip_html(raw.split("<p>")[0])
+            segs = [x.strip() for x in HN_SEP.split(header) if x.strip()]
+            if len(segs) < 2:
+                continue
+            company = segs[0][:80]
+            cands = [x for x in segs[1:] if not x.lower().startswith("http") and len(x) < 120]
+            title = next((x for x in cands if title_rx.search(x)), cands[0] if cands else segs[1][:120])
+            loc = ", ".join(x for x in segs if re.search(r"remote|onsite|on-site|hybrid|worldwide|global|anywhere", x, re.I))
+            visa = any(re.match(r"^\s*visa\b", x, re.I) and not re.search(r"\bno\b|not", x, re.I) for x in segs)
+            yield make("HN Who's Hiring", f"hn-{c['id']}", title, company, loc,
+                       f"https://news.ycombinator.com/item?id={c['id']}", c.get("created_at"), raw,
+                       visa_hint=visa)
+
+
+# ---------------- Company ATS boards ----------------
+
 def greenhouse(slug):
     data = _get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", params={"content": "true"}).json()
     for j in data.get("jobs", []):
-        yield make(f"Greenhouse:{slug}", f"gh-{slug}-{j.get('id')}", j.get("title"), slug,
-                   (j.get("location") or {}).get("name", ""), j.get("absolute_url"),
-                   j.get("updated_at"), j.get("content"))
+        loc = (j.get("location") or {}).get("name", "")
+        yield make(f"Greenhouse:{slug}", f"gh-{slug}-{j.get('id')}", j.get("title"), slug, loc,
+                   j.get("absolute_url"), j.get("updated_at"), j.get("content"),
+                   worldwide_hint=_bare_remote(slug, loc))
 
 
 def lever(slug):
@@ -148,12 +203,15 @@ def lever(slug):
         loc = ", ".join(cats.get("allLocations") or []) or cats.get("location", "")
         desc = f"{j.get('descriptionPlain', '')} {j.get('additionalPlain', '')}"
         yield make(f"Lever:{slug}", f"lever-{slug}-{j.get('id')}", j.get("text"), slug, loc,
-                   j.get("hostedUrl"), j.get("createdAt"), desc)
+                   j.get("hostedUrl"), j.get("createdAt"), desc,
+                   worldwide_hint=_bare_remote(slug, loc))
 
 
 def ashby(slug):
     data = _get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}").json()
     for j in data.get("jobs", []):
+        loc = j.get("location", "") or ""
         yield make(f"Ashby:{slug}", f"ashby-{slug}-{j.get('id') or j.get('jobUrl')}", j.get("title"), slug,
-                   j.get("location", ""), j.get("jobUrl"), j.get("publishedAt"),
-                   j.get("descriptionPlain") or j.get("descriptionHtml"))
+                   loc, j.get("jobUrl"), j.get("publishedAt"),
+                   j.get("descriptionHtml") or j.get("descriptionPlain"),
+                   worldwide_hint=_bare_remote(slug, loc))

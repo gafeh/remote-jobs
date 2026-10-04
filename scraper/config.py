@@ -1,26 +1,52 @@
 # ---------- About you ----------
-# Set this to what you can defend in an interview. It drives the "asks N+ years" penalty.
-YEARS_EXPERIENCE = 4
+YEARS_EXPERIENCE = 4  # set to what you can defend in an interview
 
-# Strictly worldwide by default. Worldwide-only is a small, crowded slice of the market.
-# Adding regions that include Nigeria widens the pool a lot, e.g. ["EMEA", "Africa", "Nigeria"]
-ALSO_ACCEPT_REGIONS = []
+# Remote roles open to these regions are accepted alongside true worldwide roles.
+ALSO_ACCEPT_REGIONS = ["EMEA", "MEA", "Africa", "Sub-Saharan Africa", "West Africa", "Nigeria", "Lagos"]
+
+# Include on-site/hybrid roles anywhere IF the posting explicitly offers visa sponsorship.
+INCLUDE_VISA_SPONSORED = True
 
 # ---------- Volume / freshness ----------
 MAX_AGE_DAYS = 14
-LLM_TOP_N = 40                       # only the top N by heuristic get Claude-scored (cost control)
+SOURCE_MAX_AGE_DAYS = {"HN Who's Hiring": 35}  # monthly thread, so allow a longer window
+LLM_TOP_N = 50
 LLM_MODEL = "claude-haiku-4-5-20251001"
 
-# ---------- Company boards that hire globally ----------
-# Slug comes from the careers URL:
-#   boards.greenhouse.io/<slug>  |  jobs.lever.co/<slug>  |  jobs.ashbyhq.com/<slug>
-# Bad slugs are skipped with a log line, so experiment freely.
-GREENHOUSE = []
-LEVER = []
-ASHBY = []
+# ---------- Morning digest (optional, needs SMTP secrets) ----------
+DIGEST_MIN_SCORE = 60
+
+# ---------- Company boards (slugs verified live, Oct 2026) ----------
+# Chosen because their boards actually carry Worldwide / EMEA / Global / "Any Location" roles.
+GREENHOUSE = [
+    "canonical",          # "Home based - Worldwide" and "Home based - EMEA"
+    "automatticcareers",  # Automattic, fully distributed
+    "wikimedia",
+    "sourcegraph91",      # Sourcegraph
+    "netlify",
+    "mozilla",
+    "gitlab",
+    "consensys",          # many "EMEA - Remote" roles
+    "okx",                # some EMEA roles
+    "elastic",            # occasional EMEA roles + explicit sponsorship language
+    "labelbox",
+]
+LEVER = []  # none of the Lever boards tested carried global-remote roles; add your own
+ASHBY = [
+    "supabase",   # "Remote, Global"
+    "posthog",
+    "railway",    # "Global"
+    "oyster",     # "EMEA", "Any Location"
+    "zapier",
+    "clerk",
+    "braintrust",
+]
+
+# Boards whose bare "Remote" location really means "anywhere". Description blockers still apply.
+TRUST_BARE_REMOTE = {"automatticcareers", "wikimedia", "sourcegraph91", "posthog"}
 
 # ---------- Title rules ----------
-TITLE_ROLE = r"\b(engineer|developer|swe|programmer|back[\s-]?end|full[\s-]?stack|software|platform|ai|ml|llm)\b"
+TITLE_ROLE = r"\b(engineer|engineers|engineering|developer|developers|swe|programmer|back[\s-]?end|full[\s-]?stack|software|platform|ai|ml|llm)\b"
 TITLE_REJECT = (
     r"\b(staff|principal|distinguished|director|vp|vice president|head of|manager|architect|intern|"
     r"sales|marketing|recruiter|designer|ios|android|salesforce|sap|qa|test|support|"

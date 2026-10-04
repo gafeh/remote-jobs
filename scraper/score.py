@@ -40,7 +40,7 @@ def heuristic(job, now):
     if yrs and yrs > config.YEARS_EXPERIENCE:
         score -= min(30, (yrs - config.YEARS_EXPERIENCE) * 10)
         penalties.append(f"asks {yrs}+ yrs")
-    if TZ_OVERLAP.search(job["description"]):
+    if job.get("path") == "remote" and TZ_OVERLAP.search(job["description"]):
         score -= 5
         penalties.append("US hours overlap")
     if len(hits) < 3:
@@ -61,12 +61,18 @@ Estimate the probability this candidate passes the initial resume screen (recrui
 Title: {title}
 Company: {company}
 Location: {location}
+Path: {path}
 {description}
 </job>
 
-Consider: must-have requirements the resume lacks, seniority mismatch, how many core skills appear on the resume,
-and location limits. The candidate lives in Lagos, Nigeria (UTC+1), is authorized to work only in Nigeria,
-and can only be hired as a contractor or through an employer-of-record.
+Candidate facts: lives in Lagos, Nigeria (UTC+1), Nigerian citizen, authorized to work only in Nigeria.
+If Path is "remote": he can only be hired as a contractor or through an employer-of-record; location_ok is false
+if the role is effectively limited to countries other than Nigeria.
+If Path is "visa": he would relocate and needs the employer to sponsor his work visa; location_ok is true only if
+the posting genuinely offers sponsorship for this role. Flag any degree requirement as a gap if the resume does not
+show a completed degree with a graduation date, since most work visas require one.
+
+Consider: must-have requirements the resume lacks, seniority mismatch, and how many core skills appear on the resume.
 
 Respond with JSON only, no prose, no code fences:
 {{"interview_odds": <integer 0-100>, "verdict": "apply" | "stretch" | "skip", "why": "<one sentence>", "gaps": ["<missing must-have>"], "location_ok": true | false}}"""
@@ -86,7 +92,8 @@ def llm_score(jobs, resume, cache):
                 max_tokens=400,
                 messages=[{"role": "user", "content": PROMPT.format(
                     resume=resume[:8000], title=job["title"], company=job["company"],
-                    location=job["location"], description=job["description"][:5000])}],
+                    location=job["location"], path=job["path"],
+                    description=job["description"][:5000])}],
             )
             text = "".join(b.text for b in msg.content if b.type == "text").strip()
             text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.M).strip()

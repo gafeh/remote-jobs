@@ -5,11 +5,13 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import config, sources
+from .digest import send_digest
 from .filters import screen
 from .score import heuristic, llm_score
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA, SITE = ROOT / "data", ROOT / "site"
+PUBLIC_KEYS = ("title", "company", "location", "source", "url")
 
 
 def load(path, default):
@@ -27,7 +29,10 @@ def collect():
         ("Himalayas", sources.himalayas),
         ("Jobicy", sources.jobicy),
         ("WorkingNomads", sources.workingnomads),
+        ("HN Who's Hiring", sources.hn_whos_hiring),
     ]
+    if config.INCLUDE_VISA_SPONSORED:
+        fetchers.append(("Arbeitnow", sources.arbeitnow))
     fetchers += [(f"greenhouse:{s}", lambda s=s: sources.greenhouse(s)) for s in config.GREENHOUSE]
     fetchers += [(f"lever:{s}", lambda s=s: sources.lever(s)) for s in config.LEVER]
     fetchers += [(f"ashby:{s}", lambda s=s: sources.ashby(s)) for s in config.ASHBY]
@@ -68,14 +73,14 @@ def main():
 
     raw, stats = collect()
     kept, rejected = [], []
-    cutoff = now - timedelta(days=config.MAX_AGE_DAYS)
 
     for j in dedupe(raw):
         ok, why = screen(j)
         if not ok:
-            rejected.append({**{k: j[k] for k in ("title", "company", "location", "source", "url")}, "reason": why})
+            rejected.append({**{k: j[k] for k in PUBLIC_KEYS}, "reason": why})
             continue
-        if j["posted"] and datetime.fromisoformat(j["posted"]) < cutoff:
+        max_age = config.SOURCE_MAX_AGE_DAYS.get(j["source"], config.MAX_AGE_DAYS)
+        if j["posted"] and datetime.fromisoformat(j["posted"]) < now - timedelta(days=max_age):
             continue
         heuristic(j, now)
         kept.append(j)
@@ -88,24 +93,29 @@ def main():
     else:
         print("[llm] skipped (no ANTHROPIC_API_KEY or resume)")
 
-    public = []
+    public, fresh = [], []
     for j in kept:
         llm = j.get("llm")
         if llm and llm.get("location_ok") is False:
-            rejected.append({**{k: j[k] for k in ("title", "company", "location", "source", "url")},
-                             "reason": "LLM: location not workable"})
+            rejected.append({**{k: j[k] for k in PUBLIC_KEYS}, "reason": "LLM: location or sponsorship not workable"})
             continue
+        brand_new = j["id"] not in first_seen
         first_seen.setdefault(j["id"], now.isoformat())
-        is_new = datetime.fromisoformat(first_seen[j["id"]]) > now - timedelta(hours=24)
         score = round(0.35 * j["h_score"] + 0.65 * int(llm.get("interview_odds", 0))) if llm else j["h_score"]
-        public.append({
+        row = {
             "id": j["id"], "title": j["title"], "company": j["company"], "location": j["location"],
             "url": j["url"], "source": j["source"], "posted": j["posted"], "salary": j["salary"],
+            "path": j["path"], "visa": j["visa"],
             "score": score, "h_score": j["h_score"], "skills_hit": j["skills_hit"],
-            "penalties": j["penalties"], "llm": llm, "is_new": is_new,
-        })
+            "penalties": j["penalties"], "llm": llm,
+            "is_new": datetime.fromisoformat(first_seen[j["id"]]) > now - timedelta(hours=24),
+        }
+        public.append(row)
+        if brand_new and score >= config.DIGEST_MIN_SCORE:
+            fresh.append(row)
 
     public.sort(key=lambda j: (j["score"], j["posted"] or ""), reverse=True)
+    fresh.sort(key=lambda j: j["score"], reverse=True)
 
     keep_after = now - timedelta(days=60)
     first_seen = {k: v for k, v in first_seen.items() if datetime.fromisoformat(v) > keep_after}
@@ -115,10 +125,17 @@ def main():
     (SITE / "jobs.json").write_text(json.dumps({
         "generated_at": now.isoformat(), "stats": stats,
         "rejected_count": len(rejected), "jobs": public}, indent=1))
-    (SITE / "rejected.json").write_text(json.dumps(rejected[:800], indent=1))
+    (SITE / "rejected.json").write_text(json.dumps(rejected[:1500], indent=1))
     (DATA / "first_seen.json").write_text(json.dumps(first_seen))
     (DATA / "llm_cache.json").write_text(json.dumps(cache))
-    print(f"[done] {len(public)} published, {len(rejected)} rejected")
+
+    try:
+        send_digest(fresh)
+    except Exception as e:
+        print(f"[digest] failed: {e.__class__.__name__}: {e}")
+
+    n_visa = sum(1 for j in public if j["path"] == "visa")
+    print(f"[done] {len(public)} published ({len(public) - n_visa} remote, {n_visa} visa), {len(rejected)} rejected")
 
 
 if __name__ == "__main__":

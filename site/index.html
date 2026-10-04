@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Worldwide Remote Jobs</title>
+<title>Remote + Visa Jobs</title>
 <style>
-:root{--bg:#f6f6f3;--card:#fff;--fg:#1b1b1b;--muted:#666;--line:#e2e2dc;--accent:#0b6e4f;--warn:#a15c00}
-@media (prefers-color-scheme:dark){:root{--bg:#111;--card:#1b1b1b;--fg:#eee;--muted:#999;--line:#2c2c2c;--accent:#3ccf91;--warn:#f0a443}}
+:root{--bg:#f6f6f3;--card:#fff;--fg:#1b1b1b;--muted:#666;--line:#e2e2dc;--accent:#0b6e4f;--visa:#3355cc;--warn:#a15c00}
+@media (prefers-color-scheme:dark){:root{--bg:#111;--card:#1b1b1b;--fg:#eee;--muted:#999;--line:#2c2c2c;--accent:#3ccf91;--visa:#7c9cff;--warn:#f0a443}}
 *{box-sizing:border-box}
 body{margin:0;font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--fg)}
 header,main{max-width:960px;margin:auto;padding:16px 20px}
@@ -20,6 +20,8 @@ button{cursor:pointer}
 .meta{color:var(--muted);font-size:13px}
 .pill{display:inline-block;padding:0 8px;border-radius:99px;border:1px solid var(--line);font-size:12px;margin-right:6px}
 .new{background:var(--accent);color:#fff;border-color:transparent}
+.remote{color:var(--accent);border-color:var(--accent)}
+.visa{color:var(--visa);border-color:var(--visa)}
 .gap{color:var(--warn);font-size:14px}
 .applied{opacity:.45}
 a.btn{display:inline-block;padding:7px 12px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;margin-right:8px}
@@ -28,11 +30,16 @@ p{margin:6px 0}
 </head>
 <body>
 <header>
-  <h1>Worldwide Remote Jobs</h1>
+  <h1>Remote + Visa Jobs</h1>
   <div class="meta" id="info">Loading...</div>
   <div class="controls">
     <input id="q" placeholder="Search title, company, skill">
-    <label>Min score <input id="min" type="number" value="50" min="0" max="100" style="width:72px"></label>
+    <select id="path">
+      <option value="">Remote + visa</option>
+      <option value="remote">Remote only</option>
+      <option value="visa">Visa sponsored only</option>
+    </select>
+    <label>Min score <input id="min" type="number" value="40" min="0" max="100" style="width:72px"></label>
     <select id="verdict">
       <option value="">All verdicts</option>
       <option value="apply">apply</option>
@@ -53,11 +60,13 @@ function ago(iso){ if(!iso) return "date unknown"; const h=(Date.now()-new Date(
 
 function card(j){
   const llm = j.llm;
+  const path = j.path === "visa" ? '<span class="pill visa">visa sponsored</span>' : '<span class="pill remote">remote</span>';
   return `<div class="job ${applied.has(j.id)?"applied":""}">
     <div class="top">
       <div>
-        <strong>${esc(j.title)}</strong> at ${esc(j.company)} ${j.is_new?'<span class="pill new">new</span>':""}
-        <div class="meta">${esc(j.location)} · ${esc(j.source)} · ${ago(j.posted)}${j.salary?" · "+esc(j.salary):""}</div>
+        <strong>${esc(j.title)}</strong> at ${esc(j.company)}
+        <div>${path}${j.is_new?'<span class="pill new">new</span>':""}</div>
+        <div class="meta">${esc(j.location) || "location in posting"} · ${esc(j.source)} · ${ago(j.posted)}${j.salary?" · "+esc(j.salary):""}</div>
       </div>
       <div class="score">${j.score}</div>
     </div>
@@ -71,9 +80,10 @@ function card(j){
 }
 
 function render(){
-  const q=$("#q").value.toLowerCase(), min=+$("#min").value||0, v=$("#verdict").value;
+  const q=$("#q").value.toLowerCase(), min=+$("#min").value||0, v=$("#verdict").value, p=$("#path").value;
   const rows = JOBS.filter(j =>
     j.score >= min &&
+    (!p || j.path === p) &&
     (!v || j.llm?.verdict === v) &&
     (!$("#newOnly").checked || j.is_new) &&
     (!$("#hideApplied").checked || !applied.has(j.id)) &&
@@ -86,11 +96,12 @@ document.addEventListener("click", e => {
   applied.has(id) ? applied.delete(id) : applied.add(id);
   localStorage.setItem("applied", JSON.stringify([...applied])); render();
 });
-["#q","#min","#verdict","#newOnly","#hideApplied"].forEach(s => $(s).addEventListener("input", render));
+["#q","#path","#min","#verdict","#newOnly","#hideApplied"].forEach(s => $(s).addEventListener("input", render));
 
 fetch("jobs.json?" + Date.now()).then(r => r.json()).then(d => {
   JOBS = d.jobs;
-  $("#info").textContent = `${d.jobs.length} worldwide roles · ${d.rejected_count} filtered out · updated ${new Date(d.generated_at).toLocaleString()}`;
+  const visa = d.jobs.filter(j => j.path === "visa").length;
+  $("#info").textContent = `${d.jobs.length - visa} remote · ${visa} visa sponsored · ${d.rejected_count} filtered out · updated ${new Date(d.generated_at).toLocaleString()}`;
   render();
 }).catch(() => $("#info").textContent = "Could not load jobs.json");
 </script>
