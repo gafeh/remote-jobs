@@ -1,69 +1,98 @@
 {
- "generated_at": "2026-10-04T20:59:58.686101+00:00",
+ "generated_at": "2026-10-05T12:05:38.035502+00:00",
  "stats": {
-  "Remotive": 18,
+  "Remotive": 17,
   "RemoteOK": 99,
-  "WeWorkRemotely": 46,
+  "WeWorkRemotely": 49,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 54,
-  "HN Who's Hiring": 410,
+  "WorkingNomads": 56,
+  "HN Who's Hiring": 416,
   "Arbeitnow": 950,
-  "greenhouse:canonical": 310,
+  "greenhouse:canonical": 309,
   "greenhouse:automatticcareers": 14,
   "greenhouse:wikimedia": 11,
   "greenhouse:sourcegraph91": 10,
   "greenhouse:netlify": 5,
   "greenhouse:mozilla": 90,
-  "greenhouse:gitlab": 211,
-  "greenhouse:consensys": 7,
-  "greenhouse:okx": 328,
-  "greenhouse:elastic": 396,
+  "greenhouse:gitlab": 209,
+  "greenhouse:consensys": 8,
+  "greenhouse:okx": 329,
+  "greenhouse:elastic": 398,
   "greenhouse:labelbox": 9,
-  "ashby:supabase": 48,
+  "ashby:supabase": 47,
   "ashby:posthog": 8,
   "ashby:railway": 8,
-  "ashby:oyster": 26,
+  "ashby:oyster": 23,
   "ashby:zapier": 11,
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 2840,
+ "rejected_count": 2789,
  "jobs": [
   {
-   "id": "hn-49929264",
-   "title": "Software Engineers, Senior Research Engineer",
-   "company": "CVector",
-   "location": "ONSITE",
-   "url": "https://news.ycombinator.com/item?id=49929264",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-02T02:23:46+00:00",
+   "id": "arbeitnow-engineer-data-platforms-berlin-hq-118332",
+   "title": "Engineer - Data & Platforms (m/f/d)",
+   "company": "Bitcap",
+   "location": "Berlin HQ",
+   "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-118332",
+   "source": "Arbeitnow",
+   "posted": "2026-10-05T08:09:37+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 66,
-   "h_score": 54,
+   "score": 70,
+   "h_score": 66,
    "skills_hit": [
     "Python",
-    "TypeScript",
-    "PostgreSQL",
     "Backend",
-    "FastAPI",
+    "LLM",
     "AWS",
-    "Agents",
-    "Full stack",
-    "React"
+    "Agents"
    ],
-   "penalties": [
-    "senior title"
-   ],
+   "penalties": [],
    "llm": {
     "interview_odds": 72,
     "verdict": "apply",
-    "why": "Strong technical fit across backend, ML, and full-stack skills with relevant experience in payment systems and AI agents, but visa sponsorship must be confirmed as genuine for NYC onsite role.",
+    "why": "Strong technical fit with proven Python, SQL, AWS, and data pipeline experience; visa sponsorship offered; primary gap is lack of explicit financial/investment domain knowledge and Databricks/PySpark experience, but these are learnable and listed as nice-to-haves.",
     "gaps": [
-     "No graduation date on degree (visa typically requires completed degree confirmation)",
-     "Senior Research Engineer path emphasizes ML/analysis experience; primary background is backend engineering"
+     "No demonstrated financial data or investment domain experience",
+     "No explicit Databricks or PySpark experience mentioned",
+     "Degree lacks graduation date (listed as coursework only, not completed degree)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-forward-deployed-engineer-london-376572",
+   "title": "Forward Deployed Engineer",
+   "company": "True Talent Solutions Partners",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-376572",
+   "source": "Arbeitnow",
+   "posted": "2026-10-05T03:40:02+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 70,
+   "h_score": 66,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "Backend",
+    "LLM",
+    "Full stack",
+    "React"
+   ],
+   "penalties": [],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong technical fit with all core stack skills, relevant AI/LLM experience, and demonstrated ability to ship production systems; visa sponsorship explicitly offered mitigates location barrier, but lack of explicit graduation date on degree is a minor concern.",
+    "gaps": [
+     "No explicit graduation date shown for B.Eng. degree (visa requirements typically mandate completed degree with conferral date)"
     ],
     "location_ok": true
    },
@@ -96,6 +125,45 @@
     "why": "Strong technical fit with directly relevant backend, AI/LLM, and systems experience; visa sponsorship explicitly offered; degree listed but without graduation date is minor gap.",
     "gaps": [
      "Graduation date not specified for B.Eng. degree (visa requirements typically mandate completed degree with date)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "hn-49929264",
+   "title": "Software Engineers, Senior Research Engineer",
+   "company": "CVector",
+   "location": "ONSITE",
+   "url": "https://news.ycombinator.com/item?id=49929264",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-02T02:23:46+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 62,
+   "h_score": 44,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "PostgreSQL",
+    "Backend",
+    "FastAPI",
+    "AWS",
+    "Agents",
+    "Full stack",
+    "React"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong technical fit across backend, ML, and full-stack skills with relevant experience in payment systems and AI agents, but visa sponsorship must be confirmed as genuine for NYC onsite role.",
+    "gaps": [
+     "No graduation date on degree (visa typically requires completed degree confirmation)",
+     "Senior Research Engineer path emphasizes ML/analysis experience; primary background is backend engineering"
     ],
     "location_ok": true
    },
@@ -158,41 +226,6 @@
      "No explicit frontend/design system experience despite 'Product Engineer (Design)' role emphasis",
      "Degree lacks graduation date (only 'Coursework' listed, no completion confirmation)",
      "No demonstrated experience with project scheduling, construction domain, or spatial/timeline UIs"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "jobicy-154473",
-   "title": "Analyst II, Full Stack",
-   "company": "Affirm",
-   "location": "Spain",
-   "url": "https://jobicy.com/jobs/154473-analyst-ii-full-stack",
-   "source": "Jobicy",
-   "posted": "2026-10-03T19:24:27+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 20,
-   "h_score": 30,
-   "skills_hit": [
-    "Python",
-    "Full stack"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 15,
-    "verdict": "skip",
-    "why": "Strong backend engineer but role requires analytics engineering expertise (dbt, Snowflake, SQL-first workflows); candidate's experience is primarily fullstack/backend systems, not data warehouse/BI platforms, and visa sponsorship to Spain from Nigeria creates additional friction.",
-    "gaps": [
-     "3+ years analytics engineering or data engineering experience (candidate is backend/fullstack engineer)",
-     "Hands-on dbt modeling and testing at scale",
-     "Snowflake production experience",
-     "Finance/accounting domain knowledge",
-     "No completed degree with graduation date shown (only coursework listed)"
     ],
     "location_ok": true
    },
