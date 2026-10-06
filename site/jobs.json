@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-10-05T12:05:38.035502+00:00",
+ "generated_at": "2026-10-06T11:50:36.899604+00:00",
  "stats": {
-  "Remotive": 17,
+  "Remotive": 18,
   "RemoteOK": 99,
-  "WeWorkRemotely": 49,
+  "WeWorkRemotely": 51,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 56,
-  "HN Who's Hiring": 416,
-  "Arbeitnow": 950,
-  "greenhouse:canonical": 309,
+  "WorkingNomads": 55,
+  "HN Who's Hiring": 437,
+  "Arbeitnow": 936,
+  "greenhouse:canonical": 311,
   "greenhouse:automatticcareers": 14,
   "greenhouse:wikimedia": 11,
   "greenhouse:sourcegraph91": 10,
-  "greenhouse:netlify": 5,
+  "greenhouse:netlify": 6,
   "greenhouse:mozilla": 90,
-  "greenhouse:gitlab": 209,
+  "greenhouse:gitlab": 210,
   "greenhouse:consensys": 8,
-  "greenhouse:okx": 329,
-  "greenhouse:elastic": 398,
+  "greenhouse:okx": 332,
+  "greenhouse:elastic": 399,
   "greenhouse:labelbox": 9,
-  "ashby:supabase": 47,
+  "ashby:supabase": 49,
   "ashby:posthog": 8,
   "ashby:railway": 8,
-  "ashby:oyster": 23,
-  "ashby:zapier": 11,
+  "ashby:oyster": 20,
+  "ashby:zapier": 10,
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 2789,
+ "rejected_count": 2892,
  "jobs": [
   {
    "id": "arbeitnow-engineer-data-platforms-berlin-hq-118332",
@@ -41,8 +41,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 70,
-   "h_score": 66,
+   "score": 66,
+   "h_score": 56,
    "skills_hit": [
     "Python",
     "Backend",
@@ -75,8 +75,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 70,
-   "h_score": 66,
+   "score": 66,
+   "h_score": 56,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -128,7 +128,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49929264",
@@ -167,7 +167,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49532978",
@@ -199,7 +199,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49922693",
@@ -229,7 +229,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49523228",
@@ -262,39 +262,38 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "arbeitnow-propulsion-data-modeling-engineer-bordeaux-307676",
-   "title": "Propulsion Data & Modeling Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-data-modeling-engineer-bordeaux-307676",
-   "source": "Arbeitnow",
-   "posted": "2026-10-02T16:40:04+00:00",
+   "id": "himalayas-https://himalayas.app/companies/aecom/jobs/mechanical-engineering-lead-data-centers-remote-u-s-8532262130",
+   "title": "Mechanical Engineering Lead, Data Centers - Remote (U.S.)",
+   "company": "AECOM",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/aecom/jobs/mechanical-engineering-lead-data-centers-remote-u-s-8532262130",
+   "source": "Himalayas",
+   "posted": "2026-10-06T08:46:00+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 11,
-   "h_score": 16,
-   "skills_hit": [
-    "Python"
-   ],
+   "score": 5,
+   "h_score": 12,
+   "skills_hit": [],
    "penalties": [
+    "senior title",
     "weak skill overlap"
    ],
    "llm": {
-    "interview_odds": 8,
+    "interview_odds": 2,
     "verdict": "skip",
-    "why": "Aerospace propulsion systems engineering requires domain-specific expertise in thermodynamics, fluid dynamics, and propulsion hardware that this software engineer lacks entirely; the resume shows zero propulsion, aerospace, or classical engineering fundamentals experience.",
+    "why": "Candidate is a software engineer with zero mechanical engineering background, no P.E. license, no data center HVAC/piping/fire suppression experience, and lacks the required B.S. in Mechanical Engineering; visa sponsorship alone cannot overcome the complete absence of domain expertise.",
     "gaps": [
-     "No propulsion systems or aerospace engineering experience",
-     "No thermodynamics or fluid dynamics domain knowledge",
-     "No EcosimPro or similar high-fidelity simulation software experience",
-     "No test facility or hardware testing background",
-     "No demonstrated experience with storable or cryogenic propulsion systems",
-     "Degree incomplete (no graduation date shown on University of Lagos degree)",
-     "No classical hand calculations in fluid mechanics"
+     "Bachelor's degree in Mechanical Engineering (has B.Eng. in Systems Engineering)",
+     "Professional Engineer (P.E.) license required",
+     "10+ years mechanical engineering experience (has 4.5 years as software engineer)",
+     "HVAC, piping, and fire suppression systems design experience",
+     "Data center mechanical infrastructure experience",
+     "CAD/BIM software proficiency",
+     "No demonstrated transition from software to mechanical engineering"
     ],
     "location_ok": true
    },
