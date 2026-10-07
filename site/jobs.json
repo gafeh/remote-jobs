@@ -1,135 +1,35 @@
 {
- "generated_at": "2026-10-06T11:50:36.899604+00:00",
+ "generated_at": "2026-10-07T11:35:19.462846+00:00",
  "stats": {
-  "Remotive": 18,
+  "Remotive": 17,
   "RemoteOK": 99,
-  "WeWorkRemotely": 51,
+  "WeWorkRemotely": 53,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 55,
-  "HN Who's Hiring": 437,
-  "Arbeitnow": 936,
+  "WorkingNomads": 57,
+  "HN Who's Hiring": 446,
+  "Arbeitnow": 950,
   "greenhouse:canonical": 311,
-  "greenhouse:automatticcareers": 14,
+  "greenhouse:automatticcareers": 12,
   "greenhouse:wikimedia": 11,
   "greenhouse:sourcegraph91": 10,
   "greenhouse:netlify": 6,
-  "greenhouse:mozilla": 90,
-  "greenhouse:gitlab": 210,
+  "greenhouse:mozilla": 91,
+  "greenhouse:gitlab": 209,
   "greenhouse:consensys": 8,
-  "greenhouse:okx": 332,
-  "greenhouse:elastic": 399,
+  "greenhouse:okx": 337,
+  "greenhouse:elastic": 420,
   "greenhouse:labelbox": 9,
-  "ashby:supabase": 49,
-  "ashby:posthog": 8,
+  "ashby:supabase": 52,
+  "ashby:posthog": 10,
   "ashby:railway": 8,
   "ashby:oyster": 20,
-  "ashby:zapier": 10,
+  "ashby:zapier": 11,
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 2892,
+ "rejected_count": 2901,
  "jobs": [
-  {
-   "id": "arbeitnow-engineer-data-platforms-berlin-hq-118332",
-   "title": "Engineer - Data & Platforms (m/f/d)",
-   "company": "Bitcap",
-   "location": "Berlin HQ",
-   "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-118332",
-   "source": "Arbeitnow",
-   "posted": "2026-10-05T08:09:37+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 66,
-   "h_score": 56,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "LLM",
-    "AWS",
-    "Agents"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong technical fit with proven Python, SQL, AWS, and data pipeline experience; visa sponsorship offered; primary gap is lack of explicit financial/investment domain knowledge and Databricks/PySpark experience, but these are learnable and listed as nice-to-haves.",
-    "gaps": [
-     "No demonstrated financial data or investment domain experience",
-     "No explicit Databricks or PySpark experience mentioned",
-     "Degree lacks graduation date (listed as coursework only, not completed degree)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-forward-deployed-engineer-london-376572",
-   "title": "Forward Deployed Engineer",
-   "company": "True Talent Solutions Partners",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-376572",
-   "source": "Arbeitnow",
-   "posted": "2026-10-05T03:40:02+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 66,
-   "h_score": 56,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "Node.js",
-    "Backend",
-    "LLM",
-    "Full stack",
-    "React"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong technical fit with all core stack skills, relevant AI/LLM experience, and demonstrated ability to ship production systems; visa sponsorship explicitly offered mitigates location barrier, but lack of explicit graduation date on degree is a minor concern.",
-    "gaps": [
-     "No explicit graduation date shown for B.Eng. degree (visa requirements typically mandate completed degree with conferral date)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "hn-49525600",
-   "title": "Software + FDE + AI Engineers",
-   "company": "Balerion AI",
-   "location": "ONSITE",
-   "url": "https://news.ycombinator.com/item?id=49525600",
-   "source": "HN Who's Hiring",
-   "posted": "2026-09-01T18:08:42+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 63,
-   "h_score": 34,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "AWS",
-    "Evals",
-    "Agents"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 78,
-    "verdict": "apply",
-    "why": "Strong technical fit with directly relevant backend, AI/LLM, and systems experience; visa sponsorship explicitly offered; degree listed but without graduation date is minor gap.",
-    "gaps": [
-     "Graduation date not specified for B.Eng. degree (visa requirements typically mandate completed degree with date)"
-    ],
-    "location_ok": true
-   },
-   "is_new": false
-  },
   {
    "id": "hn-49929264",
    "title": "Software Engineers, Senior Research Engineer",
@@ -170,38 +70,6 @@
    "is_new": false
   },
   {
-   "id": "hn-49532978",
-   "title": "Python + SQL Software Engineer",
-   "company": "Multiply",
-   "location": "On-site",
-   "url": "https://news.ycombinator.com/item?id=49532978",
-   "source": "HN Who's Hiring",
-   "posted": "2026-09-02T07:32:47+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 61,
-   "h_score": 30,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "FastAPI",
-    "Agents"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 78,
-    "verdict": "apply",
-    "why": "Strong technical fit with Python, PostgreSQL, and production systems experience; visa sponsorship offered; only gaps are lack of formal degree completion date and repricing domain expertise.",
-    "gaps": [
-     "degree completion date not shown",
-     "repricing/pricing algorithm domain experience"
-    ],
-    "location_ok": true
-   },
-   "is_new": false
-  },
-  {
    "id": "hn-49922693",
    "title": "Product Engineer (Design) & Platform Engineer",
    "company": "Planlab.ai",
@@ -232,68 +100,34 @@
    "is_new": false
   },
   {
-   "id": "hn-49523228",
-   "title": "Machine Learning Engineer",
-   "company": "Attendi",
-   "location": "ONSITE (hybrid)",
-   "url": "https://news.ycombinator.com/item?id=49523228",
+   "id": "hn-49986633",
+   "title": "Research Engineer",
+   "company": "Flow Traders",
+   "location": "Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You\u2019ll work closely with Quantitative Researchers, drive end\u2011to\u2011end ML pipelines, and shape global standards for data\u2011driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You\u2019ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you're interested, apply here: https://www.flowtraders.com/careers/job-description/7431246",
+   "url": "https://news.ycombinator.com/item?id=49986633",
    "source": "HN Who's Hiring",
-   "posted": "2026-09-01T15:25:03+00:00",
+   "posted": "2026-10-07T01:12:38+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 18,
-   "h_score": 0,
+   "score": 19,
+   "h_score": 26,
    "skills_hit": [
-    "Full stack"
+    "Python"
    ],
    "penalties": [
     "weak skill overlap"
    ],
    "llm": {
-    "interview_odds": 28,
+    "interview_odds": 15,
     "verdict": "skip",
-    "why": "Strong backend/systems engineer with some ML exposure, but lacks hands-on production ML experience (model training, serving, monitoring, MLOps) that this role explicitly requires; visa sponsorship is available but significant skill gap makes interview unlikely.",
+    "why": "Candidate has ~2.5 years of relevant experience, falls far short of 8+ year requirement; lacks demonstrated ML research background, quantitative trading experience, and Ray/PyTorch expertise; visa sponsorship offered but experience gap is disqualifying.",
     "gaps": [
-     "No demonstrated hands-on ML engineering experience (model training pipelines, experiment tracking, model serving, monitoring in production)",
-     "No MLOps/ML infrastructure experience (model registry, retraining pipelines, A/B testing, feature stores)",
-     "LLM agent evaluation is not production ML engineering; missing core ML skills like model optimization, inference serving, model drift detection",
-     "No degree completion date listed (B.Eng. shows no graduation year, may impact visa requirements)"
-    ],
-    "location_ok": true
-   },
-   "is_new": false
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/aecom/jobs/mechanical-engineering-lead-data-centers-remote-u-s-8532262130",
-   "title": "Mechanical Engineering Lead, Data Centers - Remote (U.S.)",
-   "company": "AECOM",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/aecom/jobs/mechanical-engineering-lead-data-centers-remote-u-s-8532262130",
-   "source": "Himalayas",
-   "posted": "2026-10-06T08:46:00+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 5,
-   "h_score": 12,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 2,
-    "verdict": "skip",
-    "why": "Candidate is a software engineer with zero mechanical engineering background, no P.E. license, no data center HVAC/piping/fire suppression experience, and lacks the required B.S. in Mechanical Engineering; visa sponsorship alone cannot overcome the complete absence of domain expertise.",
-    "gaps": [
-     "Bachelor's degree in Mechanical Engineering (has B.Eng. in Systems Engineering)",
-     "Professional Engineer (P.E.) license required",
-     "10+ years mechanical engineering experience (has 4.5 years as software engineer)",
-     "HVAC, piping, and fire suppression systems design experience",
-     "Data center mechanical infrastructure experience",
-     "CAD/BIM software proficiency",
-     "No demonstrated transition from software to mechanical engineering"
+     "8+ years ML/Data Science/Research Engineering experience (has ~2.5 years)",
+     "ML research and quantitative trading domain experience",
+     "Ray framework experience",
+     "PyTorch experience",
+     "Demonstrated math/stats research background (has coursework only, no research projects)"
     ],
     "location_ok": true
    },
