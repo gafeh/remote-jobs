@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-10-08T11:49:56.689378+00:00",
+ "generated_at": "2026-10-09T11:41:59.577651+00:00",
  "stats": {
-  "Remotive": 19,
+  "Remotive": 17,
   "RemoteOK": 99,
-  "WeWorkRemotely": 55,
+  "WeWorkRemotely": 53,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 41,
-  "HN Who's Hiring": 457,
+  "WorkingNomads": 54,
+  "HN Who's Hiring": 459,
   "Arbeitnow": 950,
   "greenhouse:canonical": 311,
   "greenhouse:automatticcareers": 13,
   "greenhouse:wikimedia": 12,
   "greenhouse:sourcegraph91": 11,
   "greenhouse:netlify": 6,
-  "greenhouse:mozilla": 91,
-  "greenhouse:gitlab": 216,
-  "greenhouse:consensys": 9,
-  "greenhouse:okx": 341,
-  "greenhouse:elastic": 419,
+  "greenhouse:mozilla": 95,
+  "greenhouse:gitlab": 219,
+  "greenhouse:consensys": 10,
+  "greenhouse:okx": 346,
+  "greenhouse:elastic": 416,
   "greenhouse:labelbox": 9,
   "ashby:supabase": 53,
   "ashby:posthog": 10,
   "ashby:railway": 8,
-  "ashby:oyster": 22,
+  "ashby:oyster": 23,
   "ashby:zapier": 11,
   "ashby:clerk": 2,
-  "ashby:braintrust": 26
+  "ashby:braintrust": 27
  },
- "rejected_count": 2871,
+ "rejected_count": 2944,
  "jobs": [
   {
    "id": "hn-49929264",
@@ -41,8 +41,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 62,
-   "h_score": 44,
+   "score": 59,
+   "h_score": 34,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -80,8 +80,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 50,
-   "h_score": 10,
+   "score": 47,
+   "h_score": 0,
    "skills_hit": [],
    "penalties": [
     "weak skill overlap"
@@ -110,8 +110,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 23,
-   "h_score": 20,
+   "score": 20,
+   "h_score": 10,
    "skills_hit": [],
    "penalties": [
     "weak skill overlap"
@@ -166,75 +166,104 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-future-projects-thermal-engineer-munich-292905",
-   "title": "Future Projects Thermal Engineer",
+   "id": "arbeitnow-deputy-flight-software-lead-munich-379124",
+   "title": "Deputy Flight Software Lead",
    "company": "The Exploration Company",
    "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/future-projects-thermal-engineer-munich-292905",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/deputy-flight-software-lead-munich-379124",
    "source": "Arbeitnow",
-   "posted": "2026-10-07T11:40:12+00:00",
+   "posted": "2026-10-09T08:40:10+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 12,
-   "h_score": 20,
-   "skills_hit": [
-    "Python",
-    "Evals"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 8,
-    "verdict": "skip",
-    "why": "Candidate is a software engineer with zero thermal engineering, aerospace, or hardware experience; role requires 3+ years in thermal control systems and master's degree in aerospace/heat transfer.",
-    "gaps": [
-     "No thermal engineering background or experience",
-     "No aerospace engineering experience",
-     "No thermal analysis software experience (Thermal Desktop, ESATAN)",
-     "No thermal testing experience (thermal cycling, vacuum, balance tests)",
-     "No hardware procurement or supplier management experience",
-     "Degree not in aerospace, heat transfer, or fluid mechanics (Systems Engineering degree listed without graduation date)",
-     "No experience with spacecraft thermal subsystems"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-senior-engineer-graphics-unannounced-project-363659",
-   "title": "Senior Engineer, Graphics - Unannounced Project",
-   "company": "Scopely",
-   "location": "",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-engineer-graphics-unannounced-project-363659",
-   "source": "Arbeitnow",
-   "posted": "2026-10-08T09:55:11+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 7,
-   "h_score": 6,
-   "skills_hit": [
-    "Payments"
-   ],
+   "score": 10,
+   "h_score": 2,
+   "skills_hit": [],
    "penalties": [
     "senior title",
     "asks 5+ yrs",
     "weak skill overlap"
    ],
    "llm": {
+    "interview_odds": 15,
+    "verdict": "skip",
+    "why": "Strong technical depth but lacks flight software domain experience, leadership track record, and formal degree completion\u2014critical gaps for a Deputy Lead role at aerospace company requiring visa sponsorship.",
+    "gaps": [
+     "No flight software development experience (embedded systems, real-time constraints, space/aerospace domain)",
+     "No demonstrated leadership or team management experience (role requires coordinating teams, hiring, stakeholder management)",
+     "Degree incomplete\u2014resume shows 'Coursework' only, no graduation date or conferral statement (work visa requirement)",
+     "No experience with safety-critical systems, formal verification, or aerospace standards (DO-178C, ECSS)",
+     "5+ years experience requirement borderline (r\u00e9sum\u00e9 shows ~4 years in two roles, neither in aerospace)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-c-performance-engineer-munich-bavaria-300535",
+   "title": "Senior C++ Performance Engineer",
+   "company": "Agilerobotsse",
+   "location": "Munich, Bavaria",
+   "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-munich-bavaria-300535",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08T20:55:25+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 5,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "senior title",
+    "asks 7+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": {
     "interview_odds": 8,
     "verdict": "skip",
-    "why": "Candidate is a backend/AI engineer with zero graphics programming experience, no C++, no Vulkan/Metal, no shader writing, and no mobile GPU optimization background\u2014this is a specialized graphics role requiring 5+ years in that domain.",
+    "why": "Candidate lacks 7+ years C++ experience (primarily TypeScript/Python backend), has no systems-level performance engineering background, and while visa sponsorship is offered, the role requires deep C++ expertise in real-time systems that this resume does not demonstrate.",
     "gaps": [
-     "5+ years graphics programming experience (candidate has 0)",
-     "Strong C++ skills in rendering code (candidate uses TypeScript/Python primarily)",
-     "Vulkan and/or Metal API expertise (not mentioned)",
-     "Unity Scriptable Render Pipeline experience (not mentioned)",
-     "Mobile GPU architecture and optimization (not mentioned)",
-     "Shader programming (HLSL/GLSL/MSL) (not mentioned)",
-     "GPU performance profiling tools (RenderDoc, Perfetto, Mali/Snapdragon profilers) (not mentioned)"
+     "7+ years professional C++ development (resume shows TypeScript/Node.js and Python as primary languages)",
+     "Proven performance engineering with profiling, benchmarking, and latency optimization",
+     "Systems-level expertise: thread-safety, lock-free data structures, CPU affinity, real-time scheduling",
+     "Experience with C++17/C++20 templates and compile-time design",
+     "Hardware-in-the-loop or real-time systems experience"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-composite-engineer-munich-103690",
+   "title": "Senior Composite Engineer",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-composite-engineer-munich-103690",
+   "source": "Arbeitnow",
+   "posted": "2026-10-09T08:40:10+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 3,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "senior title",
+    "asks 8+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 5,
+    "verdict": "skip",
+    "why": "Candidate is a software engineer with zero aerospace/space composites experience; role requires 8+ years in structural analysis of composite aerospace hardware, FEA expertise, and materials engineering fundamentals that are entirely absent from resume.",
+    "gaps": [
+     "No aerospace or space industry experience",
+     "No composite materials or structural mechanics background",
+     "No finite element analysis (FEA) or CAD software experience (Altair, Nastran, NX)",
+     "No structural design, verification, or qualification experience for high-reliability hardware",
+     "No damage tolerance or joint analysis experience",
+     "Degree is Systems Engineering (not Mechanical/Aerospace Engineering as required)",
+     "8+ years aerospace composite structures experience completely missing"
     ],
     "location_ok": true
    },
