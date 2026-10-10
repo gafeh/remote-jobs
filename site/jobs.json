@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-10-09T11:41:59.577651+00:00",
+ "generated_at": "2026-10-10T11:00:04.398104+00:00",
  "stats": {
   "Remotive": 17,
   "RemoteOK": 99,
-  "WeWorkRemotely": 53,
+  "WeWorkRemotely": 55,
   "Himalayas": 300,
   "Jobicy": 100,
   "WorkingNomads": 54,
-  "HN Who's Hiring": 459,
+  "HN Who's Hiring": 461,
   "Arbeitnow": 950,
   "greenhouse:canonical": 311,
   "greenhouse:automatticcareers": 13,
   "greenhouse:wikimedia": 12,
   "greenhouse:sourcegraph91": 11,
-  "greenhouse:netlify": 6,
+  "greenhouse:netlify": 5,
   "greenhouse:mozilla": 95,
-  "greenhouse:gitlab": 219,
+  "greenhouse:gitlab": 221,
   "greenhouse:consensys": 10,
   "greenhouse:okx": 346,
-  "greenhouse:elastic": 416,
-  "greenhouse:labelbox": 9,
-  "ashby:supabase": 53,
+  "greenhouse:elastic": 409,
+  "greenhouse:labelbox": 8,
+  "ashby:supabase": 54,
   "ashby:posthog": 10,
   "ashby:railway": 8,
   "ashby:oyster": 23,
@@ -28,8 +28,187 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 2944,
+ "rejected_count": 2954,
  "jobs": [
+  {
+   "id": "arbeitnow-backend-engineer-london-183481",
+   "title": "Backend Engineer",
+   "company": "Wheely",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-london-183481",
+   "source": "Arbeitnow",
+   "posted": "2026-10-10T06:55:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 71,
+   "h_score": 68,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Redis"
+   ],
+   "penalties": [],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong backend engineering fundamentals and relevant experience with databases, message queues, and microservices; Go is the main gap but employer explicitly hires for engineering fundamentals in other languages, and candidate has Python/TypeScript expertise; visa sponsorship is explicitly offered.",
+    "gaps": [
+     "No Go experience (primary language requirement)",
+     "No explicit RabbitMQ or Kafka message broker production experience mentioned",
+     "Degree lacks graduation date (required for visa sponsorship)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-engineer-data-platforms-berlin-hq-439123",
+   "title": "Engineer - Data & Platforms (m/f/d)",
+   "company": "Bitcap",
+   "location": "Berlin HQ",
+   "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-439123",
+   "source": "Arbeitnow",
+   "posted": "2026-10-09T17:09:20+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 70,
+   "h_score": 66,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "LLM",
+    "AWS",
+    "Agents"
+   ],
+   "penalties": [],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong technical fit across Python, SQL, AWS, data engineering, and production systems with proven ability to own complex platforms end-to-end; visa sponsorship explicitly offered; minor gaps are domain knowledge (investment/finance) and explicit Databricks/PySpark experience, both marked as nice-to-have.",
+    "gaps": [],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-backend-engineer-mid-senior-marketplace-london-471405",
+   "title": "Backend Engineer (Mid/Senior), Marketplace",
+   "company": "Wheely",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-mid-senior-marketplace-london-471405",
+   "source": "Arbeitnow",
+   "posted": "2026-10-10T06:55:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 68,
+   "h_score": 60,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Redis"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong backend engineer with excellent Go fundamentals (Python/TypeScript), all core DB/messaging skills, and relevant marketplace experience, but lacks explicit Go production experience and Go role is primary requirement.",
+    "gaps": [
+     "No production Go experience (primary language for role)",
+     "Degree lacks graduation date (needed for visa sponsorship)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-backend-engineer-mid-senior-maps-london-457636",
+   "title": "Backend Engineer (Mid/Senior), Maps",
+   "company": "Wheely",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-mid-senior-maps-london-457636",
+   "source": "Arbeitnow",
+   "posted": "2026-10-10T06:55:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 68,
+   "h_score": 60,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Redis"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong backend engineering fundamentals with relevant database/messaging experience, but lacks explicit geospatial/mapping background and Go proficiency; visa sponsorship offered mitigates location concern, though degree lacks graduation date.",
+    "gaps": [
+     "No demonstrated mapping/geospatial experience (map-matching, routing algorithms, or road networks)",
+     "No Go language experience (though resume shows Python/TypeScript equivalent for 'fundamentals')",
+     "Degree lacks graduation date (only 'B.Eng., Systems Engineering' listed without year)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-backend-engineer-london-347627",
+   "title": "Senior Backend Engineer",
+   "company": "Wheely",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-london-347627",
+   "source": "Arbeitnow",
+   "posted": "2026-10-10T06:55:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 61,
+   "h_score": 40,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Redis"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 6+ yrs"
+   ],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong backend fundamentals across all core tech stack (PostgreSQL, Redis, message queues, AWS, Kubernetes, Terraform) with 4.5+ years proven experience; primary gap is Go expertise and seniority level, but role explicitly accepts strongest language and hires for fundamentals; visa sponsorship explicitly offered.",
+    "gaps": [
+     "Go programming language (primary requirement; has Python, TypeScript, Java, C++ but not Go)",
+     "6+ years backend experience (has ~4.5 years; currently at 'Senior Backend Engineer' level but may be viewed as mid-level)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
   {
    "id": "hn-49929264",
    "title": "Software Engineers, Senior Research Engineer",
@@ -129,7 +308,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49986633",
@@ -142,8 +321,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 15,
-   "h_score": 16,
+   "score": 12,
+   "h_score": 6,
    "skills_hit": [
     "Python"
    ],
@@ -177,7 +356,7 @@
    "path": "visa",
    "visa": "yes",
    "score": 10,
-   "h_score": 2,
+   "h_score": 0,
    "skills_hit": [],
    "penalties": [
     "senior title",
@@ -194,40 +373,6 @@
      "Degree incomplete\u2014resume shows 'Coursework' only, no graduation date or conferral statement (work visa requirement)",
      "No experience with safety-critical systems, formal verification, or aerospace standards (DO-178C, ECSS)",
      "5+ years experience requirement borderline (r\u00e9sum\u00e9 shows ~4 years in two roles, neither in aerospace)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-senior-c-performance-engineer-munich-bavaria-300535",
-   "title": "Senior C++ Performance Engineer",
-   "company": "Agilerobotsse",
-   "location": "Munich, Bavaria",
-   "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-munich-bavaria-300535",
-   "source": "Arbeitnow",
-   "posted": "2026-10-08T20:55:25+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 5,
-   "h_score": 0,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "asks 7+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 8,
-    "verdict": "skip",
-    "why": "Candidate lacks 7+ years C++ experience (primarily TypeScript/Python backend), has no systems-level performance engineering background, and while visa sponsorship is offered, the role requires deep C++ expertise in real-time systems that this resume does not demonstrate.",
-    "gaps": [
-     "7+ years professional C++ development (resume shows TypeScript/Node.js and Python as primary languages)",
-     "Proven performance engineering with profiling, benchmarking, and latency optimization",
-     "Systems-level expertise: thread-safety, lock-free data structures, CPU affinity, real-time scheduling",
-     "Experience with C++17/C++20 templates and compile-time design",
-     "Hardware-in-the-loop or real-time systems experience"
     ],
     "location_ok": true
    },
