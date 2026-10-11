@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-10T11:00:04.398104+00:00",
+ "generated_at": "2026-10-11T11:16:36.794505+00:00",
  "stats": {
-  "Remotive": 17,
+  "Remotive": 18,
   "RemoteOK": 99,
-  "WeWorkRemotely": 55,
+  "WeWorkRemotely": 56,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 54,
-  "HN Who's Hiring": 461,
+  "WorkingNomads": 53,
+  "HN Who's Hiring": 462,
   "Arbeitnow": 950,
   "greenhouse:canonical": 311,
   "greenhouse:automatticcareers": 13,
-  "greenhouse:wikimedia": 12,
+  "greenhouse:wikimedia": 11,
   "greenhouse:sourcegraph91": 11,
   "greenhouse:netlify": 5,
   "greenhouse:mozilla": 95,
@@ -28,39 +28,39 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 2954,
+ "rejected_count": 2956,
  "jobs": [
   {
-   "id": "arbeitnow-backend-engineer-london-183481",
-   "title": "Backend Engineer",
-   "company": "Wheely",
+   "id": "arbeitnow-forward-deployed-engineer-london-57699",
+   "title": "Forward Deployed Engineer",
+   "company": "True Talent Solutions Partners",
    "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-london-183481",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-57699",
    "source": "Arbeitnow",
-   "posted": "2026-10-10T06:55:12+00:00",
+   "posted": "2026-10-11T09:40:02+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 71,
-   "h_score": 68,
+   "score": 70,
+   "h_score": 66,
    "skills_hit": [
     "Python",
-    "PostgreSQL",
+    "TypeScript",
+    "Node.js",
     "Backend",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "Redis"
+    "LLM",
+    "Full stack",
+    "React"
    ],
    "penalties": [],
    "llm": {
     "interview_odds": 72,
     "verdict": "apply",
-    "why": "Strong backend engineering fundamentals and relevant experience with databases, message queues, and microservices; Go is the main gap but employer explicitly hires for engineering fundamentals in other languages, and candidate has Python/TypeScript expertise; visa sponsorship is explicitly offered.",
+    "why": "Strong technical fit with proven full-stack, backend, AI/LLM, and production shipping experience; visa sponsorship explicitly offered mitigates location constraint; degree requirement met despite lacking graduation date.",
     "gaps": [
-     "No Go experience (primary language requirement)",
-     "No explicit RabbitMQ or Kafka message broker production experience mentioned",
-     "Degree lacks graduation date (required for visa sponsorship)"
+     "No explicit compliance, certification, or regulated industry software experience",
+     "No demonstrated customer-facing discovery or requirements gathering in resume",
+     "Resume lacks graduation date from University of Lagos (degree awarded year unclear)"
     ],
     "location_ok": true
    },
@@ -77,8 +77,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 70,
-   "h_score": 66,
+   "score": 66,
+   "h_score": 56,
    "skills_hit": [
     "Python",
     "Backend",
@@ -94,120 +94,7 @@
     "gaps": [],
     "location_ok": true
    },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-backend-engineer-mid-senior-marketplace-london-471405",
-   "title": "Backend Engineer (Mid/Senior), Marketplace",
-   "company": "Wheely",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-mid-senior-marketplace-london-471405",
-   "source": "Arbeitnow",
-   "posted": "2026-10-10T06:55:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 68,
-   "h_score": 60,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "Redis"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong backend engineer with excellent Go fundamentals (Python/TypeScript), all core DB/messaging skills, and relevant marketplace experience, but lacks explicit Go production experience and Go role is primary requirement.",
-    "gaps": [
-     "No production Go experience (primary language for role)",
-     "Degree lacks graduation date (needed for visa sponsorship)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-backend-engineer-mid-senior-maps-london-457636",
-   "title": "Backend Engineer (Mid/Senior), Maps",
-   "company": "Wheely",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-mid-senior-maps-london-457636",
-   "source": "Arbeitnow",
-   "posted": "2026-10-10T06:55:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 68,
-   "h_score": 60,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "Redis"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong backend engineering fundamentals with relevant database/messaging experience, but lacks explicit geospatial/mapping background and Go proficiency; visa sponsorship offered mitigates location concern, though degree lacks graduation date.",
-    "gaps": [
-     "No demonstrated mapping/geospatial experience (map-matching, routing algorithms, or road networks)",
-     "No Go language experience (though resume shows Python/TypeScript equivalent for 'fundamentals')",
-     "Degree lacks graduation date (only 'B.Eng., Systems Engineering' listed without year)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-senior-backend-engineer-london-347627",
-   "title": "Senior Backend Engineer",
-   "company": "Wheely",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-london-347627",
-   "source": "Arbeitnow",
-   "posted": "2026-10-10T06:55:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 61,
-   "h_score": 40,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "Redis"
-   ],
-   "penalties": [
-    "senior title",
-    "asks 6+ yrs"
-   ],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong backend fundamentals across all core tech stack (PostgreSQL, Redis, message queues, AWS, Kubernetes, Terraform) with 4.5+ years proven experience; primary gap is Go expertise and seniority level, but role explicitly accepts strongest language and hires for fundamentals; visa sponsorship explicitly offered.",
-    "gaps": [
-     "Go programming language (primary requirement; has Python, TypeScript, Java, C++ but not Go)",
-     "6+ years backend experience (has ~4.5 years; currently at 'Senior Backend Engineer' level but may be viewed as mid-level)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49929264",
@@ -279,6 +166,42 @@
    "is_new": false
   },
   {
+   "id": "himalayas-https://himalayas.app/companies/xperteez-technology/jobs/senior-mobile-developer-remote-contract",
+   "title": "Senior Mobile Developer | Remote - Contract",
+   "company": "Xperteez Technology",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/senior-mobile-developer-remote-contract",
+   "source": "Himalayas",
+   "posted": "2026-10-11T10:40:36+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 17,
+   "h_score": 20,
+   "skills_hit": [
+    "TypeScript",
+    "React"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 15,
+    "verdict": "skip",
+    "why": "Candidate is a backend/AI specialist with no demonstrated mobile development experience (no Swift, Kotlin, React Native, or Flutter), which are must-haves for this senior mobile role.",
+    "gaps": [
+     "No Swift experience (iOS requirement)",
+     "No Kotlin experience (Android requirement)",
+     "No React Native or Flutter experience (cross-platform requirement)",
+     "No mobile application development portfolio or projects",
+     "No demonstrated mobile architecture, state management, or lifecycle expertise"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
    "id": "hn-50003866",
    "title": "Blockchain Security Engineer",
    "company": "ChainSecurity",
@@ -289,8 +212,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 20,
-   "h_score": 10,
+   "score": 16,
+   "h_score": 0,
    "skills_hit": [],
    "penalties": [
     "weak skill overlap"
@@ -343,76 +266,6 @@
     "location_ok": true
    },
    "is_new": false
-  },
-  {
-   "id": "arbeitnow-deputy-flight-software-lead-munich-379124",
-   "title": "Deputy Flight Software Lead",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/deputy-flight-software-lead-munich-379124",
-   "source": "Arbeitnow",
-   "posted": "2026-10-09T08:40:10+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 10,
-   "h_score": 0,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 15,
-    "verdict": "skip",
-    "why": "Strong technical depth but lacks flight software domain experience, leadership track record, and formal degree completion\u2014critical gaps for a Deputy Lead role at aerospace company requiring visa sponsorship.",
-    "gaps": [
-     "No flight software development experience (embedded systems, real-time constraints, space/aerospace domain)",
-     "No demonstrated leadership or team management experience (role requires coordinating teams, hiring, stakeholder management)",
-     "Degree incomplete\u2014resume shows 'Coursework' only, no graduation date or conferral statement (work visa requirement)",
-     "No experience with safety-critical systems, formal verification, or aerospace standards (DO-178C, ECSS)",
-     "5+ years experience requirement borderline (r\u00e9sum\u00e9 shows ~4 years in two roles, neither in aerospace)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-senior-composite-engineer-munich-103690",
-   "title": "Senior Composite Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-composite-engineer-munich-103690",
-   "source": "Arbeitnow",
-   "posted": "2026-10-09T08:40:10+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 3,
-   "h_score": 0,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "asks 8+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 5,
-    "verdict": "skip",
-    "why": "Candidate is a software engineer with zero aerospace/space composites experience; role requires 8+ years in structural analysis of composite aerospace hardware, FEA expertise, and materials engineering fundamentals that are entirely absent from resume.",
-    "gaps": [
-     "No aerospace or space industry experience",
-     "No composite materials or structural mechanics background",
-     "No finite element analysis (FEA) or CAD software experience (Altair, Nastran, NX)",
-     "No structural design, verification, or qualification experience for high-reliability hardware",
-     "No damage tolerance or joint analysis experience",
-     "Degree is Systems Engineering (not Mechanical/Aerospace Engineering as required)",
-     "8+ years aerospace composite structures experience completely missing"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
   }
  ]
 }
