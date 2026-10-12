@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-11T11:16:36.794505+00:00",
+ "generated_at": "2026-10-12T12:49:54.339694+00:00",
  "stats": {
-  "Remotive": 18,
+  "Remotive": 15,
   "RemoteOK": 99,
   "WeWorkRemotely": 56,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 53,
-  "HN Who's Hiring": 462,
+  "WorkingNomads": 49,
+  "HN Who's Hiring": 463,
   "Arbeitnow": 950,
   "greenhouse:canonical": 311,
   "greenhouse:automatticcareers": 13,
@@ -17,10 +17,10 @@
   "greenhouse:mozilla": 95,
   "greenhouse:gitlab": 221,
   "greenhouse:consensys": 10,
-  "greenhouse:okx": 346,
-  "greenhouse:elastic": 409,
+  "greenhouse:okx": 349,
+  "greenhouse:elastic": 407,
   "greenhouse:labelbox": 8,
-  "ashby:supabase": 54,
+  "ashby:supabase": 53,
   "ashby:posthog": 10,
   "ashby:railway": 8,
   "ashby:oyster": 23,
@@ -28,7 +28,7 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 2956,
+ "rejected_count": 2936,
  "jobs": [
   {
    "id": "arbeitnow-forward-deployed-engineer-london-57699",
@@ -41,8 +41,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 70,
-   "h_score": 66,
+   "score": 66,
+   "h_score": 56,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -62,36 +62,6 @@
      "No demonstrated customer-facing discovery or requirements gathering in resume",
      "Resume lacks graduation date from University of Lagos (degree awarded year unclear)"
     ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-engineer-data-platforms-berlin-hq-439123",
-   "title": "Engineer - Data & Platforms (m/f/d)",
-   "company": "Bitcap",
-   "location": "Berlin HQ",
-   "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-439123",
-   "source": "Arbeitnow",
-   "posted": "2026-10-09T17:09:20+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 66,
-   "h_score": 56,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "LLM",
-    "AWS",
-    "Agents"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong technical fit across Python, SQL, AWS, data engineering, and production systems with proven ability to own complex platforms end-to-end; visa sponsorship explicitly offered; minor gaps are domain knowledge (investment/finance) and explicit Databricks/PySpark experience, both marked as nice-to-have.",
-    "gaps": [],
     "location_ok": true
    },
    "is_new": false
@@ -136,6 +106,38 @@
    "is_new": false
   },
   {
+   "id": "arbeitnow-integrations-engineer-london-101457",
+   "title": "Integrations Engineer",
+   "company": "Getscope",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/integrations-engineer-london-101457",
+   "source": "Arbeitnow",
+   "posted": "2026-10-11T15:40:10+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 56,
+   "h_score": 26,
+   "skills_hit": [
+    "Backend"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong backend engineering and API design expertise directly matches core requirements; visa sponsorship offered; only gap is lack of integration-specific experience and in-person London requirement.",
+    "gaps": [
+     "No demonstrated experience building integration frameworks or working with third-party APIs at scale",
+     "No experience with Zapier, Make, or no-code integration platforms",
+     "Degree shows 'Coursework' without graduation date\u2014may not satisfy UK visa requirements"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
    "id": "hn-49922693",
    "title": "Product Engineer (Design) & Platform Engineer",
    "company": "Planlab.ai",
@@ -164,42 +166,6 @@
     "location_ok": true
    },
    "is_new": false
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/xperteez-technology/jobs/senior-mobile-developer-remote-contract",
-   "title": "Senior Mobile Developer | Remote - Contract",
-   "company": "Xperteez Technology",
-   "location": "Worldwide",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/senior-mobile-developer-remote-contract",
-   "source": "Himalayas",
-   "posted": "2026-10-11T10:40:36+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 17,
-   "h_score": 20,
-   "skills_hit": [
-    "TypeScript",
-    "React"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 15,
-    "verdict": "skip",
-    "why": "Candidate is a backend/AI specialist with no demonstrated mobile development experience (no Swift, Kotlin, React Native, or Flutter), which are must-haves for this senior mobile role.",
-    "gaps": [
-     "No Swift experience (iOS requirement)",
-     "No Kotlin experience (Android requirement)",
-     "No React Native or Flutter experience (cross-platform requirement)",
-     "No mobile application development portfolio or projects",
-     "No demonstrated mobile architecture, state management, or lifecycle expertise"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
   },
   {
    "id": "hn-50003866",
