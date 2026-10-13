@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-12T12:49:54.339694+00:00",
+ "generated_at": "2026-10-13T12:29:46.906410+00:00",
  "stats": {
-  "Remotive": 15,
+  "Remotive": 16,
   "RemoteOK": 99,
-  "WeWorkRemotely": 56,
+  "WeWorkRemotely": 59,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 49,
-  "HN Who's Hiring": 463,
-  "Arbeitnow": 950,
+  "WorkingNomads": 51,
+  "HN Who's Hiring": 469,
+  "Arbeitnow": 1437,
   "greenhouse:canonical": 311,
   "greenhouse:automatticcareers": 13,
   "greenhouse:wikimedia": 11,
@@ -16,33 +16,33 @@
   "greenhouse:netlify": 5,
   "greenhouse:mozilla": 95,
   "greenhouse:gitlab": 221,
-  "greenhouse:consensys": 10,
+  "greenhouse:consensys": 9,
   "greenhouse:okx": 349,
-  "greenhouse:elastic": 407,
+  "greenhouse:elastic": 409,
   "greenhouse:labelbox": 8,
-  "ashby:supabase": 53,
+  "ashby:supabase": 52,
   "ashby:posthog": 10,
   "ashby:railway": 8,
   "ashby:oyster": 23,
   "ashby:zapier": 11,
   "ashby:clerk": 2,
-  "ashby:braintrust": 27
+  "ashby:braintrust": 26
  },
- "rejected_count": 2936,
+ "rejected_count": 3260,
  "jobs": [
   {
-   "id": "arbeitnow-forward-deployed-engineer-london-57699",
-   "title": "Forward Deployed Engineer",
+   "id": "arbeitnow-mid-level-forward-deployed-engineer-london-201253",
+   "title": "Mid-Level Forward Deployed Engineer",
    "company": "True Talent Solutions Partners",
    "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-57699",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/mid-level-forward-deployed-engineer-london-201253",
    "source": "Arbeitnow",
-   "posted": "2026-10-11T09:40:02+00:00",
+   "posted": "2026-10-13T05:40:55+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 66,
-   "h_score": 56,
+   "score": 70,
+   "h_score": 66,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -56,15 +56,43 @@
    "llm": {
     "interview_odds": 72,
     "verdict": "apply",
-    "why": "Strong technical fit with proven full-stack, backend, AI/LLM, and production shipping experience; visa sponsorship explicitly offered mitigates location constraint; degree requirement met despite lacking graduation date.",
+    "why": "Strong technical fit across all core requirements (Python, TypeScript, React, Node.js, SQL, LLMs, full-stack) with proven early-stage shipping experience, but visa sponsorship is genuinely offered and candidate has relevant degree; main risk is on-site London requirement and customer-facing embedded work style fit.",
+    "gaps": [],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "hn-50063001",
+   "title": "AI Application Engineer + Product Engineer",
+   "company": "Typify.dev ( https://typify.dev )",
+   "location": "San Francisco (hybrid / remote available)",
+   "url": "https://news.ycombinator.com/item?id=50063001",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-12T21:00:23+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 68,
+   "h_score": 60,
+   "skills_hit": [
+    "PostgreSQL",
+    "LLM",
+    "RAG",
+    "Evals"
+   ],
+   "penalties": [],
+   "llm": {
+    "interview_odds": 72,
+    "verdict": "apply",
+    "why": "Strong backend/AI engineering match with proven LLM eval and agent experience, but Angular requirement is a notable gap and visa sponsorship is uncertain despite 'visa' path designation.",
     "gaps": [
-     "No explicit compliance, certification, or regulated industry software experience",
-     "No demonstrated customer-facing discovery or requirements gathering in resume",
-     "Resume lacks graduation date from University of Lagos (degree awarded year unclear)"
+     "Angular (stack specifies Angular + NestJS, resume shows React/Next.js, not Angular)",
+     "Visa sponsorship confirmation (posting says 'visa' but unclear if genuinely available for non-US citizens)"
     ],
     "location_ok": true
    },
-   "is_new": false
+   "is_new": true
   },
   {
    "id": "hn-49929264",
@@ -106,38 +134,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-integrations-engineer-london-101457",
-   "title": "Integrations Engineer",
-   "company": "Getscope",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/integrations-engineer-london-101457",
-   "source": "Arbeitnow",
-   "posted": "2026-10-11T15:40:10+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 56,
-   "h_score": 26,
-   "skills_hit": [
-    "Backend"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong backend engineering and API design expertise directly matches core requirements; visa sponsorship offered; only gap is lack of integration-specific experience and in-person London requirement.",
-    "gaps": [
-     "No demonstrated experience building integration frameworks or working with third-party APIs at scale",
-     "No experience with Zapier, Make, or no-code integration platforms",
-     "Degree shows 'Coursework' without graduation date\u2014may not satisfy UK visa requirements"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
    "id": "hn-49922693",
    "title": "Product Engineer (Design) & Platform Engineer",
    "company": "Planlab.ai",
@@ -166,6 +162,77 @@
     "location_ok": true
    },
    "is_new": false
+  },
+  {
+   "id": "arbeitnow-deep-learning-research-engineer-amsterdam-420027",
+   "title": "Deep Learning Research Engineer",
+   "company": "Plumerai",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/plumerai/deep-learning-research-engineer-amsterdam-420027",
+   "source": "Arbeitnow",
+   "posted": "2026-10-12T12:40:15+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 34,
+   "h_score": 44,
+   "skills_hit": [
+    "Python",
+    "LLM",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": {
+    "interview_odds": 28,
+    "verdict": "skip",
+    "why": "Strong ML engineering fundamentals but lacks required computer vision and multimodal LLM production experience; visa sponsorship offered but resume shows incomplete degree (B.Eng. listed without graduation date), which creates visa eligibility risk.",
+    "gaps": [
+     "Strong computer vision production experience (candidate focused on backend/payment systems, not CV)",
+     "Multimodal LLM training and deployment at scale (candidate has LLM evaluation, not training)",
+     "Completed degree with graduation date (required for visa sponsorship)",
+     "Neural networks trained and deployed to production in computer vision domain"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-deep-learning-research-engineer-amsterdam-224285",
+   "title": "Senior Deep Learning Research Engineer",
+   "company": "Plumerai",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/plumerai/senior-deep-learning-research-engineer-amsterdam-224285",
+   "source": "Arbeitnow",
+   "posted": "2026-10-12T12:40:15+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 25,
+   "h_score": 26,
+   "skills_hit": [
+    "Python",
+    "LLM",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs"
+   ],
+   "llm": {
+    "interview_odds": 25,
+    "verdict": "skip",
+    "why": "Strong ML engineering foundation but lacks demonstrated deep learning research experience, production computer vision deployments, and multimodal LLM work; visa sponsorship available but seniority and core specialization misaligned for Senior Deep Learning Research Engineer role.",
+    "gaps": [
+     "No evidence of training and deploying production computer vision models",
+     "No demonstrated multimodal LLM development or optimization experience",
+     "No deep reinforcement learning experience",
+     "No published research or conference papers typical for senior research roles",
+     "Backend/systems focus rather than deep learning research specialization",
+     "Degree lacks graduation date (cannot verify for visa requirements)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
   },
   {
    "id": "hn-50003866",
