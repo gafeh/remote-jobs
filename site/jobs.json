@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-10-14T09:57:18.307568+00:00",
+ "generated_at": "2026-10-15T09:39:33.557912+00:00",
  "stats": {
-  "Remotive": 16,
+  "Remotive": 15,
   "RemoteOK": 99,
-  "WeWorkRemotely": 58,
+  "WeWorkRemotely": 59,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 53,
-  "HN Who's Hiring": 469,
-  "Arbeitnow": 1428,
-  "greenhouse:canonical": 311,
-  "greenhouse:automatticcareers": 13,
+  "WorkingNomads": 52,
+  "HN Who's Hiring": 472,
+  "Arbeitnow": 1444,
+  "greenhouse:canonical": 310,
+  "greenhouse:automatticcareers": 12,
   "greenhouse:wikimedia": 12,
   "greenhouse:sourcegraph91": 11,
   "greenhouse:netlify": 5,
-  "greenhouse:mozilla": 96,
-  "greenhouse:gitlab": 215,
+  "greenhouse:mozilla": 89,
+  "greenhouse:gitlab": 217,
   "greenhouse:consensys": 8,
-  "greenhouse:okx": 352,
-  "greenhouse:elastic": 374,
+  "greenhouse:okx": 355,
+  "greenhouse:elastic": 381,
   "greenhouse:labelbox": 8,
-  "ashby:supabase": 52,
-  "ashby:posthog": 10,
+  "ashby:supabase": 54,
+  "ashby:posthog": 11,
   "ashby:railway": 8,
-  "ashby:oyster": 23,
+  "ashby:oyster": 24,
   "ashby:zapier": 11,
   "ashby:clerk": 2,
   "ashby:braintrust": 27
  },
- "rejected_count": 3419,
+ "rejected_count": 3312,
  "jobs": [
   {
    "id": "arbeitnow-forward-deployed-engineer-london-407434",
@@ -41,8 +41,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 70,
-   "h_score": 66,
+   "score": 66,
+   "h_score": 56,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -76,8 +76,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 70,
-   "h_score": 66,
+   "score": 66,
+   "h_score": 56,
    "skills_hit": [
     "Python",
     "Backend",
@@ -94,97 +94,6 @@
      "No explicit Databricks or PySpark experience mentioned",
      "No financial services or investment data domain experience",
      "Degree shows coursework but no graduation date listed"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-platform-engineer-london-282169",
-   "title": "Platform Engineer",
-   "company": "Refractal",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/refractal/platform-engineer-london-282169",
-   "source": "Arbeitnow",
-   "posted": "2026-10-13T14:40:47+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 67,
-   "h_score": 58,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "FastAPI",
-    "React"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong technical fit across FastAPI, Python, PostgreSQL, APIs, auth, and multi-tenant systems with proven backend ownership; visa sponsorship is offered and candidate has a relevant degree, but remote work preference and Lagos location create execution risk.",
-    "gaps": [],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-graduate-ai-role-london-348185",
-   "title": "Graduate AI Role",
-   "company": "Resonance",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/resonance/graduate-ai-role-london-348185",
-   "source": "Arbeitnow",
-   "posted": "2026-10-13T14:40:47+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 66,
-   "h_score": 56,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "Evals"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong technical foundation with proven AI/backend expertise and shipped products, but degree completion status is unclear and seniority level exceeds graduate role expectations\u2014visa sponsorship is offered, mitigating location barrier.",
-    "gaps": [
-     "No graduation date listed for B.Eng. degree (visa sponsorship typically requires completed degree with date)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-systems-engineer-london-392083",
-   "title": "Systems Engineer",
-   "company": "Refractal",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/refractal/systems-engineer-london-392083",
-   "source": "Arbeitnow",
-   "posted": "2026-10-13T14:40:47+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 65,
-   "h_score": 52,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Backend",
-    "Evals"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong technical fit across backend systems, distributed infrastructure, observability, and Postgres; visa sponsorship offered; only gap is missing explicit OpenTelemetry/observability tool experience and degree completion date.",
-    "gaps": [
-     "No explicit OpenTelemetry or production observability tooling experience mentioned",
-     "Degree completion date not stated (B.Eng. listed without graduation year)"
     ],
     "location_ok": true
    },
@@ -220,7 +129,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49929264",
@@ -262,38 +171,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-web-engineer-cardiff-229136",
-   "title": "Web Engineer",
-   "company": "Monzo",
-   "location": "Cardiff",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/web-engineer-cardiff-229136",
-   "source": "Arbeitnow",
-   "posted": "2026-10-14T08:55:58+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 57,
-   "h_score": 28,
-   "skills_hit": [
-    "TypeScript",
-    "React"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong backend engineer with relevant modern web stack (TypeScript, React, Next.js, PostgreSQL) and proven shipping ability, but resume emphasizes backend/AI over frontend which is the primary focus; visa sponsorship offered mitigates location barrier.",
-    "gaps": [
-     "Resume shows B.Eng. without graduation date; visa sponsorship typically requires completed degree documentation",
-     "Heavy backend/systems focus vs. frontend-primary role (limited React/component library portfolio evidence)"
-    ],
-    "location_ok": true
-   },
-   "is_new": true
-  },
-  {
    "id": "hn-49922693",
    "title": "Product Engineer (Design) & Platform Engineer",
    "company": "Planlab.ai",
@@ -324,79 +201,138 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-senior-cloud-infrastructure-security-engineer-amsterdam-122915",
-   "title": "Senior Cloud Infrastructure Security Engineer",
-   "company": "Flexport",
-   "location": "Amsterdam",
-   "url": "https://www.arbeitnow.nl/jobs/companies/flexport/senior-cloud-infrastructure-security-engineer-amsterdam-122915",
-   "source": "Arbeitnow",
-   "posted": "2026-10-14T08:55:53+00:00",
+   "id": "jobicy-153258",
+   "title": "Analyst II, Full Stack (Revenue Analytics)",
+   "company": "Affirm",
+   "location": "Spain",
+   "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
+   "source": "Jobicy",
+   "posted": "2026-10-15T03:50:08+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 27,
-   "h_score": 30,
+   "score": 29,
+   "h_score": 54,
    "skills_hit": [
     "Python",
-    "Prisma",
-    "AWS",
-    "Kubernetes",
-    "Terraform"
+    "Evals",
+    "Full stack"
    ],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs"
-   ],
+   "penalties": [],
    "llm": {
-    "interview_odds": 25,
+    "interview_odds": 15,
     "verdict": "skip",
-    "why": "Strong backend engineer but lacks the 5\u20138 years of specialized cloud/infrastructure security experience, compiled-language proficiency (Go), and hands-on IAM/Kubernetes hardening that are core to this senior security role; visa sponsorship alone doesn't overcome the security specialization gap.",
+    "why": "Strong technical foundation but lacks analytics engineering experience, BI tool expertise, and degree verification; visa sponsorship to Spain is available but candidate is overqualified for analytics role and underqualified in required analytics stack.",
     "gaps": [
-     "5\u20138 years cloud/infrastructure security engineering experience (candidate shows 4.5 years total SWE, none explicitly in security)",
-     "Go proficiency (resume lists only TypeScript, Python, Java, C++; Go is the stated preference)",
-     "Hands-on AWS and Kubernetes security hardening experience",
-     "Infrastructure-as-code security and policy-as-code expertise",
-     "IAM and least-privilege design specialization"
+     "No 3+ years analytics engineering or BI role experience (backend/full-stack engineer, not data analyst)",
+     "No demonstrated dbt expertise",
+     "No BI tool hands-on experience (Sigma/Looker/Tableau)",
+     "No Databricks or Snowflake cloud data warehouse experience",
+     "No Salesforce or commercial analytics background",
+     "Degree lacks graduation date (B.Eng. listed without year completed)",
+     "No evidence of building semantic layers, metadata governance, or data quality frameworks for analytics"
     ],
     "location_ok": true
    },
    "is_new": true
   },
   {
-   "id": "jobicy-155221",
-   "title": "Senior C++ Engineer",
-   "company": "Findev",
-   "location": "Cyprus, Poland, Portugal, Spain",
-   "url": "https://jobicy.com/jobs/155221-senior-c-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-13T15:49:04+00:00",
+   "id": "arbeitnow-internal-context-engineer-berlin-422357",
+   "title": "Internal Context Engineer",
+   "company": "N8N",
+   "location": "Berlin Office",
+   "url": "https://www.arbeitnow.com/jobs/companies/n8n/internal-context-engineer-berlin-422357",
+   "source": "Arbeitnow",
+   "posted": "2026-10-14T23:40:27+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 12,
-   "h_score": 20,
+   "score": 18,
+   "h_score": 24,
    "skills_hit": [
-    "Python",
-    "Redis"
+    "Agents"
    ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 15,
+    "verdict": "skip",
+    "why": "Strong backend engineer but lacks the core information architecture, knowledge management, and content strategy experience that defines this role; this is an internal ops/knowledge management position, not an engineering role.",
+    "gaps": [
+     "Information architecture and taxonomy design (must-have)",
+     "Knowledge management systems experience (must-have)",
+     "Content strategy and contributor enablement (must-have)",
+     "SaaS knowledge/context platform configuration (must-have)",
+     "No evidence of training non-technical stakeholders at scale (must-have)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-internal-ai-enablement-lead-berlin-118279",
+   "title": "Internal AI Enablement Lead",
+   "company": "N8N",
+   "location": "Berlin Office",
+   "url": "https://www.arbeitnow.com/jobs/companies/n8n/internal-ai-enablement-lead-berlin-118279",
+   "source": "Arbeitnow",
+   "posted": "2026-10-14T23:40:27+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 17,
+   "h_score": 22,
+   "skills_hit": [],
    "penalties": [
     "senior title",
     "weak skill overlap"
    ],
    "llm": {
-    "interview_odds": 8,
+    "interview_odds": 15,
     "verdict": "skip",
-    "why": "Senior C++ role requires 8+ years of commercial C++ production experience; candidate has TypeScript/Node.js/Python backend focus with minimal C++ demonstrated (one educational project), no trading/financial systems experience, and visa sponsorship is offered but degree lacks graduation date.",
+    "why": "Strong technical background but lacks the core must-have: hands-on technical enablement and workshop facilitation experience; role requires internal enablement program leadership, not backend engineering.",
     "gaps": [
-     "8+ years commercial C++ production experience (candidate shows primarily TypeScript/Python/Node.js)",
-     "Modern C++ (C++20/C++17) expertise and template-heavy code comfort",
-     "Linux production service debugging and profiling at scale",
-     "Electronic trading or order-management systems experience",
-     "Degree graduation date not listed (required for visa sponsorship)"
+     "Technical enablement experience (workshops, office hours, build-alongs)",
+     "Non-technical audience expertise and enablement track record",
+     "n8n practitioner fluency (no evidence of n8n usage)",
+     "Degree completion date not shown (visa requirement)"
     ],
     "location_ok": true
    },
    "is_new": true
+  },
+  {
+   "id": "hn-50003866",
+   "title": "Blockchain Security Engineer",
+   "company": "ChainSecurity",
+   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
+   "url": "https://news.ycombinator.com/item?id=50003866",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-08T09:57:33+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 16,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 25,
+    "verdict": "skip",
+    "why": "Strong software engineering fundamentals but lacks blockchain domain knowledge, cryptography expertise, and formal verification experience that are core to security auditing; visa sponsorship is offered but candidate has no demonstrated blockchain or security auditing background.",
+    "gaps": [
+     "No blockchain or smart contract experience",
+     "No demonstrated cryptography expertise",
+     "No penetration testing or security audit experience",
+     "No formal verification background",
+     "Degree lacks graduation date (resume shows 'Coursework' only, no graduation year)"
+    ],
+    "location_ok": true
+   },
+   "is_new": false
   },
   {
    "id": "hn-49986633",
@@ -457,41 +393,20 @@
    "is_new": true
   },
   {
-   "id": "hn-50003866",
-   "title": "Blockchain Security Engineer",
-   "company": "ChainSecurity",
-   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
-   "url": "https://news.ycombinator.com/item?id=50003866",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-08T09:57:33+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "gh-canonical-8249005",
-   "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+   "id": "gh-canonical-6076909",
+   "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
    "company": "canonical",
    "location": "Home based - Worldwide",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/6076909",
    "source": "Greenhouse:canonical",
-   "posted": "2026-10-05T11:46:26-04:00",
+   "posted": "2026-10-07T16:19:58-04:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 0,
    "h_score": 0,
    "skills_hit": [
-    "Python",
-    "Kubernetes"
+    "Python"
    ],
    "penalties": [
     "weak skill overlap"
