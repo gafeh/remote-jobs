@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-16T09:32:43.911337+00:00",
+ "generated_at": "2026-10-17T09:03:03.062108+00:00",
  "stats": {
-  "Remotive": 15,
+  "Remotive": 13,
   "RemoteOK": 99,
-  "WeWorkRemotely": 62,
+  "WeWorkRemotely": 63,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 51,
-  "HN Who's Hiring": 473,
-  "Arbeitnow": 1420,
-  "greenhouse:canonical": 310,
+  "WorkingNomads": 49,
+  "HN Who's Hiring": 472,
+  "Arbeitnow": 1430,
+  "greenhouse:canonical": 309,
   "greenhouse:automatticcareers": 12,
-  "greenhouse:wikimedia": 12,
-  "greenhouse:sourcegraph91": 10,
+  "greenhouse:wikimedia": 13,
+  "greenhouse:sourcegraph91": 9,
   "greenhouse:netlify": 5,
-  "greenhouse:mozilla": 97,
-  "greenhouse:gitlab": 221,
-  "greenhouse:consensys": 8,
-  "greenhouse:okx": 354,
+  "greenhouse:mozilla": 98,
+  "greenhouse:gitlab": 232,
+  "greenhouse:consensys": 9,
+  "greenhouse:okx": 357,
   "greenhouse:elastic": 380,
   "greenhouse:labelbox": 7,
   "ashby:supabase": 54,
@@ -26,9 +26,9 @@
   "ashby:oyster": 22,
   "ashby:zapier": 11,
   "ashby:clerk": 2,
-  "ashby:braintrust": 27
+  "ashby:braintrust": 28
  },
- "rejected_count": 3310,
+ "rejected_count": 3409,
  "jobs": [
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
@@ -41,8 +41,8 @@
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 71,
-   "h_score": 58,
+   "score": 68,
+   "h_score": 48,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -161,98 +161,74 @@
    "is_new": false
   },
   {
-   "id": "hn-50003866",
-   "title": "Blockchain Security Engineer",
-   "company": "ChainSecurity",
-   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
-   "url": "https://news.ycombinator.com/item?id=50003866",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-08T09:57:33+00:00",
+   "id": "arbeitnow-frontend-engineering-lead-london-87291",
+   "title": "Frontend Engineering Lead",
+   "company": "Omnea",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-87291",
+   "source": "Arbeitnow",
+   "posted": "2026-10-17T05:40:31+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 16,
-   "h_score": 0,
-   "skills_hit": [],
+   "score": 34,
+   "h_score": 50,
+   "skills_hit": [
+    "TypeScript",
+    "PostgreSQL",
+    "AWS",
+    "Agents",
+    "Full stack",
+    "React",
+    "Next.js"
+   ],
    "penalties": [
-    "weak skill overlap"
+    "senior title"
    ],
    "llm": {
     "interview_odds": 25,
     "verdict": "skip",
-    "why": "Strong software engineering fundamentals but lacks blockchain domain knowledge, cryptography expertise, and formal verification experience that are core to security auditing; visa sponsorship is offered but candidate has no demonstrated blockchain or security auditing background.",
+    "why": "Strong technical depth but primarily backend/full-stack engineer being recruited for frontend leadership role requiring deep React/design system ownership; visa sponsorship listed but candidate's work history and portfolio suggest backend focus misaligned with frontend-lead expectations.",
     "gaps": [
-     "No blockchain or smart contract experience",
-     "No demonstrated cryptography expertise",
-     "No penetration testing or security audit experience",
-     "No formal verification background",
-     "Degree lacks graduation date (resume shows 'Coursework' only, no graduation year)"
-    ],
-    "location_ok": true
-   },
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-internal-context-engineer-berlin-422357",
-   "title": "Internal Context Engineer",
-   "company": "N8N",
-   "location": "Berlin Office",
-   "url": "https://www.arbeitnow.com/jobs/companies/n8n/internal-context-engineer-berlin-422357",
-   "source": "Arbeitnow",
-   "posted": "2026-10-14T23:40:27+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 15,
-   "h_score": 14,
-   "skills_hit": [
-    "Agents"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 15,
-    "verdict": "skip",
-    "why": "Strong backend engineer but lacks the core information architecture, knowledge management, and content strategy experience that defines this role; this is an internal ops/knowledge management position, not an engineering role.",
-    "gaps": [
-     "Information architecture and taxonomy design (must-have)",
-     "Knowledge management systems experience (must-have)",
-     "Content strategy and contributor enablement (must-have)",
-     "SaaS knowledge/context platform configuration (must-have)",
-     "No evidence of training non-technical stakeholders at scale (must-have)"
+     "Frontend specialization: resume emphasizes backend, AI, and systems work; limited evidence of shipping React/Next.js at scale as primary focus",
+     "Design system ownership: no demonstrated experience building or leading design systems",
+     "Frontend architecture leadership: no evidence of owning front-end build tooling, deployment strategy, or setting front-end standards across teams",
+     "Deep React expertise: while React mentioned in skills and projects, depth appears secondary to backend work; EvalGate and TalentOps are recent but not deep React-heavy portfolios",
+     "Degree completion: resume lists coursework but no graduation date from University of Lagos, which visa sponsorship typically requires"
     ],
     "location_ok": true
    },
    "is_new": true
   },
   {
-   "id": "arbeitnow-internal-ai-enablement-lead-berlin-118279",
-   "title": "Internal AI Enablement Lead",
-   "company": "N8N",
-   "location": "Berlin Office",
-   "url": "https://www.arbeitnow.com/jobs/companies/n8n/internal-ai-enablement-lead-berlin-118279",
+   "id": "arbeitnow-propulsion-engineer-huracan-components-bordeaux-14947",
+   "title": "Propulsion Engineer - Huracan Components",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-engineer-huracan-components-bordeaux-14947",
    "source": "Arbeitnow",
-   "posted": "2026-10-14T23:40:27+00:00",
+   "posted": "2026-10-16T17:40:18+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 14,
-   "h_score": 12,
+   "score": 12,
+   "h_score": 20,
    "skills_hit": [],
    "penalties": [
-    "senior title",
     "weak skill overlap"
    ],
    "llm": {
-    "interview_odds": 15,
+    "interview_odds": 8,
     "verdict": "skip",
-    "why": "Strong technical background but lacks the core must-have: hands-on technical enablement and workshop facilitation experience; role requires internal enablement program leadership, not backend engineering.",
+    "why": "This is a hardware propulsion engineering role requiring aerospace/mechanical expertise, CAD design, supplier management, and hands-on component qualification\u2014the candidate is a software/backend engineer with zero demonstrated experience in mechanical engineering, propulsion systems, hardware design, or aerospace.",
     "gaps": [
-     "Technical enablement experience (workshops, office hours, build-alongs)",
-     "Non-technical audience expertise and enablement track record",
-     "n8n practitioner fluency (no evidence of n8n usage)",
-     "Degree completion date not shown (visa requirement)"
+     "No aerospace, mechanical, or propulsion engineering background",
+     "No experience designing or developing hardware systems",
+     "No CAD, mechanical drawing, or tolerancing experience",
+     "No supplier/manufacturing partner technical management in hardware context",
+     "No component qualification, testing, or validation experience",
+     "No familiarity with aerospace or safety-critical hardware standards",
+     "Degree shows Systems Engineering but no graduation date or relevant coursework in propulsion/mechanical domains"
     ],
     "location_ok": true
    },
@@ -291,6 +267,45 @@
     "location_ok": true
    },
    "is_new": false
+  },
+  {
+   "id": "arbeitnow-gnc-senior-engineer-lander-munich-205931",
+   "title": "GNC Senior Engineer-Lander",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/gnc-senior-engineer-lander-munich-205931",
+   "source": "Arbeitnow",
+   "posted": "2026-10-16T17:40:18+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 8,
+   "h_score": 8,
+   "skills_hit": [
+    "Python"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 8,
+    "verdict": "skip",
+    "why": "Candidate is a backend/AI software engineer with zero aerospace, flight control, or GNC domain experience; this is a specialized senior aerospace role requiring 5+ years in primary flight control systems.",
+    "gaps": [
+     "No aerospace engineering background or education",
+     "No experience with flight control systems or rocket-engine powered landers",
+     "No hands-on GNC (Guidance, Navigation & Control) algorithm or control law design experience",
+     "No sensor data fusion or real-time embedded systems experience",
+     "No HiL (Hardware-in-the-Loop) test experience",
+     "No parameter characterization/estimation in aerospace context",
+     "Degree shows Systems Engineering (no graduation date listed, appears incomplete)",
+     "No MATLAB/Simulink or aerospace-specific simulation tools mentioned"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
   },
   {
    "id": "gh-automatticcareers-7475345",
@@ -365,6 +380,26 @@
    "is_new": true
   },
   {
+   "id": "hn-50003866",
+   "title": "Blockchain Security Engineer",
+   "company": "ChainSecurity",
+   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
+   "url": "https://news.ycombinator.com/item?id=50003866",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-08T09:57:33+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "gh-canonical-6076909",
    "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
    "company": "canonical",
@@ -384,7 +419,30 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "gh-canonical-8249005",
+   "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-10-05T11:46:26-04:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [
+    "Python",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
   }
  ]
 }
