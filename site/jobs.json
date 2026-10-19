@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-18T09:21:54.535539+00:00",
+ "generated_at": "2026-10-19T10:33:48.070556+00:00",
  "stats": {
   "Remotive": 12,
   "RemoteOK": 99,
-  "WeWorkRemotely": 70,
+  "WeWorkRemotely": 74,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 49,
-  "HN Who's Hiring": 472,
-  "Arbeitnow": 1417,
+  "WorkingNomads": 41,
+  "HN Who's Hiring": 471,
+  "Arbeitnow": 1500,
   "greenhouse:canonical": 309,
   "greenhouse:automatticcareers": 12,
   "greenhouse:wikimedia": 13,
   "greenhouse:sourcegraph91": 9,
   "greenhouse:netlify": 5,
-  "greenhouse:mozilla": 98,
-  "greenhouse:gitlab": 232,
+  "greenhouse:mozilla": 96,
+  "greenhouse:gitlab": 230,
   "greenhouse:consensys": 9,
   "greenhouse:okx": 357,
   "greenhouse:elastic": 380,
@@ -28,7 +28,7 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 28
  },
- "rejected_count": 3321,
+ "rejected_count": 3510,
  "jobs": [
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
@@ -41,8 +41,8 @@
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 68,
-   "h_score": 48,
+   "score": 64,
+   "h_score": 38,
    "skills_hit": [
     "Python",
     "TypeScript",
@@ -161,6 +161,40 @@
    "is_new": false
   },
   {
+   "id": "arbeitnow-platform-engineer-amsterdam-274679",
+   "title": "Platform Engineer",
+   "company": "Catawiki",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/platform-engineer-amsterdam-274679",
+   "source": "Arbeitnow",
+   "posted": "2026-10-19T08:55:16+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 36,
+   "h_score": 38,
+   "skills_hit": [
+    "AWS",
+    "Kubernetes",
+    "Terraform"
+   ],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
+   "llm": {
+    "interview_odds": 35,
+    "verdict": "stretch",
+    "why": "Strong backend and systems skills with relevant infrastructure experience, but lacks the 5+ years Kubernetes/cloud-native depth and observability tooling hands-on that Platform Engineer roles typically require; visa sponsorship is offered but degree completion date is missing from resume.",
+    "gaps": [
+     "5+ years production Kubernetes and container orchestration experience (resume shows Docker and infrastructure work but not deep K8s at scale)",
+     "Hands-on observability stack maintenance (Prometheus, Grafana, ELK, OpenTelemetry) - not mentioned in resume",
+     "Degree completion date missing (B.Eng. has no graduation year; most visa sponsorship requires this)"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
    "id": "arbeitnow-control-engineer-leonberg-germany-102344",
    "title": "Control Engineer",
    "company": "Wayve",
@@ -171,8 +205,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 20,
-   "h_score": 30,
+   "score": 17,
+   "h_score": 20,
    "skills_hit": [
     "Python",
     "Evals"
@@ -194,7 +228,7 @@
     ],
     "location_ok": true
    },
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "arbeitnow-customer-integration-engineer-leonberg-germany-173783",
@@ -207,8 +241,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 17,
-   "h_score": 20,
+   "score": 13,
+   "h_score": 10,
    "skills_hit": [],
    "penalties": [
     "weak skill overlap"
@@ -227,48 +261,16 @@
     ],
     "location_ok": true
    },
-   "is_new": true
-  },
-  {
-   "id": "hn-50003866",
-   "title": "Blockchain Security Engineer",
-   "company": "ChainSecurity",
-   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
-   "url": "https://news.ycombinator.com/item?id=50003866",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-08T09:57:33+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 16,
-   "h_score": 0,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 25,
-    "verdict": "skip",
-    "why": "Strong software engineering fundamentals but lacks blockchain domain knowledge, cryptography expertise, and formal verification experience that are core to security auditing; visa sponsorship is offered but candidate has no demonstrated blockchain or security auditing background.",
-    "gaps": [
-     "No blockchain or smart contract experience",
-     "No demonstrated cryptography expertise",
-     "No penetration testing or security audit experience",
-     "No formal verification background",
-     "Degree lacks graduation date (resume shows 'Coursework' only, no graduation year)"
-    ],
-    "location_ok": true
-   },
    "is_new": false
   },
   {
-   "id": "arbeitnow-hil-engineer-huracan-rocket-engine-bordeaux-105519",
-   "title": "HIL Engineer \u2014 Huracan Rocket Engine",
+   "id": "arbeitnow-gnc-engineer-munich-325147",
+   "title": "GNC Engineer",
    "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/hil-engineer-huracan-rocket-engine-bordeaux-105519",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/gnc-engineer-munich-325147",
    "source": "Arbeitnow",
-   "posted": "2026-10-16T17:40:18+00:00",
+   "posted": "2026-10-18T08:40:21+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -283,98 +285,100 @@
    "llm": {
     "interview_odds": 8,
     "verdict": "skip",
-    "why": "Candidate is a backend/AI software engineer with zero demonstrated experience in hardware-in-the-loop testing, LabVIEW, NI VeriStand, real-time embedded systems, or aerospace/propulsion controls\u2014the role's core domain.",
+    "why": "Candidate is a software engineer with no aerospace, GNC, control systems, or flight physics background; the role requires MSc in Aerospace and domain expertise that is entirely absent from the resume.",
     "gaps": [
-     "No LabVIEW experience (must-have)",
-     "No NI VeriStand experience (must-have)",
-     "No NI TestStand experience (must-have)",
-     "No HIL test bench design/operation experience (must-have)",
-     "No sensor/actuator electrical emulation experience (must-have)",
-     "No real-time embedded systems experience (must-have)",
-     "No motor drive/inverter experience (must-have)",
-     "Degree lacks graduation date (visa requirement risk)",
-     "No aerospace or propulsion systems background"
+     "MSc in Aerospace Engineering or related discipline",
+     "Classical dynamics, orbital and flight mechanics expertise",
+     "Control and estimation theory (not software testing/engineering)",
+     "Flight physics simulation experience",
+     "MATLAB/Simulink proficiency",
+     "No GNC or AOCS subsystem experience",
+     "No aerospace industry background"
     ],
     "location_ok": true
    },
    "is_new": true
   },
   {
-   "id": "hn-49986633",
-   "title": "Research Engineer",
-   "company": "Flow Traders",
-   "location": "Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You\u2019ll work closely with Quantitative Researchers, drive end\u2011to\u2011end ML pipelines, and shape global standards for data\u2011driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You\u2019ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you're interested, apply here: https://www.flowtraders.com/careers/job-description/7431246",
-   "url": "https://news.ycombinator.com/item?id=49986633",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-07T01:12:38+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 10,
-   "h_score": 0,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": {
-    "interview_odds": 15,
-    "verdict": "skip",
-    "why": "Candidate has ~2.5 years of relevant experience, falls far short of 8+ year requirement; lacks demonstrated ML research background, quantitative trading experience, and Ray/PyTorch expertise; visa sponsorship offered but experience gap is disqualifying.",
-    "gaps": [
-     "8+ years ML/Data Science/Research Engineering experience (has ~2.5 years)",
-     "ML research and quantitative trading domain experience",
-     "Ray framework experience",
-     "PyTorch experience",
-     "Demonstrated math/stats research background (has coursework only, no research projects)"
-    ],
-    "location_ok": true
-   },
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-propulsion-engineer-huracan-components-bordeaux-14947",
-   "title": "Propulsion Engineer - Huracan Components",
+   "id": "arbeitnow-mait-additive-manufacturing-engineer-dusseldorf-239673",
+   "title": "MAIT Additive Manufacturing Engineer",
    "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-engineer-huracan-components-bordeaux-14947",
+   "location": "D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/mait-additive-manufacturing-engineer-dusseldorf-239673",
    "source": "Arbeitnow",
-   "posted": "2026-10-16T17:40:18+00:00",
+   "posted": "2026-10-18T08:40:21+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 9,
+   "score": 7,
    "h_score": 10,
    "skills_hit": [],
    "penalties": [
     "weak skill overlap"
    ],
    "llm": {
-    "interview_odds": 8,
+    "interview_odds": 5,
     "verdict": "skip",
-    "why": "This is a hardware propulsion engineering role requiring aerospace/mechanical expertise, CAD design, supplier management, and hands-on component qualification\u2014the candidate is a software/backend engineer with zero demonstrated experience in mechanical engineering, propulsion systems, hardware design, or aerospace.",
+    "why": "Candidate is a software engineer with zero aerospace, materials science, or additive manufacturing experience; the role requires hands-on LPBF industrial expertise and a degree in Mechanical/Materials/Aerospace Engineering, neither of which the resume demonstrates.",
     "gaps": [
-     "No aerospace, mechanical, or propulsion engineering background",
-     "No experience designing or developing hardware systems",
-     "No CAD, mechanical drawing, or tolerancing experience",
-     "No supplier/manufacturing partner technical management in hardware context",
-     "No component qualification, testing, or validation experience",
-     "No familiarity with aerospace or safety-critical hardware standards",
-     "Degree shows Systems Engineering but no graduation date or relevant coursework in propulsion/mechanical domains"
+     "No degree in Mechanical Engineering, Materials Science, or Aerospace Engineering (has Systems Engineering degree)",
+     "No hands-on experience with metal LPBF systems or additive manufacturing processes",
+     "No experience in LPBF process development, material characterization, or part verification",
+     "No knowledge of aerospace materials (superalloys, titanium, copper alloys, stainless steels)",
+     "No CAD experience with Siemens NX or PLM tools like Teamcenter",
+     "No aerospace or propulsion systems qualification background"
     ],
     "location_ok": true
    },
-   "is_new": false
+   "is_new": true
   },
   {
-   "id": "arbeitnow-gnc-senior-engineer-lander-munich-205931",
-   "title": "GNC Senior Engineer-Lander",
+   "id": "arbeitnow-cyber-security-engineer-leonberg-germany-340899",
+   "title": "Cyber Security Engineer",
+   "company": "Wayve",
+   "location": "Leonberg, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/wayve/cyber-security-engineer-leonberg-germany-340899",
+   "source": "Arbeitnow",
+   "posted": "2026-10-17T23:40:16+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 7,
+   "h_score": 6,
+   "skills_hit": [
+    "Python"
+   ],
+   "penalties": [
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": {
+    "interview_odds": 8,
+    "verdict": "skip",
+    "why": "Candidate is a backend/AI engineer with zero cybersecurity experience, missing all essential security requirements (TARA, STRIDE, ISO/SAE 21434, secure boot, TPM, fuzzing tools, reverse engineering); visa sponsorship available but skill gap is disqualifying.",
+    "gaps": [
+     "5+ years cybersecurity systems engineering experience",
+     "TARA, STRIDE, HEAVENS 2.0, attack trees expertise",
+     "ISO/SAE 21434 knowledge",
+     "Secure Boot, TPM, HSM, key provisioning experience",
+     "Vehicle trust boundaries and network segmentation expertise",
+     "Fuzzing, static analysis, reverse engineering skills",
+     "Security tools (Wireshark, CANoe, Binwalk, Ghidra, IDA, Metasploit, AFL)",
+     "Automotive cybersecurity domain knowledge",
+     "ECU architecture and protocol familiarity"
+    ],
+    "location_ok": true
+   },
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-software-system-engineer-munich-464827",
+   "title": "Senior Software System Engineer",
    "company": "The Exploration Company",
    "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/gnc-senior-engineer-lander-munich-205931",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-software-system-engineer-munich-464827",
    "source": "Arbeitnow",
-   "posted": "2026-10-16T17:40:18+00:00",
+   "posted": "2026-10-18T08:40:21+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -385,11 +389,11 @@
    ],
    "penalties": [
     "senior title",
-    "asks 5+ yrs",
+    "asks 7+ yrs",
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": false
+   "is_new": true
   },
   {
    "id": "ashby-supabase-ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
@@ -415,7 +419,7 @@
     "asks 7+ yrs"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "gh-automatticcareers-7475345",
@@ -490,6 +494,26 @@
    "is_new": false
   },
   {
+   "id": "hn-50003866",
+   "title": "Blockchain Security Engineer",
+   "company": "ChainSecurity",
+   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
+   "url": "https://news.ycombinator.com/item?id=50003866",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-08T09:57:33+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "gh-canonical-6076909",
    "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
    "company": "canonical",
@@ -500,6 +524,28 @@
    "salary": "",
    "path": "remote",
    "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [
+    "Python"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "hn-49986633",
+   "title": "Research Engineer",
+   "company": "Flow Traders",
+   "location": "Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You\u2019ll work closely with Quantitative Researchers, drive end\u2011to\u2011end ML pipelines, and shape global standards for data\u2011driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You\u2019ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you're interested, apply here: https://www.flowtraders.com/careers/job-description/7431246",
+   "url": "https://news.ycombinator.com/item?id=49986633",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-07T01:12:38+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
    "score": 0,
    "h_score": 0,
    "skills_hit": [
