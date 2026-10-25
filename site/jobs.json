@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-24T09:19:56.559089+00:00",
+ "generated_at": "2026-10-25T09:36:46.971729+00:00",
  "stats": {
   "Remotive": 10,
   "RemoteOK": 99,
   "WeWorkRemotely": 91,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 41,
-  "HN Who's Hiring": 470,
+  "WorkingNomads": 39,
+  "HN Who's Hiring": 469,
   "Arbeitnow": 1500,
   "greenhouse:canonical": 314,
   "greenhouse:automatticcareers": 12,
@@ -20,16 +20,73 @@
   "greenhouse:okx": 356,
   "greenhouse:elastic": 402,
   "greenhouse:labelbox": 8,
-  "ashby:supabase": 59,
+  "ashby:supabase": 61,
   "ashby:posthog": 10,
   "ashby:railway": 7,
   "ashby:oyster": 23,
   "ashby:zapier": 12,
   "ashby:clerk": 2,
-  "ashby:braintrust": 29
+  "ashby:braintrust": 30
  },
- "rejected_count": 3381,
+ "rejected_count": 3471,
  "jobs": [
+  {
+   "id": "himalayas-https://himalayas.app/companies/zoftify-travel-software-development/jobs/full-stack-developer-react-node-js",
+   "title": "Full Stack Developer (React + Node.js)",
+   "company": "Zoftify \u2014 Travel Software Development",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/full-stack-developer-react-node-js?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25T07:48:07+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 82,
+   "h_score": 82,
+   "skills_hit": [
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Full stack",
+    "REST",
+    "Docker",
+    "Kubernetes",
+    "React",
+    "Next.js"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/modus-create/jobs/site-reliability-engineer",
+   "title": "Site Reliability Engineer",
+   "company": "Modus Create",
+   "location": "Nigeria",
+   "url": "https://himalayas.app/companies/modus-create/jobs/site-reliability-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25T08:30:12+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 62,
+   "h_score": 62,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "LLM",
+    "AWS",
+    "Agents",
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
    "title": "Software Engineer, AI Coding Tasks (Contract)",
@@ -131,135 +188,6 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-   "title": "Software Development Engineer II (Remote @ Colombia)",
-   "company": "OfferUp",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-22T07:31:08+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 56,
-   "h_score": 56,
-   "skills_hit": [
-    "TypeScript",
-    "Node.js",
-    "Backend",
-    "LLM",
-    "AWS",
-    "REST",
-    "Kubernetes",
-    "Redis",
-    "Queues"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-forward-deployed-engineer-london-186759",
-   "title": "Forward Deployed Engineer",
-   "company": "True Talent Solutions Partners",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-186759",
-   "source": "Arbeitnow",
-   "posted": "2026-10-24T05:40:22+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "Backend",
-    "Full stack",
-    "React"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149563",
-   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:36+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "Python",
-    "AWS",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-   "title": "Founding Forward Deployed Engineer",
-   "company": "Alloy",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-18T07:31:05+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "Node.js",
-    "PostgreSQL",
-    "Backend",
-    "Django",
-    "AWS",
-    "Payments",
-    "React"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "ashby-supabase-7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
-   "title": "Software Engineer - Turso",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
-   "source": "Ashby:supabase",
-   "posted": "2026-10-21T21:46:43.334000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 52,
-   "h_score": 52,
-   "skills_hit": [
-    "PostgreSQL",
-    "Backend",
-    "LLM",
-    "AWS",
-    "Evals",
-    "Agents",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
    "title": "Senior Backend Developer (Node.js / Nest.js)",
    "company": "Proxify AB",
@@ -290,46 +218,23 @@
    "is_new": false
   },
   {
-   "id": "jobicy-149543",
-   "title": "Python Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149543-python-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:32+00:00",
+   "id": "arbeitnow-software-engineer-mission-control-software-munich-247496",
+   "title": "Software Engineer \u2013 Mission Control Software",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+   "source": "Arbeitnow",
+   "posted": "2026-10-24T23:40:11+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
+   "path": "visa",
+   "visa": "yes",
    "score": 50,
    "h_score": 50,
    "skills_hit": [
     "Python",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149527",
-   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:09+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 50,
-   "h_score": 50,
-   "skills_hit": [
-    "TypeScript",
     "Backend",
-    "REST",
-    "Docker",
-    "Kubernetes",
+    "AWS",
+    "Redis",
     "React"
    ],
    "penalties": [],
@@ -337,117 +242,31 @@
    "is_new": true
   },
   {
-   "id": "jobicy-149558",
-   "title": "Microservices Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149558-microservices-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:45:04+00:00",
+   "id": "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+   "title": "Software Engineer - Storage",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+   "source": "Ashby:supabase",
+   "posted": "2026-10-24T16:13:28.579000+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 48,
-   "h_score": 48,
+   "score": 50,
+   "h_score": 50,
    "skills_hit": [
-    "Python",
-    "Backend",
-    "REST",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149534",
-   "title": "Alliances Field Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:25+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 48,
-   "h_score": 48,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "AWS",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149532",
-   "title": "Sustaining Operations Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:07+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 46,
-   "h_score": 46,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149524",
-   "title": "Software Engineer, Sustaining Engineering",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:15+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 46,
-   "h_score": 46,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149551",
-   "title": "Performance Engineer - Open Source",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:30:17+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 46,
-   "h_score": 46,
-   "skills_hit": [
-    "Python",
     "Node.js",
-    "Evals"
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "React",
+    "Next.js"
    ],
-   "penalties": [],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
    "llm": null,
    "is_new": true
   },
@@ -477,7 +296,35 @@
     "senior title"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+   "title": "Software Development Engineer II (Remote @ Colombia)",
+   "company": "OfferUp",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-22T07:31:08+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 46,
+   "h_score": 46,
+   "skills_hit": [
+    "TypeScript",
+    "Node.js",
+    "Backend",
+    "LLM",
+    "AWS",
+    "REST",
+    "Kubernetes",
+    "Redis",
+    "Queues"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
@@ -507,49 +354,23 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
-   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
-   "company": "Affirm",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-22T07:31:25+00:00",
+   "id": "arbeitnow-forward-deployed-engineer-london-186759",
+   "title": "Forward Deployed Engineer",
+   "company": "True Talent Solutions Partners",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-186759",
+   "source": "Arbeitnow",
+   "posted": "2026-10-24T05:40:22+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
+   "path": "visa",
+   "visa": "yes",
    "score": 44,
    "h_score": 44,
    "skills_hit": [
     "Python",
-    "Evals",
-    "Full stack"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-   "title": "Software Engineer, Backend",
-   "company": "Vercel",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-11T07:31:07+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 44,
-   "h_score": 44,
-   "skills_hit": [
     "TypeScript",
-    "Node.js",
     "Backend",
-    "AWS",
-    "Agents",
-    "REST",
-    "Kubernetes",
-    "Terraform",
+    "Full stack",
     "React"
    ],
    "penalties": [],
@@ -557,67 +378,77 @@
    "is_new": false
   },
   {
-   "id": "jobicy-149523",
-   "title": "Cloud Field Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:45:31+00:00",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+   "title": "Founding Forward Deployed Engineer",
+   "company": "Alloy",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-18T07:31:05+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 44,
+   "h_score": 44,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Backend",
+    "Django",
+    "AWS",
+    "Payments",
+    "React"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "ashby-supabase-7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+   "title": "Software Engineer - Turso",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+   "source": "Ashby:supabase",
+   "posted": "2026-10-21T21:46:43.334000+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 42,
    "h_score": 42,
+   "skills_hit": [
+    "PostgreSQL",
+    "Backend",
+    "LLM",
+    "AWS",
+    "Evals",
+    "Agents",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
+   "title": "Senior Software Engineer",
+   "company": "Tebra",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-25T07:30:48+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
    "skills_hit": [
     "Python",
     "AWS",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149576",
-   "title": "Containerization & Virtualisation Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:40+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 42,
-   "h_score": 42,
-   "skills_hit": [
-    "Python",
-    "REST",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149574",
-   "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:13+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 42,
-   "h_score": 42,
-   "skills_hit": [
-    "Python",
-    "Docker",
-    "Kubernetes"
+    "Payments",
+    "Full stack"
    ],
    "penalties": [
     "senior title"
@@ -626,53 +457,29 @@
    "is_new": true
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-   "title": "Operations Engineer, BizTech",
-   "company": "Airbnb",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+   "title": "Software Engineer - PlanetScale Postgres",
+   "company": "PlanetScale",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
    "source": "WeWorkRemotely",
-   "posted": "2026-10-18T07:31:05+00:00",
+   "posted": "2026-10-25T07:30:54+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 42,
-   "h_score": 42,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "LLM",
-    "AWS",
-    "Agents",
-    "Payments",
-    "Queues"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "remotive-2091158",
-   "title": "Software Engineer, AI Coding Tasks",
-   "company": "Askable",
-   "location": "Worldwide",
-   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-   "source": "Remotive",
-   "posted": "2026-10-17T16:04:29+00:00",
-   "salary": "$1000 per task",
    "path": "remote",
    "visa": null,
    "score": 38,
    "h_score": 38,
    "skills_hit": [
     "Python",
-    "TypeScript",
-    "Evals",
-    "Docker"
+    "PostgreSQL",
+    "AWS",
+    "Kubernetes"
    ],
-   "penalties": [],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
    "llm": null,
-   "is_new": false
+   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
@@ -705,13 +512,37 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
-   "title": "Senior Vue Developer",
-   "company": "Lemon.io",
+   "id": "arbeitnow-senior-software-engineer-platform-integration-robot-software-london-united-kingdom-88727",
+   "title": "Senior Software Engineer - Platform Integration, Robot Software",
+   "company": "Wayve",
+   "location": "London, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/senior-software-engineer-platform-integration-robot-software-london-united-kingdom-88727",
+   "source": "Arbeitnow",
+   "posted": "2026-10-24T14:40:15+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 34,
+   "h_score": 34,
+   "skills_hit": [
+    "Python",
+    "Node.js"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+   "company": "Affirm",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "source": "WeWorkRemotely",
-   "posted": "2026-10-21T12:54:56+00:00",
+   "posted": "2026-10-22T07:31:25+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -719,28 +550,21 @@
    "h_score": 34,
    "skills_hit": [
     "Python",
-    "TypeScript",
-    "Node.js",
-    "LLM",
-    "Agents",
-    "React",
-    "Next.js"
+    "Evals",
+    "Full stack"
    ],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs"
-   ],
+   "penalties": [],
    "llm": null,
    "is_new": false
   },
   {
-   "id": "jobicy-149565",
-   "title": "Ubuntu Security Engineer",
+   "id": "jobicy-149550",
+   "title": "Security Software Engineer",
    "company": "Canonical",
    "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
+   "url": "https://jobicy.com/jobs/149550-security-software-engineer",
    "source": "Jobicy",
-   "posted": "2026-10-24T03:45:13+00:00",
+   "posted": "2026-10-25T04:15:06+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -757,20 +581,20 @@
    "is_new": true
   },
   {
-   "id": "jobicy-149552",
-   "title": "Software Engineer - App Stores",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:30:18+00:00",
+   "id": "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+   "title": "Data API Engineer",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+   "source": "Ashby:supabase",
+   "posted": "2026-10-24T16:04:20.762000+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 32,
    "h_score": 32,
    "skills_hit": [
-    "Python",
+    "PostgreSQL",
     "Backend"
    ],
    "penalties": [
@@ -778,6 +602,32 @@
    ],
    "llm": null,
    "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+   "title": "Operations Engineer, BizTech",
+   "company": "Airbnb",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-18T07:31:05+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 32,
+   "h_score": 32,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "LLM",
+    "AWS",
+    "Agents",
+    "Payments",
+    "Queues"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "ashby-supabase-b65287c7-2071-4bc6-8717-58c090e2a372",
@@ -826,148 +676,61 @@
    "is_new": false
   },
   {
-   "id": "jobicy-149560",
-   "title": "Software Engineer - Solutions Engineering",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:06+00:00",
+   "id": "himalayas-https://himalayas.app/companies/zoftify-travel-software-development/jobs/backend-team-lead",
+   "title": "Backend Team Lead",
+   "company": "Zoftify \u2014 Travel Software Development",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/backend-team-lead?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25T08:11:30+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 28,
    "h_score": 28,
    "skills_hit": [
-    "Python",
-    "Kubernetes"
+    "Node.js",
+    "Backend",
+    "AWS"
    ],
    "penalties": [
-    "weak skill overlap"
+    "senior title",
+    "asks 6+ yrs"
    ],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "jobicy-149547",
-   "title": "Site Reliability Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:30:12+00:00",
-   "salary": "",
+   "id": "remotive-2091158",
+   "title": "Software Engineer, AI Coding Tasks",
+   "company": "Askable",
+   "location": "Worldwide",
+   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+   "source": "Remotive",
+   "posted": "2026-10-17T16:04:29+00:00",
+   "salary": "$1000 per task",
    "path": "remote",
    "visa": null,
    "score": 28,
    "h_score": 28,
    "skills_hit": [
     "Python",
-    "Kubernetes"
+    "TypeScript",
+    "Evals",
+    "Docker"
    ],
-   "penalties": [
-    "weak skill overlap"
-   ],
+   "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "jobicy-149538",
-   "title": "Golang Engineer",
+   "id": "jobicy-149520",
+   "title": "Junior Linux Kernel Engineer - Ubuntu",
    "company": "Canonical",
    "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
+   "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
    "source": "Jobicy",
-   "posted": "2026-10-24T03:30:04+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 28,
-   "h_score": 28,
-   "skills_hit": [
-    "Python",
-    "React"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-   "title": "Associate Data Engineer",
-   "company": "BeyondTrust",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-24T07:30:50+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 26,
-   "h_score": 26,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149535",
-   "title": "Embedded Linux Field Engineer for Devices/IoT",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:35+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 26,
-   "h_score": 26,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149533",
-   "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:07+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 26,
-   "h_score": 26,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149553",
-   "title": "Site Reliability / Gitops Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:30:19+00:00",
+   "posted": "2026-10-25T04:15:04+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -1005,27 +768,33 @@
    "is_new": false
   },
   {
-   "id": "jobicy-149567",
-   "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:33+00:00",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+   "title": "Senior Vue Developer",
+   "company": "Lemon.io",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-21T12:54:56+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 24,
    "h_score": 24,
    "skills_hit": [
-    "Docker",
-    "Kubernetes"
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "LLM",
+    "Agents",
+    "React",
+    "Next.js"
    ],
    "penalties": [
-    "weak skill overlap"
+    "senior title",
+    "asks 5+ yrs"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
@@ -1075,123 +844,6 @@
    "penalties": [],
    "llm": null,
    "is_new": false
-  },
-  {
-   "id": "jobicy-149577",
-   "title": "Community Engineer (multiple roles and seniority levels)",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:24+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 22,
-   "h_score": 22,
-   "skills_hit": [
-    "Express"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "gh-wikimedia-8268853",
-   "title": "Software Engineering Internship Program (2027)",
-   "company": "wikimedia",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
-   "source": "Greenhouse:wikimedia",
-   "posted": "2026-10-21T17:42:29-04:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 22,
-   "h_score": 22,
-   "skills_hit": [
-    "Python",
-    "Backend"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "jobicy-149566",
-   "title": "Rust Engineering Lead - Linux and Open Source",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:45:26+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "Python",
-    "React"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149557",
-   "title": "Senior Site Reliability Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:45:17+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "Python",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149544",
-   "title": "Senior Site Reliability / Gitops Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:30:09+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "Python",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
@@ -1245,29 +897,6 @@
    "is_new": false
   },
   {
-   "id": "jobicy-149537",
-   "title": "Ubuntu Engineering Lead",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:35:27+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 18,
-   "h_score": 18,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
    "company": "Toptal",
@@ -1288,44 +917,19 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "hn-49945147",
-   "title": "Senior Fullstack Engineer",
-   "company": "Ripple",
-   "location": "Hybrid Building out an existing Treasury Management system that manages $100B+ in daily global cash flow. Financial background not required, as we will teach you on job. https://treasury.ripple.com/",
-   "url": "https://news.ycombinator.com/item?id=49945147",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-03T15:30:42+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 18,
-   "h_score": 18,
-   "skills_hit": [
-    "PostgreSQL",
-    "AWS",
-    "Full stack",
-    "React"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
    "is_new": false
   },
   {
-   "id": "arbeitnow-thermal-analysis-engineer-munich-442826",
-   "title": "Thermal Analysis Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/thermal-analysis-engineer-munich-442826",
-   "source": "Arbeitnow",
-   "posted": "2026-10-23T08:40:13+00:00",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+   "title": "Associate Data Engineer",
+   "company": "BeyondTrust",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-24T07:30:50+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
    "score": 16,
    "h_score": 16,
    "skills_hit": [
@@ -1335,7 +939,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
@@ -1382,6 +986,29 @@
     "Kubernetes"
    ],
    "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "gh-wikimedia-8268853",
+   "title": "Software Engineering Internship Program (2027)",
+   "company": "wikimedia",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
+   "source": "Greenhouse:wikimedia",
+   "posted": "2026-10-21T17:42:29-04:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 12,
+   "h_score": 12,
+   "skills_hit": [
+    "Python",
+    "Backend"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
    "llm": null,
    "is_new": false
   },
@@ -1433,46 +1060,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-composite-cad-design-engineer-munich-416982",
-   "title": "Composite CAD Design Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/composite-cad-design-engineer-munich-416982",
-   "source": "Arbeitnow",
-   "posted": "2026-10-23T08:40:13+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 10,
-   "h_score": 10,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-propulsion-ait-engineer-bordeaux-486743",
-   "title": "Propulsion AIT Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-ait-engineer-bordeaux-486743",
-   "source": "Arbeitnow",
-   "posted": "2026-10-21T17:40:15+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 10,
-   "h_score": 10,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
    "title": "Distribution Engineer",
    "company": "Vertex Marketing Group",
@@ -1518,7 +1105,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-software-engineer-r14285",
@@ -1543,40 +1130,16 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "jobicy-149562",
-   "title": "Lead Linux Kernel Engineer - Ubuntu",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:40:38+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "senior title",
-    "asks 15+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-149578",
+   "id": "gh-canonical-5391149",
    "title": "Senior Security Operations Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/149578-senior-security-operations-engineer",
-   "source": "Jobicy",
-   "posted": "2026-10-24T03:30:23+00:00",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/5391149",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-10-22T12:15:12-04:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -1592,7 +1155,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
@@ -1685,30 +1248,6 @@
    "penalties": [
     "senior title",
     "asks 6+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-   "title": "Software Engineer - Data Platform",
-   "company": "Vercel",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-11T07:31:07+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [
-    "AWS",
-    "Agents"
-   ],
-   "penalties": [
-    "asks 8+ yrs",
     "weak skill overlap"
    ],
    "llm": null,
