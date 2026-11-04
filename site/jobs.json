@@ -1,35 +1,59 @@
 {
- "generated_at": "2026-11-03T12:39:17.821376+00:00",
+ "generated_at": "2026-11-04T12:49:14.088004+00:00",
  "stats": {
-  "Remotive": 10,
+  "Remotive": 11,
   "RemoteOK": 99,
-  "WeWorkRemotely": 103,
+  "WeWorkRemotely": 104,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 35,
-  "HN Who's Hiring": 367,
-  "Arbeitnow": 1407,
+  "WorkingNomads": 33,
+  "HN Who's Hiring": 394,
+  "Arbeitnow": 1485,
   "greenhouse:canonical": 314,
   "greenhouse:automatticcareers": 12,
   "greenhouse:wikimedia": 14,
   "greenhouse:sourcegraph91": 7,
   "greenhouse:netlify": 3,
   "greenhouse:mozilla": 111,
-  "greenhouse:gitlab": 236,
-  "greenhouse:consensys": 13,
+  "greenhouse:gitlab": 240,
+  "greenhouse:consensys": 12,
   "greenhouse:okx": 379,
-  "greenhouse:elastic": 409,
+  "greenhouse:elastic": 422,
   "greenhouse:labelbox": 10,
   "ashby:supabase": 69,
-  "ashby:posthog": 10,
+  "ashby:posthog": 8,
   "ashby:railway": 7,
-  "ashby:oyster": 24,
+  "ashby:oyster": 22,
   "ashby:zapier": 11,
   "ashby:clerk": 2,
-  "ashby:braintrust": 29
+  "ashby:braintrust": 30
  },
- "rejected_count": 3286,
+ "rejected_count": 3394,
  "jobs": [
+  {
+   "id": "arbeitnow-applied-ai-engineer-berlin-34908",
+   "title": "Applied AI Engineer",
+   "company": "Resonance",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/resonance/applied-ai-engineer-berlin-34908",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T18:40:34+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 66,
+   "h_score": 66,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "LLM",
+    "Evals",
+    "Agents"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
   {
    "id": "hn-50339551",
    "title": "AI Engineer (Agentic team)",
@@ -41,8 +65,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 76,
-   "h_score": 76,
+   "score": 66,
+   "h_score": 66,
    "skills_hit": [
     "TypeScript",
     "Node.js",
@@ -55,29 +79,26 @@
    ],
    "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "arbeitnow-forward-deployed-engineer-england-213705",
-   "title": "Forward Deployed Engineer",
-   "company": "True Talent Solutions Partners",
-   "location": "England",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-england-213705",
+   "id": "arbeitnow-graduate-applied-ai-engineer-berlin-107801",
+   "title": "Graduate Applied AI Engineer",
+   "company": "Resonance",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/resonance/graduate-applied-ai-engineer-berlin-107801",
    "source": "Arbeitnow",
-   "posted": "2026-11-03T03:40:16+00:00",
+   "posted": "2026-11-03T18:40:34+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 66,
-   "h_score": 66,
+   "score": 62,
+   "h_score": 62,
    "skills_hit": [
     "Python",
     "TypeScript",
-    "Node.js",
-    "Backend",
     "LLM",
-    "Full stack",
-    "React"
+    "Evals"
    ],
    "penalties": [],
    "llm": null,
@@ -123,29 +144,6 @@
    "is_new": false
   },
   {
-   "id": "hn-50341833",
-   "title": "Agentic Python Engineer",
-   "company": "Evaboot",
-   "location": "REMOTE worldwide",
-   "url": "https://news.ycombinator.com/item?id=50341833",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-02T19:00:38+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 58,
-   "h_score": 58,
-   "skills_hit": [
-    "Python",
-    "AWS",
-    "Evals",
-    "Agents"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "hn-50063001",
    "title": "AI Application Engineer + Product Engineer",
    "company": "Typify.dev ( https://typify.dev )",
@@ -178,25 +176,56 @@
    "is_new": false
   },
   {
-   "id": "hn-50339013",
-   "title": "Software Engineers",
-   "company": "MixRank (YC S11)",
-   "location": "100% Remote (Global), Full-Time MixRank processes petabytes of data every month through web crawling. Hundreds of customers use our data products, including Google, Amazon, Facebook, Intel, and Adobe, across industries such as finance, recruiting, sales, marketing, and security. We\u2019re a fully remote company with a global footprint across 20+ countries. We\u2019re growing, profitable, employee-owned, and have no dependence on outside funding. Applicants from all geographies and backgrounds are welcome. We\u2019re looking for passionate individuals for whom programming is not just a job, but something they genuinely love to do. We\u2019re obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team. Our codebase is friendly to new contributors. You\u2019ll have a fully functional development environment within hours through full automation and will be pushing commits on your first day. Deployments to production happen multiple times per day and finish in under two minutes.Effectively all of our codebase is written in Python, Rust, SQL, JavaScript/TypeScript, and Nix. The core technologies you\u2019ll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git. We operate at a larger scale than typical startups. We run two datacenters with high-performance servers we\u2019ve built ourselves, capable of handling the volumes of data we process. We\u2019ve implemented our own distributed file system, perform full-scale web crawls, and download and run static analysis on the entire universe of published Android APKs and iOS IPAs.",
-   "url": "https://news.ycombinator.com/item?id=50339013",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-02T16:15:14+00:00",
+   "id": "himalayas-https://himalayas.app/companies/clera/jobs/senior-integrations-engineer",
+   "title": "Senior Integrations Engineer",
+   "company": "Clera",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/clera/jobs/senior-integrations-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04T05:48:55+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
+   "path": "visa",
+   "visa": "yes",
+   "score": 56,
+   "h_score": 56,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "Backend",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Queues"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-applied-ai-engineer-berlin-298104",
+   "title": "Senior Applied AI Engineer",
+   "company": "Resonance",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/resonance/senior-applied-ai-engineer-berlin-298104",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T18:40:34+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
    "score": 54,
    "h_score": 54,
    "skills_hit": [
     "Python",
     "TypeScript",
-    "PostgreSQL",
-    "Backend"
+    "LLM",
+    "Evals"
    ],
-   "penalties": [],
+   "penalties": [
+    "senior title"
+   ],
    "llm": null,
    "is_new": true
   },
@@ -228,26 +257,55 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-growth-engineer-recruiting-people-paris-479771",
-   "title": "Growth Engineer, Recruiting & People",
-   "company": "Genesis",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/genesis/growth-engineer-recruiting-people-paris-479771",
-   "source": "Arbeitnow",
-   "posted": "2026-11-02T15:40:15+00:00",
+   "id": "himalayas-https://himalayas.app/companies/clera/jobs/senior-platform-software-engineer-447849997",
+   "title": "Senior Platform Software Engineer",
+   "company": "Clera",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/clera/jobs/senior-platform-software-engineer-447849997?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04T05:30:09+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": "no",
+   "score": 50,
+   "h_score": 50,
+   "skills_hit": [
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "AWS",
+    "Agents",
+    "Terraform"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "hn-50341833",
+   "title": "Agentic Python Engineer",
+   "company": "Evaboot",
+   "location": "REMOTE worldwide",
+   "url": "https://news.ycombinator.com/item?id=50341833",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-02T19:00:38+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
    "score": 48,
    "h_score": 48,
    "skills_hit": [
     "Python",
-    "TypeScript",
-    "LLM"
+    "AWS",
+    "Evals",
+    "Agents"
    ],
    "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ashby-supabase-fb0b563a-e541-43fd-8555-9eb6473aaa11",
@@ -279,28 +337,73 @@
    "is_new": false
   },
   {
-   "id": "hn-50345025",
-   "title": "Senior Growth Marketer, Senior Product Marketer, Account Executive, Scale, Senior Product Eng (full-stack)",
-   "company": "Railway",
-   "location": "REMOTE (Worldwide)",
-   "url": "https://news.ycombinator.com/item?id=50345025",
+   "id": "jobicy-149988",
+   "title": "Software Engineer - Data Infrastructure - Kafka",
+   "company": "Canonical",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:37:07+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 46,
+   "h_score": 46,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Kubernetes",
+    "Redis"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-149971",
+   "title": "Software Engineer - Data Infrastructure",
+   "company": "Canonical",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/149971-software-engineer-data-infrastructure",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:30:19+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 46,
+   "h_score": 46,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Kubernetes",
+    "Redis"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "hn-50339013",
+   "title": "Software Engineers",
+   "company": "MixRank (YC S11)",
+   "location": "100% Remote (Global), Full-Time MixRank processes petabytes of data every month through web crawling. Hundreds of customers use our data products, including Google, Amazon, Facebook, Intel, and Adobe, across industries such as finance, recruiting, sales, marketing, and security. We\u2019re a fully remote company with a global footprint across 20+ countries. We\u2019re growing, profitable, employee-owned, and have no dependence on outside funding. Applicants from all geographies and backgrounds are welcome. We\u2019re looking for passionate individuals for whom programming is not just a job, but something they genuinely love to do. We\u2019re obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team. Our codebase is friendly to new contributors. You\u2019ll have a fully functional development environment within hours through full automation and will be pushing commits on your first day. Deployments to production happen multiple times per day and finish in under two minutes.Effectively all of our codebase is written in Python, Rust, SQL, JavaScript/TypeScript, and Nix. The core technologies you\u2019ll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git. We operate at a larger scale than typical startups. We run two datacenters with high-performance servers we\u2019ve built ourselves, capable of handling the volumes of data we process. We\u2019ve implemented our own distributed file system, perform full-scale web crawls, and download and run static analysis on the entire universe of published Android APKs and iOS IPAs.",
+   "url": "https://news.ycombinator.com/item?id=50339013",
    "source": "HN Who's Hiring",
-   "posted": "2026-11-02T22:37:25+00:00",
+   "posted": "2026-11-02T16:15:14+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 44,
    "h_score": 44,
    "skills_hit": [
-    "AWS",
-    "Agents",
-    "Full stack"
+    "Python",
+    "TypeScript",
+    "PostgreSQL",
+    "Backend"
    ],
-   "penalties": [
-    "senior title"
-   ],
+   "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "arbeitnow-backend-engineer-real-time-video-amsterdam-234378",
@@ -327,75 +430,258 @@
    "is_new": false
   },
   {
-   "id": "jobicy-158600",
-   "title": "Juju Software Engineer (Go)",
+   "id": "jobicy-149978",
+   "title": "Software Engineer - Cloud Images",
    "company": "Canonical",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/158600-juju-software-engineer-go",
+   "location": "EMEA, LATAM, Canada, USA",
+   "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
    "source": "Jobicy",
-   "posted": "2026-11-03T05:50:20+00:00",
+   "posted": "2026-11-04T03:22:36+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 36,
-   "h_score": 36,
+   "score": 40,
+   "h_score": 40,
    "skills_hit": [
+    "Python",
     "Docker",
-    "Kubernetes",
-    "Terraform"
+    "Kubernetes"
    ],
    "penalties": [],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "title": "Senior ML Engineer (R14284)",
-   "company": "Oportun",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:30:35+00:00",
+   "id": "jobicy-158809",
+   "title": "AI Trainers Network - Welsh",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158809-ai-trainers-network-welsh",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:28+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 36,
-   "h_score": 36,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158808",
+   "title": "AI Trainers Network - Vietnamese",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158808-ai-trainers-network-vietnamese",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:27+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158807",
+   "title": "AI Trainers Network - Uzbek",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158807-ai-trainers-network-uzbek",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:25+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158806",
+   "title": "AI Trainers Network - Ukrainian",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158806-ai-trainers-network-ukrainian",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:24+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158805",
+   "title": "AI Trainers Network - Twi",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158805-ai-trainers-network-twi",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:22+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158804",
+   "title": "AI Trainers Network - Turkish",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158804-ai-trainers-network-turkish",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:21+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158803",
+   "title": "AI Trainers Network - Thai",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158803-ai-trainers-network-thai",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:19+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-158802",
+   "title": "AI Trainers Network - Tagalog",
+   "company": "Welo Global",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/158802-ai-trainers-network-tagalog",
+   "source": "Jobicy",
+   "posted": "2026-11-03T17:31:17+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-openai-codex-claude-code-or-cursor",
+   "title": "Senior Software Engineer, (OpenAI Codex, Claude Code or Cursor)",
+   "company": "G2i Inc.",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-openai-codex-claude-code-or-cursor?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04T05:51:41+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 38,
+   "h_score": 38,
    "skills_hit": [
     "Python",
-    "Backend",
-    "AWS",
-    "Evals",
-    "Docker",
-    "Kubernetes"
+    "TypeScript",
+    "Evals"
    ],
    "penalties": [
     "senior title"
    ],
    "llm": null,
-   "is_new": false
+   "is_new": true
   },
   {
-   "id": "arbeitnow-forward-deployed-engineer-emea-berlin-413081",
-   "title": "Forward Deployed Engineer - EMEA",
-   "company": "N8N",
-   "location": "Berlin Office",
-   "url": "https://www.arbeitnow.com/jobs/companies/n8n/forward-deployed-engineer-emea-berlin-413081",
+   "id": "arbeitnow-platform-engineer-amsterdam-171932",
+   "title": "Platform Engineer",
+   "company": "Catawiki",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/platform-engineer-amsterdam-171932",
    "source": "Arbeitnow",
-   "posted": "2026-10-31T12:40:13+00:00",
+   "posted": "2026-11-03T12:55:22+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 36,
-   "h_score": 36,
+   "score": 38,
+   "h_score": 38,
    "skills_hit": [
-    "Node.js",
-    "Backend",
-    "Full stack"
+    "AWS",
+    "Kubernetes",
+    "Terraform"
    ],
-   "penalties": [],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
    "llm": null,
-   "is_new": false
+   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
@@ -470,31 +756,52 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
-   "title": "Senior Software Engineer",
-   "company": "WelcomeHome Software",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-02T15:51:54+00:00",
+   "id": "arbeitnow-senior-software-engineer-backend-london-3866",
+   "title": "Senior Software Engineer - Backend",
+   "company": "Deducta",
+   "location": "London (London Bridge)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deducta/senior-software-engineer-backend-london-3866",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T15:40:32+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 32,
-   "h_score": 32,
+   "path": "visa",
+   "visa": "yes",
+   "score": 34,
+   "h_score": 34,
    "skills_hit": [
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Redis",
-    "React"
+    "TypeScript",
+    "Backend"
    ],
    "penalties": [
     "senior title",
-    "asks 5+ yrs"
+    "weak skill overlap"
    ],
    "llm": null,
    "is_new": true
+  },
+  {
+   "id": "hn-50345025",
+   "title": "Senior Growth Marketer, Senior Product Marketer, Account Executive, Scale, Senior Product Eng (full-stack)",
+   "company": "Railway",
+   "location": "REMOTE (Worldwide)",
+   "url": "https://news.ycombinator.com/item?id=50345025",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-02T22:37:25+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 34,
+   "h_score": 34,
+   "skills_hit": [
+    "AWS",
+    "Agents",
+    "Full stack"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "ashby-supabase-7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
@@ -523,33 +830,86 @@
    "is_new": false
   },
   {
-   "id": "hn-50338809",
-   "title": "AI Consultant, Junior AI Consultant",
-   "company": "Bridge AI Consulting",
-   "location": "REMOTE (US)",
-   "url": "https://news.ycombinator.com/item?id=50338809",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-02T16:05:23+00:00",
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/engineering-phd",
+   "title": "Engineering PhD",
+   "company": "micro1",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/micro1/jobs/engineering-phd?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04T04:54:42+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 30,
+   "h_score": 30,
+   "skills_hit": [
+    "LLM",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-149974",
+   "title": "Senior Software Engineer - Python/MongoDB",
+   "company": "Canonical",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:22:30+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 30,
+   "h_score": 30,
+   "skills_hit": [
+    "Python",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-software-engineer-london-168506",
+   "title": "Senior Software Engineer",
+   "company": "Getscope",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/senior-software-engineer-london-168506",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T21:40:17+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
    "score": 30,
    "h_score": 30,
-   "skills_hit": [],
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "Agents",
+    "React"
+   ],
    "penalties": [
-    "weak skill overlap"
+    "senior title",
+    "asks 5+ yrs"
    ],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "jobicy-158610",
-   "title": "Kernel Build Automation Engineer - Ubuntu Linux",
+   "id": "jobicy-149994",
+   "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
    "company": "Canonical",
    "location": "EMEA",
-   "url": "https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux",
+   "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch",
    "source": "Jobicy",
-   "posted": "2026-11-03T05:50:50+00:00",
+   "posted": "2026-11-04T03:35:12+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -557,7 +917,7 @@
    "h_score": 28,
    "skills_hit": [
     "Python",
-    "REST"
+    "Kubernetes"
    ],
    "penalties": [
     "weak skill overlap"
@@ -566,21 +926,21 @@
    "is_new": true
   },
   {
-   "id": "hn-50338732",
-   "title": "DevOps Engineer",
-   "company": "Simple Analytics",
-   "location": "REMOTE (worldwide, any timezone)",
-   "url": "https://news.ycombinator.com/item?id=50338732",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-02T16:01:43+00:00",
+   "id": "jobicy-149972",
+   "title": "Software Engineer, Ceph & Distributed Storage",
+   "company": "Canonical",
+   "location": "EMEA, LATAM, Canada, USA",
+   "url": "https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:35:07+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 28,
    "h_score": 28,
    "skills_hit": [
-    "TypeScript",
-    "Docker"
+    "Python",
+    "Kubernetes"
    ],
    "penalties": [
     "weak skill overlap"
@@ -589,13 +949,13 @@
    "is_new": true
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
-   "title": "Sr DataOps Engineer (R14334)",
-   "company": "Oportun",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:30:45+00:00",
+   "id": "gh-canonical-2166631",
+   "title": "Software Developer in Observability",
+   "company": "canonical",
+   "location": "Home based - EMEA",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/2166631",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-03T08:56:54-05:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -603,25 +963,67 @@
    "h_score": 28,
    "skills_hit": [
     "Python",
-    "AWS",
-    "REST",
-    "Kubernetes",
-    "Terraform"
+    "Kubernetes"
    ],
    "penalties": [
-    "senior title"
+    "weak skill overlap"
    ],
    "llm": null,
-   "is_new": false
+   "is_new": true
   },
   {
-   "id": "hn-50347596",
-   "title": "Research Engineer",
-   "company": "Flow Traders",
-   "location": "Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You\u2019ll work closely with Quantitative Researchers, drive end\u2011to\u2011end ML pipelines, and shape global standards for data\u2011driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You\u2019ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you're interested, apply here: https://www.flowtraders.com/careers/job-description/7431246",
-   "url": "https://news.ycombinator.com/item?id=50347596",
+   "id": "jobicy-149969",
+   "title": "Linux devices software engineer - snapd",
+   "company": "Canonical",
+   "location": "EMEA, LATAM, Canada, USA",
+   "url": "https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:30:09+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 26,
+   "h_score": 26,
+   "skills_hit": [
+    "Python"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-ai-transformation-lead-berlin-165426",
+   "title": "AI Transformation Lead",
+   "company": "Resonance",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/resonance/ai-transformation-lead-berlin-165426",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T18:40:34+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 26,
+   "h_score": 26,
+   "skills_hit": [
+    "Agents"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "hn-50352150",
+   "title": "Machine Learning Engineer",
+   "company": "IMC Trading",
+   "location": "ONSITE",
+   "url": "https://news.ycombinator.com/item?id=50352150",
    "source": "HN Who's Hiring",
-   "posted": "2026-11-03T03:18:22+00:00",
+   "posted": "2026-11-03T14:06:02+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -637,27 +1039,31 @@
    "is_new": true
   },
   {
-   "id": "hn-50343534",
-   "title": "Senior PHP Full-stack engineer",
-   "company": "Eleshop",
-   "location": "REMOTE (Europe, Africa, W Asia)",
-   "url": "https://news.ycombinator.com/item?id=50343534",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-02T20:51:27+00:00",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+   "title": "Senior ML Engineer (R14284)",
+   "company": "Oportun",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-01T07:30:35+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 26,
    "h_score": 26,
    "skills_hit": [
-    "Full stack"
+    "Python",
+    "Backend",
+    "AWS",
+    "Evals",
+    "Docker",
+    "Kubernetes"
    ],
    "penalties": [
-    "senior title",
-    "weak skill overlap"
+    "senior title"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ashby-oyster-34e9f726-4461-4ef7-9724-a0aba8c72a76",
@@ -714,26 +1120,26 @@
    "is_new": false
   },
   {
-   "id": "hn-50340438",
-   "title": "C++ Systems Engineer",
-   "company": "Thunder Compute (YC S24)",
-   "location": "San Francisco (Onsite)",
-   "url": "https://news.ycombinator.com/item?id=50340438",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-02T17:37:25+00:00",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+   "company": "Affirm",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-22T07:31:25+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
    "score": 24,
    "h_score": 24,
    "skills_hit": [
-    "AWS"
+    "Python",
+    "Evals",
+    "Full stack"
    ],
-   "penalties": [
-    "weak skill overlap"
-   ],
+   "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-49995549",
@@ -754,6 +1160,78 @@
     "Agents"
    ],
    "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-graduate-ai-transformation-lead-berlin-31359",
+   "title": "Graduate AI Transformation Lead",
+   "company": "Resonance",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/resonance/graduate-ai-transformation-lead-berlin-31359",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T18:40:34+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-senior-product-engineer-london-75485",
+   "title": "Senior Product Engineer",
+   "company": "Deducta",
+   "location": "London (London Bridge)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deducta/senior-product-engineer-london-75485",
+   "source": "Arbeitnow",
+   "posted": "2026-11-03T15:40:32+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "TypeScript",
+    "Agents"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+   "title": "Senior Software Engineer",
+   "company": "WelcomeHome Software",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-02T15:51:54+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Redis",
+    "React"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs"
+   ],
    "llm": null,
    "is_new": false
   },
@@ -784,16 +1262,16 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-graduate-mechanical-design-engineer-reading-249629",
-   "title": "Graduate Mechanical Design Engineer",
-   "company": "Neworbit",
-   "location": "Reading, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-249629",
-   "source": "Arbeitnow",
-   "posted": "2026-11-03T00:40:13+00:00",
+   "id": "jobicy-150052",
+   "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
+   "company": "Softgic",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:35:31+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
    "score": 20,
    "h_score": 20,
    "skills_hit": [],
@@ -804,42 +1282,59 @@
    "is_new": true
   },
   {
-   "id": "hn-50340449",
-   "title": "Founding Engineer",
-   "company": "Mesmer (YC P25)",
-   "location": "ONSITE",
-   "url": "https://news.ycombinator.com/item?id=50340449",
+   "id": "jobicy-149993",
+   "title": "Developer Relations Engineer",
+   "company": "Canonical",
+   "location": "APAC, EMEA",
+   "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:30:15+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 20,
+   "h_score": 20,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-149996",
+   "title": "Ubuntu Core Software Engineer",
+   "company": "Canonical",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/149996-ubuntu-core-software-engineer",
+   "source": "Jobicy",
+   "posted": "2026-11-04T03:22:39+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 20,
+   "h_score": 20,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "hn-50338809",
+   "title": "AI Consultant, Junior AI Consultant",
+   "company": "Bridge AI Consulting",
+   "location": "REMOTE (US)",
+   "url": "https://news.ycombinator.com/item?id=50338809",
    "source": "HN Who's Hiring",
-   "posted": "2026-11-02T17:38:15+00:00",
+   "posted": "2026-11-02T16:05:23+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
    "score": 20,
    "h_score": 20,
    "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-propulsion-functional-engineer-munich-131824",
-   "title": "Propulsion Functional Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/propulsion-functional-engineer-munich-131824",
-   "source": "Arbeitnow",
-   "posted": "2026-10-31T15:40:14+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "Python",
-    "Evals"
-   ],
    "penalties": [
     "weak skill overlap"
    ],
@@ -900,13 +1395,13 @@
    "is_new": false
   },
   {
-   "id": "jobicy-158612",
-   "title": "Lead Data Governance Engineer",
+   "id": "jobicy-149975",
+   "title": "Senior Ubuntu Embedded IoT System Engineer",
    "company": "Canonical",
    "location": "EMEA",
-   "url": "https://jobicy.com/jobs/158612-lead-data-governance-engineer",
+   "url": "https://jobicy.com/jobs/149975-senior-ubuntu-embedded-iot-system-engineer",
    "source": "Jobicy",
-   "posted": "2026-11-03T05:51:25+00:00",
+   "posted": "2026-11-04T03:22:31+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -923,13 +1418,36 @@
    "is_new": true
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
-   "title": "Sr. Data Engineer",
-   "company": "Carrot",
+   "id": "hn-50338732",
+   "title": "DevOps Engineer",
+   "company": "Simple Analytics",
+   "location": "REMOTE (worldwide, any timezone)",
+   "url": "https://news.ycombinator.com/item?id=50338732",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-02T16:01:43+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 18,
+   "h_score": 18,
+   "skills_hit": [
+    "TypeScript",
+    "Docker"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+   "title": "Sr DataOps Engineer (R14334)",
+   "company": "Oportun",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+   "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
    "source": "WeWorkRemotely",
-   "posted": "2026-10-28T07:31:13+00:00",
+   "posted": "2026-11-01T07:30:45+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -937,8 +1455,10 @@
    "h_score": 18,
    "skills_hit": [
     "Python",
-    "Backend",
-    "AWS"
+    "AWS",
+    "REST",
+    "Kubernetes",
+    "Terraform"
    ],
    "penalties": [
     "senior title"
@@ -947,13 +1467,62 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-fluid-systems-development-engineer-munich-232875",
-   "title": "Fluid Systems Development Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/fluid-systems-development-engineer-munich-232875",
+   "id": "hn-49945147",
+   "title": "Senior Fullstack Engineer",
+   "company": "Ripple",
+   "location": "Hybrid Building out an existing Treasury Management system that manages $100B+ in daily global cash flow. Financial background not required, as we will teach you on job. https://treasury.ripple.com/",
+   "url": "https://news.ycombinator.com/item?id=49945147",
+   "source": "HN Who's Hiring",
+   "posted": "2026-10-03T15:30:42+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 18,
+   "h_score": 18,
+   "skills_hit": [
+    "PostgreSQL",
+    "AWS",
+    "Full stack",
+    "React"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-senior-ai-transformation-lead-berlin-127355",
+   "title": "Senior AI Transformation Lead",
+   "company": "Resonance",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/resonance/senior-ai-transformation-lead-berlin-127355",
    "source": "Arbeitnow",
-   "posted": "2026-10-31T15:40:14+00:00",
+   "posted": "2026-11-03T18:40:34+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 16,
+   "h_score": 16,
+   "skills_hit": [
+    "Agents"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "hn-50347596",
+   "title": "Research Engineer",
+   "company": "Flow Traders",
+   "location": "Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You\u2019ll work closely with Quantitative Researchers, drive end\u2011to\u2011end ML pipelines, and shape global standards for data\u2011driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You\u2019ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you're interested, apply here: https://www.flowtraders.com/careers/job-description/7431246",
+   "url": "https://news.ycombinator.com/item?id=50347596",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-03T03:18:22+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -969,20 +1538,66 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-flight-software-engineer-munich-220316",
-   "title": "Flight Software Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/flight-software-engineer-munich-220316",
-   "source": "Arbeitnow",
-   "posted": "2026-10-31T15:40:14+00:00",
+   "id": "hn-50343534",
+   "title": "Senior PHP Full-stack engineer",
+   "company": "Eleshop",
+   "location": "REMOTE (Europe, Africa, W Asia)",
+   "url": "https://news.ycombinator.com/item?id=50343534",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-02T20:51:27+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
    "score": 16,
    "h_score": 16,
    "skills_hit": [
-    "Python"
+    "Full stack"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "hn-50355834",
+   "title": "Product Engineering Lead, Keet",
+   "company": "Tether",
+   "location": "REMOTE (Worldwide) We're looking for a Product Engineering Lead to help build and scale Keet, a fully peer-to-peer messaging and video calling app. You'll lead API and frontend engineering teams, working closely with Product to turn the roadmap into high-quality features. We're looking for someone with: - Experience leading engineering teams building consumer products. - Strong JavaScript and React skills. - Solid product sense and technical leadership. - Understanding of distributed, local-first or P2P systems. Apply: https://tether.recruitee.com/o/product-engineering-lead-keet...",
+   "url": "https://news.ycombinator.com/item?id=50355834",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-03T18:15:08+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 14,
+   "h_score": 14,
+   "skills_hit": [
+    "React"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "hn-50340438",
+   "title": "C++ Systems Engineer",
+   "company": "Thunder Compute (YC S24)",
+   "location": "San Francisco (Onsite)",
+   "url": "https://news.ycombinator.com/item?id=50340438",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-02T17:37:25+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 14,
+   "h_score": 14,
+   "skills_hit": [
+    "AWS"
    ],
    "penalties": [
     "weak skill overlap"
@@ -1020,6 +1635,27 @@
    "is_new": false
   },
   {
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/senior-protection-engineer-medium-voltage-utility-distribution",
+   "title": "Senior Protection Engineer (Medium Voltage / Utility Distribution)",
+   "company": "micro1",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/micro1/jobs/senior-protection-engineer-medium-voltage-utility-distribution?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04T09:20:51+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 12,
+   "h_score": 12,
+   "skills_hit": [],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
    "title": "Software Engineer, Infrastructure",
    "company": "Descript",
@@ -1039,7 +1675,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
@@ -1065,23 +1701,20 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-senior-spacecraft-thermal-engineer-munich-474021",
-   "title": "Senior Spacecraft Thermal Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-spacecraft-thermal-engineer-munich-474021",
-   "source": "Arbeitnow",
-   "posted": "2026-10-31T15:40:14+00:00",
+   "id": "hn-50340449",
+   "title": "Founding Engineer",
+   "company": "Mesmer (YC P25)",
+   "location": "ONSITE",
+   "url": "https://news.ycombinator.com/item?id=50340449",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-02T17:38:15+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 8,
-   "h_score": 8,
-   "skills_hit": [
-    "Python"
-   ],
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
    "penalties": [
-    "senior title",
     "weak skill overlap"
    ],
    "llm": null,
@@ -1129,6 +1762,30 @@
    ],
    "penalties": [
     "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+   "title": "Sr. Data Engineer",
+   "company": "Carrot",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-10-28T07:31:13+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 8,
+   "h_score": 8,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "AWS"
+   ],
+   "penalties": [
+    "senior title"
    ],
    "llm": null,
    "is_new": false
@@ -1347,51 +2004,6 @@
    "penalties": [
     "senior title",
     "asks 10+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
-   "title": "Core Protocol Engineer",
-   "company": "Ritual",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-21T07:31:25+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
-   "title": "Senior Data Engineer - Capital Markets (R13923)",
-   "company": "Oportun",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-21T07:31:06+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [
-    "Python",
-    "AWS"
-   ],
-   "penalties": [
-    "senior title",
-    "asks 8+ yrs",
     "weak skill overlap"
    ],
    "llm": null,
