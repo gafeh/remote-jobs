@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-07T11:33:14.366920+00:00",
+ "generated_at": "2026-11-08T11:46:09.213656+00:00",
  "stats": {
-  "Remotive": 12,
+  "Remotive": 13,
   "RemoteOK": 99,
-  "WeWorkRemotely": 114,
+  "WeWorkRemotely": 115,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 32,
+  "WorkingNomads": 17,
   "HN Who's Hiring": 414,
-  "Arbeitnow": 1500,
+  "Arbeitnow": 1484,
   "greenhouse:canonical": 316,
   "greenhouse:automatticcareers": 11,
   "greenhouse:wikimedia": 15,
@@ -18,7 +18,7 @@
   "greenhouse:gitlab": 248,
   "greenhouse:consensys": 12,
   "greenhouse:okx": 378,
-  "greenhouse:elastic": 423,
+  "greenhouse:elastic": 425,
   "greenhouse:labelbox": 10,
   "ashby:supabase": 70,
   "ashby:posthog": 10,
@@ -28,7 +28,7 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 29
  },
- "rejected_count": 3464,
+ "rejected_count": 3475,
  "jobs": [
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
@@ -58,7 +58,7 @@
     "US hours overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-50063001",
@@ -93,34 +93,6 @@
    "is_new": false
   },
   {
-   "id": "jobicy-159481",
-   "title": "Senior Software Engineer - Digital Workplace",
-   "company": "Canonical",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/159481-senior-software-engineer-digital-workplace",
-   "source": "Jobicy",
-   "posted": "2026-11-07T06:55:39+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 56,
-   "h_score": 56,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "PostgreSQL",
-    "Backend",
-    "LLM",
-    "Kubernetes",
-    "React"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "hn-50339551",
    "title": "AI Engineer (Agentic team)",
    "company": "Juro",
@@ -148,77 +120,55 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-   "title": "Full-Stack Engineer",
-   "company": "OpenTrain AI",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-06T20:13:18+00:00",
+   "id": "arbeitnow-frontend-engineering-lead-london-144259",
+   "title": "Frontend Engineering Lead",
+   "company": "Omnea",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-144259",
+   "source": "Arbeitnow",
+   "posted": "2026-11-07T21:40:13+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 54,
-   "h_score": 54,
+   "path": "visa",
+   "visa": "yes",
+   "score": 50,
+   "h_score": 50,
    "skills_hit": [
-    "Backend",
-    "Evals",
-    "Full stack"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-152574",
-   "title": "Solution Engineer",
-   "company": "RelationalAI",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
-   "source": "Jobicy",
-   "posted": "2026-11-07T03:05:14+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 52,
-   "h_score": 52,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "LLM",
-    "Express",
-    "Queues"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "ashby-oyster-b3c1e89e-f45b-4c14-9fea-42310ee9231b",
-   "title": "Senior AI Product Engineer",
-   "company": "oyster",
-   "location": "EMEA",
-   "url": "https://jobs.ashbyhq.com/oyster/b3c1e89e-f45b-4c14-9fea-42310ee9231b",
-   "source": "Ashby:oyster",
-   "posted": "2026-11-05T09:19:21.153000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 48,
-   "h_score": 48,
-   "skills_hit": [
-    "Backend",
-    "LLM",
-    "RAG",
-    "Evals",
+    "TypeScript",
+    "PostgreSQL",
+    "AWS",
+    "Agents",
     "Full stack",
-    "React"
+    "React",
+    "Next.js"
    ],
    "penalties": [
     "senior title"
    ],
    "llm": null,
-   "is_new": false
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-data-engineer-london-498959",
+   "title": "Data Engineer",
+   "company": "Solveintelligence",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/data-engineer-london-498959",
+   "source": "Arbeitnow",
+   "posted": "2026-11-07T12:40:13+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 50,
+   "h_score": 50,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "AWS",
+    "pgvector"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "ashby-oyster-440f7cfe-3649-411c-8009-3ad09213435d",
@@ -244,7 +194,7 @@
     "senior title"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
@@ -267,7 +217,29 @@
    ],
    "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+   "title": "Full-Stack Engineer",
+   "company": "OpenTrain AI",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-06T20:13:18+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 44,
+   "h_score": 44,
+   "skills_hit": [
+    "Backend",
+    "Evals",
+    "Full stack"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "remoteok-1137690",
@@ -289,7 +261,7 @@
    ],
    "penalties": [],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "remotive-2091165",
@@ -315,6 +287,33 @@
     "Next.js"
    ],
    "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "ashby-oyster-b3c1e89e-f45b-4c14-9fea-42310ee9231b",
+   "title": "Senior AI Product Engineer",
+   "company": "oyster",
+   "location": "EMEA",
+   "url": "https://jobs.ashbyhq.com/oyster/b3c1e89e-f45b-4c14-9fea-42310ee9231b",
+   "source": "Ashby:oyster",
+   "posted": "2026-11-05T09:19:21.153000+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 38,
+   "h_score": 38,
+   "skills_hit": [
+    "Backend",
+    "LLM",
+    "RAG",
+    "Evals",
+    "Full stack",
+    "React"
+   ],
+   "penalties": [
+    "senior title"
+   ],
    "llm": null,
    "is_new": false
   },
@@ -394,72 +393,23 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-software-engineer-zurich-462160",
-   "title": "Software Engineer",
-   "company": "Benetics AI",
-   "location": "Z\u00fcrich",
-   "url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+   "id": "arbeitnow-electric-propulsion-engineer-reading-153550",
+   "title": "Electric Propulsion Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/electric-propulsion-engineer-reading-153550",
    "source": "Arbeitnow",
-   "posted": "2026-11-06T20:30:40+00:00",
+   "posted": "2026-11-08T00:40:12+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 32,
-   "h_score": 32,
+   "score": 26,
+   "h_score": 26,
    "skills_hit": [
-    "Python",
-    "TypeScript"
+    "Python"
    ],
    "penalties": [
     "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-159482",
-   "title": "Senior Software Engineer - Python/Golang - Kubernetes",
-   "company": "Canonical",
-   "location": "EMEA, LATAM, Canada, USA",
-   "url": "https://jobicy.com/jobs/159482-senior-software-engineer-python-golang-kubernetes",
-   "source": "Jobicy",
-   "posted": "2026-11-07T06:55:40+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 30,
-   "h_score": 30,
-   "skills_hit": [
-    "Python",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "jobicy-159443",
-   "title": "Senior Juju Software Engineer (Go)",
-   "company": "Canonical",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/159443-senior-juju-software-engineer-go",
-   "source": "Jobicy",
-   "posted": "2026-11-06T17:58:09+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 28,
-   "h_score": 28,
-   "skills_hit": [
-    "Docker",
-    "Kubernetes",
-    "Terraform"
-   ],
-   "penalties": [
-    "senior title"
    ],
    "llm": null,
    "is_new": true
@@ -485,33 +435,6 @@
    "penalties": [
     "senior title",
     "asks 5+ yrs"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "title": "Senior ML Engineer (R14284)",
-   "company": "Oportun",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:30:35+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 26,
-   "h_score": 26,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "AWS",
-    "Evals",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "senior title"
    ],
    "llm": null,
    "is_new": false
@@ -587,28 +510,6 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
-   "title": "Software Engineer Interviewer",
-   "company": "Karat",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-06T18:27:52+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 24,
-   "h_score": 24,
-   "skills_hit": [
-    "Evals"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "hn-50345025",
    "title": "Senior Growth Marketer, Senior Product Marketer, Account Executive, Scale, Senior Product Eng (full-stack)",
    "company": "Railway",
@@ -655,13 +556,36 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-ait-mgse-engineer-munich-192469",
-   "title": "AIT MGSE Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-mgse-engineer-munich-192469",
+   "id": "arbeitnow-software-engineer-zurich-462160",
+   "title": "Software Engineer",
+   "company": "Benetics AI",
+   "location": "Z\u00fcrich",
+   "url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
    "source": "Arbeitnow",
-   "posted": "2026-11-07T06:40:26+00:00",
+   "posted": "2026-11-06T20:30:40+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "Python",
+    "TypeScript"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-graduate-mechanical-design-engineer-reading-211730",
+   "title": "Graduate Mechanical Design Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-211730",
+   "source": "Arbeitnow",
+   "posted": "2026-11-08T00:40:12+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -675,13 +599,13 @@
    "is_new": true
   },
   {
-   "id": "arbeitnow-welding-engineer-bordeaux-162980",
-   "title": "Welding Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/welding-engineer-bordeaux-162980",
+   "id": "arbeitnow-thermal-engineer-reading-293780",
+   "title": "Thermal Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/thermal-engineer-reading-293780",
    "source": "Arbeitnow",
-   "posted": "2026-11-07T06:40:26+00:00",
+   "posted": "2026-11-08T00:40:12+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -695,13 +619,13 @@
    "is_new": true
   },
   {
-   "id": "arbeitnow-ait-mgse-engineer-lunar-lander-bordeaux-426846",
-   "title": "AIT MGSE Engineer - Lunar Lander",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-mgse-engineer-lunar-lander-bordeaux-426846",
+   "id": "arbeitnow-satellite-mechanical-design-engineer-reading-326999",
+   "title": "Satellite Mechanical Design Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-326999",
    "source": "Arbeitnow",
-   "posted": "2026-11-07T06:40:26+00:00",
+   "posted": "2026-11-08T00:40:12+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -739,35 +663,6 @@
    "is_new": false
   },
   {
-   "id": "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-   "title": "Software Engineer - Storage",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-   "source": "Ashby:supabase",
-   "posted": "2026-10-24T16:13:28.579000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "Node.js",
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Docker",
-    "Kubernetes",
-    "React",
-    "Next.js"
-   ],
-   "penalties": [
-    "asks 5+ yrs"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "arbeitnow-platform-engineer-amsterdam-171932",
    "title": "Platform Engineer",
    "company": "Catawiki",
@@ -792,27 +687,50 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
-   "title": "Sr DataOps Engineer (R14334)",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+   "title": "Senior ML Engineer (R14284)",
    "company": "Oportun",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:30:45+00:00",
+   "posted": "2026-11-01T07:30:35+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 18,
-   "h_score": 18,
+   "score": 16,
+   "h_score": 16,
    "skills_hit": [
     "Python",
+    "Backend",
     "AWS",
-    "REST",
-    "Kubernetes",
-    "Terraform"
+    "Evals",
+    "Docker",
+    "Kubernetes"
    ],
    "penalties": [
     "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+   "title": "Software Engineer Interviewer",
+   "company": "Karat",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-06T18:27:52+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 14,
+   "h_score": 14,
+   "skills_hit": [
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
    ],
    "llm": null,
    "is_new": false
@@ -871,11 +789,11 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-emc-emi-engineer-munich-53705",
-   "title": "EMC/EMI Engineer",
+   "id": "arbeitnow-ait-mgse-engineer-munich-192469",
+   "title": "AIT MGSE Engineer",
    "company": "The Exploration Company",
    "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/emc-emi-engineer-munich-53705",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-mgse-engineer-munich-192469",
    "source": "Arbeitnow",
    "posted": "2026-11-07T06:40:26+00:00",
    "salary": "",
@@ -885,11 +803,50 @@
    "h_score": 10,
    "skills_hit": [],
    "penalties": [
-    "asks 5+ yrs",
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-welding-engineer-bordeaux-162980",
+   "title": "Welding Engineer",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/welding-engineer-bordeaux-162980",
+   "source": "Arbeitnow",
+   "posted": "2026-11-07T06:40:26+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-ait-mgse-engineer-lunar-lander-bordeaux-426846",
+   "title": "AIT MGSE Engineer - Lunar Lander",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-mgse-engineer-lunar-lander-bordeaux-426846",
+   "source": "Arbeitnow",
+   "posted": "2026-11-07T06:40:26+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "hn-50380439",
@@ -909,7 +866,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "hn-50338809",
@@ -926,29 +883,6 @@
    "h_score": 10,
    "skills_hit": [],
    "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "ashby-supabase-985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
-   "title": "Senior Developer Relations, Twitter Brand Rep",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
-   "source": "Ashby:supabase",
-   "posted": "2026-11-04T14:33:58.224000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 8,
-   "h_score": 8,
-   "skills_hit": [
-    "PostgreSQL"
-   ],
-   "penalties": [
-    "senior title",
     "weak skill overlap"
    ],
    "llm": null,
@@ -1001,6 +935,32 @@
    "is_new": false
   },
   {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+   "title": "Sr DataOps Engineer (R14334)",
+   "company": "Oportun",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-01T07:30:45+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 8,
+   "h_score": 8,
+   "skills_hit": [
+    "Python",
+    "AWS",
+    "REST",
+    "Kubernetes",
+    "Terraform"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
    "title": "Sr. Data Engineer",
    "company": "Carrot",
@@ -1020,31 +980,6 @@
    ],
    "penalties": [
     "senior title"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-   "title": "Software Engineer - PlanetScale Postgres",
-   "company": "PlanetScale",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-   "source": "WeWorkRemotely",
-   "posted": "2026-10-25T07:30:54+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 8,
-   "h_score": 8,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "AWS",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "asks 5+ yrs"
    ],
    "llm": null,
    "is_new": false
@@ -1157,7 +1092,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
@@ -1205,29 +1140,6 @@
    "is_new": false
   },
   {
-   "id": "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-   "title": "Data API Engineer",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-   "source": "Ashby:supabase",
-   "posted": "2026-10-24T16:04:20.762000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 2,
-   "h_score": 2,
-   "skills_hit": [
-    "PostgreSQL",
-    "Backend"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
    "title": "Senior Software Engineer",
    "company": "Vested, Inc.",
@@ -1249,6 +1161,71 @@
    "penalties": [
     "senior title",
     "US hours overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-emc-emi-engineer-munich-53705",
+   "title": "EMC/EMI Engineer",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/emc-emi-engineer-munich-53705",
+   "source": "Arbeitnow",
+   "posted": "2026-11-07T06:40:26+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "remotive-2091045",
+   "title": "Tier III Service Desk Engineer",
+   "company": "Unio Digital",
+   "location": "Worldwide",
+   "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+   "source": "Remotive",
+   "posted": "2026-11-07T01:10:55+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "asks 6+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "ashby-supabase-985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+   "title": "Senior Developer Relations, Twitter Brand Rep",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+   "source": "Ashby:supabase",
+   "posted": "2026-11-04T14:33:58.224000+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [
+    "PostgreSQL"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
    ],
    "llm": null,
    "is_new": false
