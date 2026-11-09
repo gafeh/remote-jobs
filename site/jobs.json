@@ -1,65 +1,35 @@
 {
- "generated_at": "2026-11-08T11:46:09.213656+00:00",
+ "generated_at": "2026-11-09T13:40:27.745058+00:00",
  "stats": {
-  "Remotive": 13,
+  "Remotive": 12,
   "RemoteOK": 99,
-  "WeWorkRemotely": 115,
+  "WeWorkRemotely": 117,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 17,
-  "HN Who's Hiring": 414,
-  "Arbeitnow": 1484,
+  "WorkingNomads": 20,
+  "HN Who's Hiring": 417,
+  "Arbeitnow": 1500,
   "greenhouse:canonical": 316,
   "greenhouse:automatticcareers": 11,
   "greenhouse:wikimedia": 15,
   "greenhouse:sourcegraph91": 7,
   "greenhouse:netlify": 5,
-  "greenhouse:mozilla": 113,
-  "greenhouse:gitlab": 248,
+  "greenhouse:mozilla": 114,
+  "greenhouse:gitlab": 250,
   "greenhouse:consensys": 12,
-  "greenhouse:okx": 378,
+  "greenhouse:okx": 377,
   "greenhouse:elastic": 425,
   "greenhouse:labelbox": 10,
   "ashby:supabase": 70,
   "ashby:posthog": 10,
   "ashby:railway": 7,
-  "ashby:oyster": 19,
+  "ashby:oyster": 18,
   "ashby:zapier": 10,
   "ashby:clerk": 2,
   "ashby:braintrust": 29
  },
- "rejected_count": 3475,
+ "rejected_count": 3479,
  "jobs": [
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
-   "title": "Senior Applied AI Engineer, Document Intelligence",
-   "company": "Vertican",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-05T17:12:27+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 57,
-   "h_score": 57,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Backend",
-    "LLM",
-    "AWS",
-    "Evals",
-    "Agents",
-    "Payments"
-   ],
-   "penalties": [
-    "senior title",
-    "US hours overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
   {
    "id": "hn-50063001",
    "title": "AI Application Engineer + Product Engineer",
@@ -120,102 +90,32 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-frontend-engineering-lead-london-144259",
-   "title": "Frontend Engineering Lead",
-   "company": "Omnea",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-144259",
-   "source": "Arbeitnow",
-   "posted": "2026-11-07T21:40:13+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 50,
-   "h_score": 50,
-   "skills_hit": [
-    "TypeScript",
-    "PostgreSQL",
-    "AWS",
-    "Agents",
-    "Full stack",
-    "React",
-    "Next.js"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-data-engineer-london-498959",
-   "title": "Data Engineer",
-   "company": "Solveintelligence",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/data-engineer-london-498959",
-   "source": "Arbeitnow",
-   "posted": "2026-11-07T12:40:13+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 50,
-   "h_score": 50,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "AWS",
-    "pgvector"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "ashby-oyster-440f7cfe-3649-411c-8009-3ad09213435d",
-   "title": "Senior AI Solutions Engineer - GTM",
-   "company": "oyster",
-   "location": "EMEA",
-   "url": "https://jobs.ashbyhq.com/oyster/440f7cfe-3649-411c-8009-3ad09213435d",
-   "source": "Ashby:oyster",
-   "posted": "2026-11-05T19:15:02.682000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 46,
-   "h_score": 46,
-   "skills_hit": [
-    "Python",
-    "LLM",
-    "RAG",
-    "Evals",
-    "Agents"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
-   "title": "Cryptography Specialist for AI lab",
-   "company": "Toptal",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+   "title": "Senior Applied AI Engineer, Document Intelligence",
+   "company": "Vertican",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+   "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-05T17:09:07+00:00",
+   "posted": "2026-11-05T17:12:27+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 46,
-   "h_score": 46,
+   "score": 47,
+   "h_score": 47,
    "skills_hit": [
     "Python",
+    "PostgreSQL",
+    "Backend",
+    "LLM",
+    "AWS",
     "Evals",
     "Agents",
-    "Docker"
+    "Payments"
    ],
-   "penalties": [],
+   "penalties": [
+    "senior title",
+    "US hours overlap"
+   ],
    "llm": null,
    "is_new": false
   },
@@ -236,28 +136,6 @@
     "Backend",
     "Evals",
     "Full stack"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "remoteok-1137690",
-   "title": "Operations Expert with Python for AI Supply Chain Task Design",
-   "company": "Toptal",
-   "location": "Anywhere in the World",
-   "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-   "source": "RemoteOK",
-   "posted": "2026-11-05T15:01:09+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 42,
-   "h_score": 42,
-   "skills_hit": [
-    "Python",
-    "Agents",
-    "Docker"
    ],
    "penalties": [],
    "llm": null,
@@ -291,25 +169,26 @@
    "is_new": false
   },
   {
-   "id": "ashby-oyster-b3c1e89e-f45b-4c14-9fea-42310ee9231b",
-   "title": "Senior AI Product Engineer",
-   "company": "oyster",
-   "location": "EMEA",
-   "url": "https://jobs.ashbyhq.com/oyster/b3c1e89e-f45b-4c14-9fea-42310ee9231b",
-   "source": "Ashby:oyster",
-   "posted": "2026-11-05T09:19:21.153000+00:00",
+   "id": "arbeitnow-frontend-engineering-lead-london-144259",
+   "title": "Frontend Engineering Lead",
+   "company": "Omnea",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-144259",
+   "source": "Arbeitnow",
+   "posted": "2026-11-07T21:40:13+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 38,
-   "h_score": 38,
+   "path": "visa",
+   "visa": "yes",
+   "score": 40,
+   "h_score": 40,
    "skills_hit": [
-    "Backend",
-    "LLM",
-    "RAG",
-    "Evals",
+    "TypeScript",
+    "PostgreSQL",
+    "AWS",
+    "Agents",
     "Full stack",
-    "React"
+    "React",
+    "Next.js"
    ],
    "penalties": [
     "senior title"
@@ -370,6 +249,55 @@
    "is_new": false
   },
   {
+   "id": "ashby-oyster-440f7cfe-3649-411c-8009-3ad09213435d",
+   "title": "Senior AI Solutions Engineer - GTM",
+   "company": "oyster",
+   "location": "EMEA",
+   "url": "https://jobs.ashbyhq.com/oyster/440f7cfe-3649-411c-8009-3ad09213435d",
+   "source": "Ashby:oyster",
+   "posted": "2026-11-05T19:15:02.682000+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 36,
+   "h_score": 36,
+   "skills_hit": [
+    "Python",
+    "LLM",
+    "RAG",
+    "Evals",
+    "Agents"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+   "title": "Cryptography Specialist for AI lab",
+   "company": "Toptal",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-05T17:09:07+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 36,
+   "h_score": 36,
+   "skills_hit": [
+    "Python",
+    "Evals",
+    "Agents",
+    "Docker"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "hn-50339013",
    "title": "Software Engineers",
    "company": "MixRank (YC S11)",
@@ -393,49 +321,24 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-electric-propulsion-engineer-reading-153550",
-   "title": "Electric Propulsion Engineer",
-   "company": "Neworbit",
-   "location": "Reading, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/electric-propulsion-engineer-reading-153550",
-   "source": "Arbeitnow",
-   "posted": "2026-11-08T00:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 26,
-   "h_score": 26,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
-   "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) \u2013 AI-First, with GDPR Experience",
-   "company": "Secure Privacy",
+   "id": "remoteok-1137690",
+   "title": "Operations Expert with Python for AI Supply Chain Task Design",
+   "company": "Toptal",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-05T12:39:27+00:00",
+   "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+   "source": "RemoteOK",
+   "posted": "2026-11-05T15:01:09+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 26,
-   "h_score": 26,
+   "score": 32,
+   "h_score": 32,
    "skills_hit": [
-    "Backend",
-    "Payments",
-    "Full stack"
+    "Python",
+    "Agents",
+    "Docker"
    ],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs"
-   ],
+   "penalties": [],
    "llm": null,
    "is_new": false
   },
@@ -556,6 +459,28 @@
    "is_new": false
   },
   {
+   "id": "arbeitnow-front-end-design-engineer-london-255575",
+   "title": "Front End Design Engineer",
+   "company": "Seamflow",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/seamflow/front-end-design-engineer-london-255575",
+   "source": "Arbeitnow",
+   "posted": "2026-11-09T06:40:19+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "React"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
    "id": "arbeitnow-software-engineer-zurich-462160",
    "title": "Software Engineer",
    "company": "Benetics AI",
@@ -579,90 +504,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-graduate-mechanical-design-engineer-reading-211730",
-   "title": "Graduate Mechanical Design Engineer",
-   "company": "Neworbit",
-   "location": "Reading, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-211730",
-   "source": "Arbeitnow",
-   "posted": "2026-11-08T00:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-thermal-engineer-reading-293780",
-   "title": "Thermal Engineer",
-   "company": "Neworbit",
-   "location": "Reading, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/thermal-engineer-reading-293780",
-   "source": "Arbeitnow",
-   "posted": "2026-11-08T00:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-satellite-mechanical-design-engineer-reading-326999",
-   "title": "Satellite Mechanical Design Engineer",
-   "company": "Neworbit",
-   "location": "Reading, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-326999",
-   "source": "Arbeitnow",
-   "posted": "2026-11-08T00:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "ashby-supabase-6f7656fc-9983-48be-bbd3-8b40e0e3027a",
-   "title": "Container Engineer",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a",
-   "source": "Ashby:supabase",
-   "posted": "2026-10-26T09:32:58.735000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Kubernetes",
-    "Terraform"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "arbeitnow-platform-engineer-amsterdam-171932",
    "title": "Platform Engineer",
    "company": "Catawiki",
@@ -681,6 +522,53 @@
     "Terraform"
    ],
    "penalties": [
+    "asks 5+ yrs"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-electric-propulsion-engineer-reading-153550",
+   "title": "Electric Propulsion Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/electric-propulsion-engineer-reading-153550",
+   "source": "Arbeitnow",
+   "posted": "2026-11-08T00:40:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 16,
+   "h_score": 16,
+   "skills_hit": [
+    "Python"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+   "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) \u2013 AI-First, with GDPR Experience",
+   "company": "Secure Privacy",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-05T12:39:27+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 16,
+   "h_score": 16,
+   "skills_hit": [
+    "Backend",
+    "Payments",
+    "Full stack"
+   ],
+   "penalties": [
+    "senior title",
     "asks 5+ yrs"
    ],
    "llm": null,
@@ -789,6 +677,66 @@
    "is_new": false
   },
   {
+   "id": "arbeitnow-graduate-mechanical-design-engineer-reading-211730",
+   "title": "Graduate Mechanical Design Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-211730",
+   "source": "Arbeitnow",
+   "posted": "2026-11-08T00:40:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-thermal-engineer-reading-293780",
+   "title": "Thermal Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/thermal-engineer-reading-293780",
+   "source": "Arbeitnow",
+   "posted": "2026-11-08T00:40:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "arbeitnow-satellite-mechanical-design-engineer-reading-326999",
+   "title": "Satellite Mechanical Design Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-326999",
+   "source": "Arbeitnow",
+   "posted": "2026-11-08T00:40:12+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "arbeitnow-ait-mgse-engineer-munich-192469",
    "title": "AIT MGSE Engineer",
    "company": "The Exploration Company",
@@ -836,26 +784,6 @@
    "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-mgse-engineer-lunar-lander-bordeaux-426846",
    "source": "Arbeitnow",
    "posted": "2026-11-07T06:40:26+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 10,
-   "h_score": 10,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "hn-50380439",
-   "title": "Blockchain Security Engineer",
-   "company": "ChainSecurity",
-   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
-   "url": "https://news.ycombinator.com/item?id=50380439",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-05T15:35:47+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
@@ -1074,49 +1002,6 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
-   "title": "Senior Web Application Security Engineer",
-   "company": "EPAM Systems",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-05T21:24:38+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 2,
-   "h_score": 2,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
-   "title": "Software Engineer, Infrastructure",
-   "company": "Descript",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-02T07:31:04+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 2,
-   "h_score": 2,
-   "skills_hit": [
-    "Kubernetes"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
    "title": "Developer Experience Engineer",
    "company": "Ritual",
@@ -1208,6 +1093,47 @@
    "is_new": false
   },
   {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+   "title": "Senior Web Application Security Engineer",
+   "company": "EPAM Systems",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-05T21:24:38+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "hn-50380439",
+   "title": "Blockchain Security Engineer",
+   "company": "ChainSecurity",
+   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
+   "url": "https://news.ycombinator.com/item?id=50380439",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-05T15:35:47+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "ashby-supabase-985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
    "title": "Senior Developer Relations, Twitter Brand Rep",
    "company": "supabase",
@@ -1267,6 +1193,28 @@
    "score": 0,
    "h_score": 0,
    "skills_hit": [],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+   "title": "Software Engineer, Infrastructure",
+   "company": "Descript",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-02T07:31:04+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [
+    "Kubernetes"
+   ],
    "penalties": [
     "weak skill overlap"
    ],
