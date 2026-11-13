@@ -1,83 +1,64 @@
 {
- "generated_at": "2026-11-12T13:34:08.872215+00:00",
+ "generated_at": "2026-11-13T12:53:36.460133+00:00",
  "stats": {
   "Remotive": 14,
   "RemoteOK": 98,
-  "WeWorkRemotely": 123,
+  "WeWorkRemotely": 127,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 37,
-  "HN Who's Hiring": 434,
+  "WorkingNomads": 35,
+  "HN Who's Hiring": 438,
   "Arbeitnow": 1500,
   "greenhouse:canonical": 316,
-  "greenhouse:automatticcareers": 9,
+  "greenhouse:automatticcareers": 8,
   "greenhouse:wikimedia": 16,
-  "greenhouse:sourcegraph91": 7,
+  "greenhouse:sourcegraph91": 6,
   "greenhouse:netlify": 4,
-  "greenhouse:mozilla": 114,
-  "greenhouse:gitlab": 259,
-  "greenhouse:consensys": 11,
-  "greenhouse:okx": 387,
-  "greenhouse:elastic": 421,
+  "greenhouse:mozilla": 121,
+  "greenhouse:gitlab": 253,
+  "greenhouse:consensys": 12,
+  "greenhouse:okx": 392,
+  "greenhouse:elastic": 398,
   "greenhouse:labelbox": 10,
   "ashby:supabase": 77,
   "ashby:posthog": 10,
   "ashby:railway": 7,
-  "ashby:oyster": 22,
+  "ashby:oyster": 23,
   "ashby:zapier": 9,
   "ashby:clerk": 2,
   "ashby:braintrust": 32
  },
- "rejected_count": 3392,
+ "rejected_count": 3526,
  "jobs": [
   {
-   "id": "himalayas-https://himalayas.app/companies/workster-jobs/jobs/ai-llm-engineer-remote-in-emea",
-   "title": "AI LLM Engineer - Remote in EMEA",
-   "company": "Workster Jobs",
-   "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Cura\u00e7ao, Cyprus, Czechia, C\u00f4te d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Rwanda, R\u00e9union, Saint Barth\u00e9lemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, \u00c5land Islands",
-   "url": "https://himalayas.app/companies/workster-jobs/jobs/ai-llm-engineer-remote-in-emea?utm_source=api",
+   "id": "himalayas-https://himalayas.app/companies/exclusively-remote/jobs/senior-fullstack-engineer-react-python",
+   "title": "Senior FullStack Engineer (React & Python)",
+   "company": "Exclusively Remote",
+   "location": "South Africa",
+   "url": "https://himalayas.app/companies/exclusively-remote/jobs/senior-fullstack-engineer-react-python?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-12T11:07:59+00:00",
+   "posted": "2026-11-13T10:39:16+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 70,
-   "h_score": 70,
+   "score": 76,
+   "h_score": 76,
    "skills_hit": [
     "Python",
-    "Backend",
-    "LLM",
-    "RAG",
-    "Evals",
-    "pgvector"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "ashby-supabase-26f7817d-ca92-4094-a2b5-f22e07a218c4",
-   "title": "Developer Relations Engineer",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
-   "source": "Ashby:supabase",
-   "posted": "2026-11-11T22:44:19.400000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 60,
-   "h_score": 60,
-   "skills_hit": [
     "TypeScript",
     "PostgreSQL",
     "Backend",
-    "Payments",
+    "FastAPI",
+    "AWS",
     "Full stack",
-    "React",
-    "Next.js"
+    "REST",
+    "Docker",
+    "Terraform",
+    "React"
    ],
-   "penalties": [],
+   "penalties": [
+    "senior title"
+   ],
    "llm": null,
    "is_new": true
   },
@@ -114,102 +95,26 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
-   "title": "Data Engineer II, Credit Reporting",
-   "company": "Sezzle",
-   "location": "EMEA Only",
-   "url": "https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-11T17:01:13+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 56,
-   "h_score": 56,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "LLM",
-    "AWS",
-    "Payments"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-   "title": "Senior Magento Developer",
-   "company": "Lemon.io",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-11T16:41:48+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "Python",
-    "TypeScript",
-    "Node.js",
-    "LLM",
-    "Agents",
-    "React",
-    "Next.js"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "hn-50428062",
-   "title": "Senior Full-Stack Engineer (backend-heavy)",
-   "company": "Collabify",
-   "location": "REMOTE (worldwide)",
-   "url": "https://news.ycombinator.com/item?id=50428062",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-09T16:46:20+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "TypeScript",
-    "Node.js",
-    "PostgreSQL",
-    "Backend",
-    "Full stack",
-    "React",
-    "Next.js"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "jobicy-150364",
-   "title": "Software Engineer - Python - Container Images",
-   "company": "Canonical",
-   "location": "APAC, EMEA, LATAM, Canada, USA",
-   "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-   "source": "Jobicy",
-   "posted": "2026-11-12T02:51:25+00:00",
+   "id": "ashby-supabase-26f7817d-ca92-4094-a2b5-f22e07a218c4",
+   "title": "Developer Relations Engineer",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
+   "source": "Ashby:supabase",
+   "posted": "2026-11-11T22:44:19.400000+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 50,
    "h_score": 50,
    "skills_hit": [
-    "Python",
-    "Docker",
-    "Kubernetes"
+    "TypeScript",
+    "PostgreSQL",
+    "Backend",
+    "Payments",
+    "Full stack",
+    "React",
+    "Next.js"
    ],
    "penalties": [],
    "llm": null,
@@ -243,34 +148,28 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
-   "title": "Senior Applied AI Engineer, Document Intelligence",
-   "company": "Vertican",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
+   "title": "Data Engineer II, Credit Reporting",
+   "company": "Sezzle",
+   "location": "EMEA Only",
+   "url": "https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-05T17:12:27+00:00",
+   "posted": "2026-11-11T17:01:13+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 47,
-   "h_score": 47,
+   "score": 46,
+   "h_score": 46,
    "skills_hit": [
     "Python",
     "PostgreSQL",
-    "Backend",
     "LLM",
     "AWS",
-    "Evals",
-    "Agents",
     "Payments"
    ],
-   "penalties": [
-    "senior title",
-    "US hours overlap"
-   ],
+   "penalties": [],
    "llm": null,
-   "is_new": false
+   "is_new": true
   },
   {
    "id": "hn-50339551",
@@ -300,80 +199,60 @@
    "is_new": false
   },
   {
-   "id": "remotive-2091165",
-   "title": "Full-Stack Developer",
-   "company": "Fluence International, Inc.",
-   "location": "Worldwide",
-   "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-   "source": "Remotive",
-   "posted": "2026-10-29T18:22:41+00:00",
-   "salary": "$3.5k\u2013$5k/month",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
+   "title": "Senior Magento Developer",
+   "company": "Lemon.io",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-11T16:41:48+00:00",
+   "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 42,
-   "h_score": 42,
+   "score": 44,
+   "h_score": 44,
    "skills_hit": [
+    "Python",
     "TypeScript",
-    "Backend",
+    "Node.js",
     "LLM",
-    "AWS",
-    "Full stack",
-    "Docker",
+    "Agents",
     "React",
     "Next.js"
    ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-cloud-engineer-bordeaux-92158",
-   "title": "Cloud Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cloud-engineer-bordeaux-92158",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T06:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 38,
-   "h_score": 38,
-   "skills_hit": [
-    "AWS",
-    "Kubernetes",
-    "Terraform"
+   "penalties": [
+    "senior title"
    ],
-   "penalties": [],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
-   "title": "Senior Data Engineer, Credit Reporting",
-   "company": "Sezzle",
-   "location": "EMEA Only",
-   "url": "https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-11T17:01:11+00:00",
+   "id": "hn-50428062",
+   "title": "Senior Full-Stack Engineer (backend-heavy)",
+   "company": "Collabify",
+   "location": "REMOTE (worldwide)",
+   "url": "https://news.ycombinator.com/item?id=50428062",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-09T16:46:20+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 38,
-   "h_score": 38,
+   "score": 44,
+   "h_score": 44,
    "skills_hit": [
-    "Python",
+    "TypeScript",
+    "Node.js",
     "PostgreSQL",
-    "LLM",
-    "AWS",
-    "Payments"
+    "Backend",
+    "Full stack",
+    "React",
+    "Next.js"
    ],
    "penalties": [
-    "senior title",
-    "asks 5+ yrs"
+    "senior title"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ashby-supabase-fb0b563a-e541-43fd-8555-9eb6473aaa11",
@@ -405,75 +284,34 @@
    "is_new": false
   },
   {
-   "id": "ashby-oyster-440f7cfe-3649-411c-8009-3ad09213435d",
-   "title": "Senior AI Solutions Engineer - GTM",
-   "company": "oyster",
-   "location": "EMEA",
-   "url": "https://jobs.ashbyhq.com/oyster/440f7cfe-3649-411c-8009-3ad09213435d",
-   "source": "Ashby:oyster",
-   "posted": "2026-11-05T19:15:02.682000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 36,
-   "h_score": 36,
-   "skills_hit": [
-    "Python",
-    "LLM",
-    "RAG",
-    "Evals",
-    "Agents"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
-   "title": "Cryptography Specialist for AI lab",
-   "company": "Toptal",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+   "title": "Senior Applied AI Engineer, Document Intelligence",
+   "company": "Vertican",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+   "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-05T17:09:07+00:00",
+   "posted": "2026-11-05T17:12:27+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 36,
-   "h_score": 36,
+   "score": 37,
+   "h_score": 37,
    "skills_hit": [
     "Python",
+    "PostgreSQL",
+    "Backend",
+    "LLM",
+    "AWS",
     "Evals",
     "Agents",
-    "Docker"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/ai-conversation-evaluator",
-   "title": "AI Conversation Evaluator",
-   "company": "micro1",
-   "location": "Worldwide",
-   "url": "https://himalayas.app/companies/micro1/jobs/ai-conversation-evaluator?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12T11:20:30+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 34,
-   "h_score": 34,
-   "skills_hit": [
-    "Evals"
+    "Payments"
    ],
    "penalties": [
-    "weak skill overlap"
+    "senior title",
+    "US hours overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
@@ -498,58 +336,35 @@
    "is_new": false
   },
   {
-   "id": "remoteok-1137690",
-   "title": "Operations Expert with Python for AI Supply Chain Task Design",
-   "company": "Toptal",
-   "location": "Anywhere in the World",
-   "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-   "source": "RemoteOK",
-   "posted": "2026-11-05T15:01:09+00:00",
+   "id": "arbeitnow-cloud-engineer-bordeaux-92158",
+   "title": "Cloud Engineer",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cloud-engineer-bordeaux-92158",
+   "source": "Arbeitnow",
+   "posted": "2026-11-12T06:40:12+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 32,
-   "h_score": 32,
+   "path": "visa",
+   "visa": "yes",
+   "score": 28,
+   "h_score": 28,
    "skills_hit": [
-    "Python",
-    "Agents",
-    "Docker"
+    "AWS",
+    "Kubernetes",
+    "Terraform"
    ],
    "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
-   "title": "ML Engineer (MSc. or PhD)",
-   "company": "micro1",
-   "location": "Worldwide",
-   "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12T13:00:10+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 30,
-   "h_score": 30,
-   "skills_hit": [
-    "Python",
-    "Evals"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "gh-canonical-3748266",
-   "title": "Telco Cloud Field Engineer",
-   "company": "canonical",
-   "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-11T16:10:49-05:00",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
+   "title": "Senior Data Engineer, Credit Reporting",
+   "company": "Sezzle",
+   "location": "EMEA Only",
+   "url": "https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-11T17:01:11+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -557,10 +372,14 @@
    "h_score": 28,
    "skills_hit": [
     "Python",
-    "Kubernetes"
+    "PostgreSQL",
+    "LLM",
+    "AWS",
+    "Payments"
    ],
    "penalties": [
-    "weak skill overlap"
+    "senior title",
+    "asks 5+ yrs"
    ],
    "llm": null,
    "is_new": true
@@ -589,26 +408,53 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-combustion-engineer-bordeaux-472838",
-   "title": "Combustion Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-engineer-bordeaux-472838",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T06:40:12+00:00",
+   "id": "ashby-oyster-440f7cfe-3649-411c-8009-3ad09213435d",
+   "title": "Senior AI Solutions Engineer - GTM",
+   "company": "oyster",
+   "location": "EMEA",
+   "url": "https://jobs.ashbyhq.com/oyster/440f7cfe-3649-411c-8009-3ad09213435d",
+   "source": "Ashby:oyster",
+   "posted": "2026-11-05T19:15:02.682000+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
    "score": 26,
    "h_score": 26,
    "skills_hit": [
-    "Python"
+    "Python",
+    "LLM",
+    "RAG",
+    "Evals",
+    "Agents"
    ],
    "penalties": [
-    "weak skill overlap"
+    "senior title"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+   "title": "Cryptography Specialist for AI lab",
+   "company": "Toptal",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-05T17:09:07+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 26,
+   "h_score": 26,
+   "skills_hit": [
+    "Python",
+    "Evals",
+    "Agents",
+    "Docker"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
@@ -655,30 +501,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-senior-forward-deployed-engineer-london-316264",
-   "title": "Senior Forward Deployed Engineer",
-   "company": "Stratos",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/stratos/senior-forward-deployed-engineer-london-316264",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T09:40:29+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 24,
-   "h_score": 24,
-   "skills_hit": [
-    "Python",
-    "TypeScript"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "hn-50339013",
    "title": "Software Engineers",
    "company": "MixRank (YC S11)",
@@ -700,6 +522,51 @@
    "penalties": [],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "remoteok-1137690",
+   "title": "Operations Expert with Python for AI Supply Chain Task Design",
+   "company": "Toptal",
+   "location": "Anywhere in the World",
+   "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+   "source": "RemoteOK",
+   "posted": "2026-11-05T15:01:09+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "Python",
+    "Agents",
+    "Docker"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "gh-canonical-3748266",
+   "title": "Telco Cloud Field Engineer",
+   "company": "canonical",
+   "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-11T16:10:49-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 18,
+   "h_score": 18,
+   "skills_hit": [
+    "Python",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "gh-canonical-3290946",
@@ -725,23 +592,22 @@
    "is_new": false
   },
   {
-   "id": "himalayas-https://himalayas.app/companies/old-mutual/jobs/lead-analyst-programmer",
-   "title": "Lead Analyst Programmer",
-   "company": "Old Mutual",
-   "location": "South Africa",
-   "url": "https://himalayas.app/companies/old-mutual/jobs/lead-analyst-programmer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12T12:30:13+00:00",
+   "id": "arbeitnow-combustion-engineer-bordeaux-472838",
+   "title": "Combustion Engineer",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-engineer-bordeaux-472838",
+   "source": "Arbeitnow",
+   "posted": "2026-11-12T06:40:12+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
+   "path": "visa",
+   "visa": "yes",
    "score": 16,
    "h_score": 16,
    "skills_hit": [
-    "Evals"
+    "Python"
    ],
    "penalties": [
-    "senior title",
     "weak skill overlap"
    ],
    "llm": null,
@@ -799,28 +665,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-system-integration-senior-engineer-platform-focus-munich-124715",
-   "title": "System Integration Senior Engineer (Platform Focus)",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/system-integration-senior-engineer-platform-focus-munich-124715",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T06:40:11+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 12,
-   "h_score": 12,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "arbeitnow-software-engineer-zurich-462160",
    "title": "Software Engineer",
    "company": "Benetics AI",
@@ -842,27 +686,6 @@
    ],
    "llm": null,
    "is_new": false
-  },
-  {
-   "id": "arbeitnow-ait-evt-thermal-engineer-munich-110361",
-   "title": "AIT EVT & Thermal Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-evt-thermal-engineer-munich-110361",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T06:40:11+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 10,
-   "h_score": 10,
-   "skills_hit": [],
-   "penalties": [
-    "asks 5+ yrs",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
@@ -938,6 +761,28 @@
    "is_new": false
   },
   {
+   "id": "arbeitnow-system-integration-senior-engineer-platform-focus-munich-124715",
+   "title": "System Integration Senior Engineer (Platform Focus)",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/system-integration-senior-engineer-platform-focus-munich-124715",
+   "source": "Arbeitnow",
+   "posted": "2026-11-12T06:40:11+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 2,
+   "h_score": 2,
+   "skills_hit": [],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
    "title": "Senior Software Engineer",
    "company": "WelcomeHome Software",
@@ -986,6 +831,27 @@
    ],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "arbeitnow-ait-evt-thermal-engineer-munich-110361",
+   "title": "AIT EVT & Thermal Engineer",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-evt-thermal-engineer-munich-110361",
+   "source": "Arbeitnow",
+   "posted": "2026-11-12T06:40:11+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [],
+   "penalties": [
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "arbeitnow-lead-forward-deployed-engineer-emea-berlin-58307",
