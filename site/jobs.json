@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-14T11:57:28.951307+00:00",
+ "generated_at": "2026-11-15T12:32:31.741906+00:00",
  "stats": {
   "Remotive": 16,
   "RemoteOK": 97,
-  "WeWorkRemotely": 135,
+  "WeWorkRemotely": 143,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 36,
-  "HN Who's Hiring": 442,
+  "WorkingNomads": 34,
+  "HN Who's Hiring": 443,
   "Arbeitnow": 1500,
   "greenhouse:canonical": 316,
   "greenhouse:automatticcareers": 8,
@@ -15,7 +15,7 @@
   "greenhouse:sourcegraph91": 6,
   "greenhouse:netlify": 5,
   "greenhouse:mozilla": 121,
-  "greenhouse:gitlab": 251,
+  "greenhouse:gitlab": 254,
   "greenhouse:consensys": 12,
   "greenhouse:okx": 391,
   "greenhouse:elastic": 400,
@@ -28,52 +28,53 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 32
  },
- "rejected_count": 3567,
+ "rejected_count": 3574,
  "jobs": [
   {
-   "id": "arbeitnow-platform-engineer-london-373548",
-   "title": "Platform Engineer",
-   "company": "Conduct",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/platform-engineer-london-373548",
-   "source": "Arbeitnow",
-   "posted": "2026-11-13T18:40:21+00:00",
+   "id": "jobicy-155385",
+   "title": "AI Platform Engineer",
+   "company": "Supabase",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+   "source": "Jobicy",
+   "posted": "2026-11-15T03:45:11+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 64,
-   "h_score": 64,
+   "path": "remote",
+   "visa": null,
+   "score": 74,
+   "h_score": 74,
    "skills_hit": [
-    "TypeScript",
+    "Python",
     "PostgreSQL",
+    "Backend",
     "LLM",
-    "AWS",
-    "Terraform"
+    "Evals",
+    "Agents",
+    "Queues"
    ],
    "penalties": [],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "arbeitnow-backend-engineer-iii-cardiff-307022",
-   "title": "Backend Engineer III",
-   "company": "Monzoreferrals",
-   "location": "Cardiff",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-307022",
-   "source": "Arbeitnow",
-   "posted": "2026-11-14T06:55:20+00:00",
+   "id": "jobicy-155389",
+   "title": "Platform Engineer, Managed Postgres",
+   "company": "Supabase",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
+   "source": "Jobicy",
+   "posted": "2026-11-15T03:45:12+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 62,
-   "h_score": 62,
+   "path": "remote",
+   "visa": null,
+   "score": 66,
+   "h_score": 66,
    "skills_hit": [
+    "TypeScript",
+    "PostgreSQL",
     "Backend",
     "AWS",
-    "Payments",
-    "Docker",
-    "Kubernetes",
-    "React",
+    "Terraform",
     "Queues"
    ],
    "penalties": [],
@@ -113,18 +114,18 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-senior-backend-engineer-cardiff-225347",
-   "title": "Senior Backend Engineer",
+   "id": "arbeitnow-backend-engineer-iii-cardiff-307022",
+   "title": "Backend Engineer III",
    "company": "Monzoreferrals",
    "location": "Cardiff",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-backend-engineer-cardiff-225347",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-307022",
    "source": "Arbeitnow",
    "posted": "2026-11-14T06:55:20+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 54,
-   "h_score": 54,
+   "score": 52,
+   "h_score": 52,
    "skills_hit": [
     "Backend",
     "AWS",
@@ -133,87 +134,6 @@
     "Kubernetes",
     "React",
     "Queues"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-senior-server-engineer-performance-466095",
-   "title": "Senior Server Engineer - Performance",
-   "company": "Scopely",
-   "location": "",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-server-engineer-performance-466095",
-   "source": "Arbeitnow",
-   "posted": "2026-11-14T06:55:24+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 52,
-   "h_score": 52,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "AWS",
-    "Agents",
-    "Payments",
-    "Docker",
-    "Terraform",
-    "Redis"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "ashby-supabase-26f7817d-ca92-4094-a2b5-f22e07a218c4",
-   "title": "Developer Relations Engineer",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
-   "source": "Ashby:supabase",
-   "posted": "2026-11-11T22:44:19.400000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 50,
-   "h_score": 50,
-   "skills_hit": [
-    "TypeScript",
-    "PostgreSQL",
-    "Backend",
-    "Payments",
-    "Full stack",
-    "React",
-    "Next.js"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
-   "title": "Data Engineer II, Credit Reporting",
-   "company": "Sezzle",
-   "location": "EMEA Only",
-   "url": "https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-11T17:01:13+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 46,
-   "h_score": 46,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "LLM",
-    "AWS",
-    "Payments"
    ],
    "penalties": [],
    "llm": null,
@@ -247,26 +167,26 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-   "title": "Senior Magento Developer",
-   "company": "Lemon.io",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-11T16:41:48+00:00",
+   "id": "arbeitnow-senior-backend-engineer-cardiff-225347",
+   "title": "Senior Backend Engineer",
+   "company": "Monzoreferrals",
+   "location": "Cardiff",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-backend-engineer-cardiff-225347",
+   "source": "Arbeitnow",
+   "posted": "2026-11-14T06:55:20+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
+   "path": "visa",
+   "visa": "yes",
    "score": 44,
    "h_score": 44,
    "skills_hit": [
-    "Python",
-    "TypeScript",
-    "Node.js",
-    "LLM",
-    "Agents",
+    "Backend",
+    "AWS",
+    "Payments",
+    "Docker",
+    "Kubernetes",
     "React",
-    "Next.js"
+    "Queues"
    ],
    "penalties": [
     "senior title"
@@ -303,6 +223,61 @@
    "is_new": false
   },
   {
+   "id": "arbeitnow-senior-server-engineer-performance-466095",
+   "title": "Senior Server Engineer - Performance",
+   "company": "Scopely",
+   "location": "",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-server-engineer-performance-466095",
+   "source": "Arbeitnow",
+   "posted": "2026-11-14T06:55:24+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 42,
+   "h_score": 42,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "AWS",
+    "Agents",
+    "Payments",
+    "Docker",
+    "Terraform",
+    "Redis"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "ashby-supabase-26f7817d-ca92-4094-a2b5-f22e07a218c4",
+   "title": "Developer Relations Engineer",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
+   "source": "Ashby:supabase",
+   "posted": "2026-11-11T22:44:19.400000+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "TypeScript",
+    "PostgreSQL",
+    "Backend",
+    "Payments",
+    "Full stack",
+    "React",
+    "Next.js"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
    "title": "Senior Applied AI Engineer, Document Intelligence",
    "company": "Vertican",
@@ -333,60 +308,18 @@
    "is_new": false
   },
   {
-   "id": "himalayas-https://himalayas.app/companies/remote-va/jobs/ai-implementation-specialist",
-   "title": "AI Implementation Specialist",
-   "company": "Remote VA",
-   "location": "South Africa",
-   "url": "https://himalayas.app/companies/remote-va/jobs/ai-implementation-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-14T09:39:19+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 30,
-   "h_score": 30,
-   "skills_hit": [],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-cloud-engineer-bordeaux-92158",
-   "title": "Cloud Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cloud-engineer-bordeaux-92158",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T06:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 28,
-   "h_score": 28,
-   "skills_hit": [
-    "AWS",
-    "Kubernetes",
-    "Terraform"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
-   "title": "Senior Data Engineer, Credit Reporting",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
+   "title": "Data Engineer II, Credit Reporting",
    "company": "Sezzle",
    "location": "EMEA Only",
-   "url": "https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
+   "url": "https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-11T17:01:11+00:00",
+   "posted": "2026-11-11T17:01:13+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 28,
-   "h_score": 28,
+   "score": 36,
+   "h_score": 36,
    "skills_hit": [
     "Python",
     "PostgreSQL",
@@ -394,9 +327,34 @@
     "AWS",
     "Payments"
    ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
+   "title": "Senior Magento Developer",
+   "company": "Lemon.io",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-11T16:41:48+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 34,
+   "h_score": 34,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "LLM",
+    "Agents",
+    "React",
+    "Next.js"
+   ],
    "penalties": [
-    "senior title",
-    "asks 5+ yrs"
+    "senior title"
    ],
    "llm": null,
    "is_new": false
@@ -446,6 +404,31 @@
    "penalties": [],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-design",
+   "title": "Senior Software Engineer, Design",
+   "company": "True Talent Solutions Partners",
+   "location": "North America Only",
+   "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-design",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-14T17:00:43+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 24,
+   "h_score": 24,
+   "skills_hit": [
+    "TypeScript",
+    "Full stack",
+    "React"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
@@ -515,13 +498,39 @@
    "is_new": false
   },
   {
-   "id": "gh-canonical-3748266",
-   "title": "Telco Cloud Field Engineer",
-   "company": "canonical",
-   "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-11T16:10:49-05:00",
+   "id": "jobicy-155391",
+   "title": "Site Reliability Engineer",
+   "company": "Supabase",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
+   "source": "Jobicy",
+   "posted": "2026-11-15T03:45:14+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 20,
+   "h_score": 20,
+   "skills_hit": [
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Kubernetes",
+    "Terraform"
+   ],
+   "penalties": [
+    "asks 7+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
+   "title": "Senior Data Engineer, Credit Reporting",
+   "company": "Sezzle",
+   "location": "EMEA Only",
+   "url": "https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-11T17:01:11+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -529,59 +538,14 @@
    "h_score": 18,
    "skills_hit": [
     "Python",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-combustion-engineer-bordeaux-472838",
-   "title": "Combustion Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-engineer-bordeaux-472838",
-   "source": "Arbeitnow",
-   "posted": "2026-11-12T06:40:12+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 16,
-   "h_score": 16,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "title": "Senior ML Engineer (R14284)",
-   "company": "Oportun",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:30:35+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 16,
-   "h_score": 16,
-   "skills_hit": [
-    "Python",
-    "Backend",
+    "PostgreSQL",
+    "LLM",
     "AWS",
-    "Evals",
-    "Docker",
-    "Kubernetes"
+    "Payments"
    ],
    "penalties": [
-    "senior title"
+    "senior title",
+    "asks 5+ yrs"
    ],
    "llm": null,
    "is_new": false
@@ -611,6 +575,29 @@
    "is_new": false
   },
   {
+   "id": "gh-canonical-3748266",
+   "title": "Telco Cloud Field Engineer",
+   "company": "canonical",
+   "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-11T16:10:49-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 8,
+   "h_score": 8,
+   "skills_hit": [
+    "Python",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "gh-canonical-3290946",
    "title": "Software Engineer - Solutions Engineering",
    "company": "canonical",
@@ -629,32 +616,6 @@
    ],
    "penalties": [
     "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
-   "title": "Sr DataOps Engineer (R14334)",
-   "company": "Oportun",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:30:45+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 8,
-   "h_score": 8,
-   "skills_hit": [
-    "Python",
-    "AWS",
-    "REST",
-    "Kubernetes",
-    "Terraform"
-   ],
-   "penalties": [
-    "senior title"
    ],
    "llm": null,
    "is_new": false
@@ -1013,30 +974,6 @@
     "Kubernetes"
    ],
    "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data",
-   "title": "Senior Software Engineer, Data",
-   "company": "Doximity",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-01T07:31:04+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": "no",
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs",
     "weak skill overlap"
    ],
    "llm": null,
