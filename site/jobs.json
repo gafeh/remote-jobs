@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-16T13:24:02.727205+00:00",
+ "generated_at": "2026-11-17T14:09:55.012654+00:00",
  "stats": {
-  "Remotive": 16,
+  "Remotive": 17,
   "RemoteOK": 97,
-  "WeWorkRemotely": 142,
+  "WeWorkRemotely": 130,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 34,
+  "WorkingNomads": 35,
   "HN Who's Hiring": 444,
-  "Arbeitnow": 1499,
+  "Arbeitnow": 1500,
   "greenhouse:canonical": 316,
-  "greenhouse:automatticcareers": 8,
-  "greenhouse:wikimedia": 16,
+  "greenhouse:automatticcareers": 7,
+  "greenhouse:wikimedia": 15,
   "greenhouse:sourcegraph91": 6,
   "greenhouse:netlify": 5,
-  "greenhouse:mozilla": 121,
+  "greenhouse:mozilla": 112,
   "greenhouse:gitlab": 254,
   "greenhouse:consensys": 12,
-  "greenhouse:okx": 394,
-  "greenhouse:elastic": 400,
+  "greenhouse:okx": 395,
+  "greenhouse:elastic": 384,
   "greenhouse:labelbox": 11,
   "ashby:supabase": 77,
   "ashby:posthog": 10,
@@ -28,8 +28,35 @@
   "ashby:clerk": 2,
   "ashby:braintrust": 32
  },
- "rejected_count": 3553,
+ "rejected_count": 3499,
  "jobs": [
+  {
+   "id": "jobicy-150767",
+   "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+   "company": "Udacity",
+   "location": "APAC, EMEA, Canada, Europe, USA",
+   "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+   "source": "Jobicy",
+   "posted": "2026-11-17T03:25:11+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": "no",
+   "score": 58,
+   "h_score": 58,
+   "skills_hit": [
+    "Python",
+    "LLM",
+    "AWS",
+    "RAG",
+    "Evals",
+    "pgvector"
+   ],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
+  },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-software-engineer-ai-agents",
    "title": "Software Engineer, AI Agents",
@@ -41,8 +68,8 @@
    "salary": "",
    "path": "visa",
    "visa": "yes",
-   "score": 66,
-   "h_score": 66,
+   "score": 56,
+   "h_score": 56,
    "skills_hit": [
     "TypeScript",
     "Backend",
@@ -52,108 +79,50 @@
    ],
    "penalties": [],
    "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "hn-50063001",
-   "title": "AI Application Engineer + Product Engineer",
-   "company": "Typify.dev ( https://typify.dev )",
-   "location": "San Francisco (hybrid / remote available)",
-   "url": "https://news.ycombinator.com/item?id=50063001",
-   "source": "HN Who's Hiring",
-   "posted": "2026-10-12T21:00:23+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 57,
-   "h_score": 30,
-   "skills_hit": [
-    "PostgreSQL",
-    "LLM",
-    "RAG",
-    "Evals"
-   ],
-   "penalties": [],
-   "llm": {
-    "interview_odds": 72,
-    "verdict": "apply",
-    "why": "Strong backend/AI engineering match with proven LLM eval and agent experience, but Angular requirement is a notable gap and visa sponsorship is uncertain despite 'visa' path designation.",
-    "gaps": [
-     "Angular (stack specifies Angular + NestJS, resume shows React/Next.js, not Angular)",
-     "Visa sponsorship confirmation (posting says 'visa' but unclear if genuinely available for non-US citizens)"
-    ],
-    "location_ok": true
-   },
    "is_new": false
   },
   {
-   "id": "himalayas-https://himalayas.app/companies/yellow-card/jobs/security-operations-engineer-9490716855",
-   "title": "Security Operations Engineer",
-   "company": "Yellow Card",
-   "location": "South Africa",
-   "url": "https://himalayas.app/companies/yellow-card/jobs/security-operations-engineer-9490716855?utm_source=api",
+   "id": "himalayas-https://himalayas.app/companies/safetywing/jobs/product-engineer-1774480954",
+   "title": "Product Engineer",
+   "company": "SafetyWing",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/safetywing/jobs/product-engineer-1774480954?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-16T09:21:02+00:00",
+   "posted": "2026-11-17T08:27:10+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "Python",
-    "Node.js",
-    "AWS",
-    "Payments",
-    "Kubernetes",
-    "Terraform"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "gh-canonical-5150422",
-   "title": "Web Engineer - JS, TS, Flutter",
-   "company": "canonical",
-   "location": "Home based - Worldwide",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-16T07:02:49-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 50,
-   "h_score": 50,
+   "score": 52,
+   "h_score": 52,
    "skills_hit": [
     "TypeScript",
     "Backend",
-    "REST",
-    "Docker",
+    "Full stack",
     "Kubernetes",
-    "React"
+    "React",
+    "Next.js"
    ],
    "penalties": [],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "gh-canonical-2804965",
-   "title": "Web Developer",
-   "company": "canonical",
-   "location": "Home based - EMEA",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-16T05:42:48-05:00",
+   "id": "arbeitnow-forward-deployed-engineer-emea-berlin-220154",
+   "title": "Forward Deployed Engineer - EMEA",
+   "company": "N8N",
+   "location": "Berlin Office",
+   "url": "https://www.arbeitnow.com/jobs/companies/n8n/forward-deployed-engineer-emea-berlin-220154",
+   "source": "Arbeitnow",
+   "posted": "2026-11-17T06:40:19+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 50,
-   "h_score": 50,
+   "path": "visa",
+   "visa": "yes",
+   "score": 46,
+   "h_score": 46,
    "skills_hit": [
-    "Python",
-    "TypeScript",
     "Node.js",
-    "React"
+    "Backend",
+    "Full stack"
    ],
    "penalties": [],
    "llm": null,
@@ -187,30 +156,50 @@
    "is_new": false
   },
   {
-   "id": "hn-50428062",
-   "title": "Senior Full-Stack Engineer (backend-heavy)",
-   "company": "Collabify",
-   "location": "REMOTE (worldwide)",
-   "url": "https://news.ycombinator.com/item?id=50428062",
-   "source": "HN Who's Hiring",
-   "posted": "2026-11-09T16:46:20+00:00",
+   "id": "gh-canonical-5150422",
+   "title": "Web Engineer - JS, TS, Flutter",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-16T07:02:49-05:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 44,
-   "h_score": 44,
+   "score": 40,
+   "h_score": 40,
    "skills_hit": [
     "TypeScript",
-    "Node.js",
-    "PostgreSQL",
     "Backend",
-    "Full stack",
-    "React",
-    "Next.js"
+    "REST",
+    "Docker",
+    "Kubernetes",
+    "React"
    ],
-   "penalties": [
-    "senior title"
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "gh-canonical-2804965",
+   "title": "Web Developer",
+   "company": "canonical",
+   "location": "Home based - EMEA",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-16T05:42:48-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "React"
    ],
+   "penalties": [],
    "llm": null,
    "is_new": false
   },
@@ -323,25 +312,75 @@
    "is_new": false
   },
   {
-   "id": "gh-canonical-4417916",
-   "title": "Senior Web Engineer",
-   "company": "canonical",
-   "location": "Home based - EMEA",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/4417916",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-16T05:42:48-05:00",
+   "id": "hn-50428062",
+   "title": "Senior Full-Stack Engineer (backend-heavy)",
+   "company": "Collabify",
+   "location": "REMOTE (worldwide)",
+   "url": "https://news.ycombinator.com/item?id=50428062",
+   "source": "HN Who's Hiring",
+   "posted": "2026-11-09T16:46:20+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 28,
-   "h_score": 28,
+   "score": 34,
+   "h_score": 34,
    "skills_hit": [
-    "REST",
-    "Docker",
-    "Kubernetes"
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Backend",
+    "Full stack",
+    "React",
+    "Next.js"
    ],
    "penalties": [
     "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer",
+   "title": "Junior Machine Learning Engineer",
+   "company": "micro1",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-17T08:20:17+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 30,
+   "h_score": 30,
+   "skills_hit": [
+    "Python",
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-customer-studio-backend",
+   "title": "Senior Software Engineer, Customer Studio Backend",
+   "company": "True Talent Solutions Partners",
+   "location": "USA Only",
+   "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-customer-studio-backend",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-16T17:02:40+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 28,
+   "h_score": 28,
+   "skills_hit": [
+    "Backend"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
    ],
    "llm": null,
    "is_new": true
@@ -370,28 +409,6 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-ait-propulsion-engineer-munich-497189",
-   "title": "AIT Propulsion Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-propulsion-engineer-munich-497189",
-   "source": "Arbeitnow",
-   "posted": "2026-11-15T15:40:14+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 26,
-   "h_score": 26,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
    "title": "Cryptography Specialist for AI lab",
    "company": "Toptal",
@@ -413,6 +430,28 @@
    "penalties": [],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "arbeitnow-product-ml-engineer-paris-117267",
+   "title": "Product ML Engineer",
+   "company": "Photoroom",
+   "location": "Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-ml-engineer-paris-117267",
+   "source": "Arbeitnow",
+   "posted": "2026-11-16T18:40:13+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 24,
+   "h_score": 24,
+   "skills_hit": [
+    "Evals"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
@@ -482,6 +521,53 @@
    "is_new": false
   },
   {
+   "id": "gh-canonical-8379825",
+   "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/8379825",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-16T08:39:36-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 18,
+   "h_score": 18,
+   "skills_hit": [
+    "Python",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "gh-canonical-4417916",
+   "title": "Senior Web Engineer",
+   "company": "canonical",
+   "location": "Home based - EMEA",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/4417916",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-16T05:42:48-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 18,
+   "h_score": 18,
+   "skills_hit": [
+    "REST",
+    "Docker",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
    "title": "Senior Data Engineer, Credit Reporting",
    "company": "Sezzle",
@@ -500,31 +586,6 @@
     "LLM",
     "AWS",
     "Payments"
-   ],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-design",
-   "title": "Senior Software Engineer, Design",
-   "company": "True Talent Solutions Partners",
-   "location": "North America Only",
-   "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-design",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-14T17:00:43+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 14,
-   "h_score": 14,
-   "skills_hit": [
-    "TypeScript",
-    "Full stack",
-    "React"
    ],
    "penalties": [
     "senior title",
@@ -556,27 +617,6 @@
    ],
    "llm": null,
    "is_new": false
-  },
-  {
-   "id": "jobicy-155494",
-   "title": "Senior DevOps Engineer",
-   "company": "Documo Inc.",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
-   "source": "Jobicy",
-   "posted": "2026-11-16T03:25:21+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 12,
-   "h_score": 12,
-   "skills_hit": [],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
   },
   {
    "id": "gh-canonical-3748266",
@@ -641,33 +681,6 @@
     "Backend",
     "Payments",
     "Full stack"
-   ],
-   "penalties": [
-    "senior title",
-    "asks 5+ yrs"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
-   "title": "Senior Software Engineer",
-   "company": "WelcomeHome Software",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-02T15:51:54+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 2,
-   "h_score": 2,
-   "skills_hit": [
-    "PostgreSQL",
-    "Backend",
-    "AWS",
-    "Redis",
-    "React"
    ],
    "penalties": [
     "senior title",
@@ -821,29 +834,6 @@
    "h_score": 0,
    "skills_hit": [
     "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "gh-canonical-2166631",
-   "title": "Software Developer in Observability",
-   "company": "canonical",
-   "location": "Home based - EMEA",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/2166631",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-03T08:56:54-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [
-    "Python",
-    "Kubernetes"
    ],
    "penalties": [
     "weak skill overlap"
