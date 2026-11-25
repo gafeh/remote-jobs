@@ -1,35 +1,88 @@
 {
- "generated_at": "2026-11-24T15:35:05.477797+00:00",
+ "generated_at": "2026-11-25T15:20:34.418777+00:00",
  "stats": {
   "Remotive": 15,
   "RemoteOK": 100,
-  "WeWorkRemotely": 196,
+  "WeWorkRemotely": 227,
   "Himalayas": 300,
   "Jobicy": 100,
-  "WorkingNomads": 37,
-  "HN Who's Hiring": 436,
+  "WorkingNomads": 38,
+  "HN Who's Hiring": 435,
   "Arbeitnow": 1500,
-  "greenhouse:canonical": 317,
+  "greenhouse:canonical": 318,
   "greenhouse:automatticcareers": 6,
-  "greenhouse:wikimedia": 12,
-  "greenhouse:sourcegraph91": 8,
-  "greenhouse:netlify": 6,
-  "greenhouse:mozilla": 142,
-  "greenhouse:gitlab": 252,
-  "greenhouse:consensys": 11,
-  "greenhouse:okx": 393,
-  "greenhouse:elastic": 387,
+  "greenhouse:wikimedia": 13,
+  "greenhouse:sourcegraph91": 7,
+  "greenhouse:netlify": 5,
+  "greenhouse:mozilla": 136,
+  "greenhouse:gitlab": 247,
+  "greenhouse:consensys": 10,
+  "greenhouse:okx": 390,
+  "greenhouse:elastic": 390,
   "greenhouse:labelbox": 13,
-  "ashby:supabase": 80,
-  "ashby:posthog": 10,
+  "ashby:supabase": 81,
+  "ashby:posthog": 9,
   "ashby:railway": 7,
   "ashby:oyster": 18,
   "ashby:zapier": 9,
   "ashby:clerk": 2,
-  "ashby:braintrust": 32
+  "ashby:braintrust": 34
  },
- "rejected_count": 3553,
+ "rejected_count": 3597,
  "jobs": [
+  {
+   "id": "jobicy-156946",
+   "title": "Platform Engineer - Compute Capacity",
+   "company": "Supabase",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
+   "source": "Jobicy",
+   "posted": "2026-11-25T03:25:20+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 70,
+   "h_score": 70,
+   "skills_hit": [
+    "Python",
+    "TypeScript",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Terraform"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "arbeitnow-software-engineer-ii-autonomous-supply-chains-amsterdam-120266",
+   "title": "Software Engineer II: Autonomous Supply Chains",
+   "company": "Flexport",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/flexport/software-engineer-ii-autonomous-supply-chains-amsterdam-120266",
+   "source": "Arbeitnow",
+   "posted": "2026-11-24T15:55:39+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 70,
+   "h_score": 70,
+   "skills_hit": [
+    "TypeScript",
+    "PostgreSQL",
+    "LLM",
+    "RAG",
+    "Evals",
+    "Agents",
+    "Payments",
+    "Full stack",
+    "Next.js"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development-1",
    "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
@@ -41,8 +94,8 @@
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 70,
-   "h_score": 70,
+   "score": 60,
+   "h_score": 60,
    "skills_hit": [
     "Python",
     "PostgreSQL",
@@ -58,112 +111,38 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform",
-   "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "company": "Stripe",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-24T06:01:32+00:00",
+   "id": "arbeitnow-founding-engineer-england-401871",
+   "title": "Founding Engineer",
+   "company": "True Talent Solutions Partners",
+   "location": "England",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/founding-engineer-england-401871",
+   "source": "Arbeitnow",
+   "posted": "2026-11-25T12:40:23+00:00",
    "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 62,
-   "h_score": 62,
+   "path": "visa",
+   "visa": "yes",
+   "score": 56,
+   "h_score": 56,
    "skills_hit": [
+    "Python",
     "Backend",
-    "GraphQL",
     "AWS",
-    "Payments",
-    "Docker",
-    "Kubernetes"
+    "Agents",
+    "Full stack",
+    "React"
    ],
    "penalties": [],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
-   "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
-   "company": "GitLab",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer-ai-process-intelligence-consultant",
+   "title": "Lead Applied Value Engineer - AI & Process Intelligence Consultant",
+   "company": "Celonis",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "url": "https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer-ai-process-intelligence-consultant",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-21T18:31:46+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 60,
-   "h_score": 60,
-   "skills_hit": [
-    "Python",
-    "PostgreSQL",
-    "Backend",
-    "GraphQL",
-    "Agents",
-    "REST",
-    "Queues"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
-   "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-   "company": "GitLab",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-21T18:31:46+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 60,
-   "h_score": 60,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "LLM",
-    "GraphQL",
-    "Evals",
-    "Agents"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development",
-   "title": "Backend Engineer, Trusted Agentic Development",
-   "company": "GitLab",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-23T18:31:30+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 58,
-   "h_score": 58,
-   "skills_hit": [
-    "Python",
-    "Backend",
-    "Agents",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "ashby-oyster-34e9f726-4461-4ef7-9724-a0aba8c72a76",
-   "title": "Senior AI Solutions Engineer",
-   "company": "oyster",
-   "location": "EMEA",
-   "url": "https://jobs.ashbyhq.com/oyster/34e9f726-4461-4ef7-9724-a0aba8c72a76",
-   "source": "Ashby:oyster",
-   "posted": "2026-11-24T13:32:09.666000+00:00",
+   "posted": "2026-11-25T06:02:14+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -172,38 +151,12 @@
    "skills_hit": [
     "Python",
     "LLM",
+    "AWS",
     "RAG",
-    "Evals",
     "Agents"
    ],
    "penalties": [
     "senior title"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
-   "title": "Full Stack Product Software Engineer",
-   "company": "Dropbox",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-23T18:31:47+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 54,
-   "h_score": 54,
-   "skills_hit": [
-    "Python",
-    "Node.js",
-    "Backend",
-    "Full stack",
-    "React"
-   ],
-   "penalties": [
-    "asks 5+ yrs"
    ],
    "llm": null,
    "is_new": true
@@ -234,7 +187,184 @@
     "asks 5+ yrs"
    ],
    "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform",
+   "title": "Backend Engineer, Developer & End-user Experience Platform",
+   "company": "Stripe",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-24T06:01:32+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 52,
+   "h_score": 52,
+   "skills_hit": [
+    "Backend",
+    "GraphQL",
+    "AWS",
+    "Payments",
+    "Docker",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": null,
    "is_new": true
+  },
+  {
+   "id": "jobicy-156940",
+   "title": "Software Engineer - Storage",
+   "company": "Supabase",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
+   "source": "Jobicy",
+   "posted": "2026-11-25T03:25:15+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 50,
+   "h_score": 50,
+   "skills_hit": [
+    "Node.js",
+    "PostgreSQL",
+    "Backend",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "React",
+    "Next.js"
+   ],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+   "company": "GitLab",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-21T18:31:46+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 50,
+   "h_score": 50,
+   "skills_hit": [
+    "Python",
+    "PostgreSQL",
+    "Backend",
+    "GraphQL",
+    "Agents",
+    "REST",
+    "Queues"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
+   "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+   "company": "GitLab",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-21T18:31:46+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 50,
+   "h_score": 50,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "LLM",
+    "GraphQL",
+    "Evals",
+    "Agents"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development",
+   "title": "Backend Engineer, Trusted Agentic Development",
+   "company": "GitLab",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-23T18:31:30+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 48,
+   "h_score": 48,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "Agents",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/twilio-devops-engineer-observability",
+   "title": "DevOps Engineer (Observability)",
+   "company": "Twilio",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/twilio-devops-engineer-observability",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-24T18:32:02+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 46,
+   "h_score": 46,
+   "skills_hit": [
+    "Python",
+    "AWS",
+    "Payments",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "ashby-oyster-34e9f726-4461-4ef7-9724-a0aba8c72a76",
+   "title": "Senior AI Solutions Engineer",
+   "company": "oyster",
+   "location": "EMEA",
+   "url": "https://jobs.ashbyhq.com/oyster/34e9f726-4461-4ef7-9724-a0aba8c72a76",
+   "source": "Ashby:oyster",
+   "posted": "2026-11-24T13:32:09.666000+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 46,
+   "h_score": 46,
+   "skills_hit": [
+    "Python",
+    "LLM",
+    "RAG",
+    "Evals",
+    "Agents"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
   },
   {
    "id": "hn-50339551",
@@ -262,6 +392,76 @@
    "penalties": [],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "ashby-supabase-62ad3b86-3a18-435a-ab29-dc62b77154e5",
+   "title": "Product Security Engineer",
+   "company": "supabase",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/62ad3b86-3a18-435a-ab29-dc62b77154e5",
+   "source": "Ashby:supabase",
+   "posted": "2026-11-25T10:22:02.493000+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 44,
+   "h_score": 44,
+   "skills_hit": [
+    "PostgreSQL",
+    "Backend",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-156945",
+   "title": "Distributed Systems Engineer",
+   "company": "Canonical",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
+   "source": "Jobicy",
+   "posted": "2026-11-25T03:25:18+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 44,
+   "h_score": 44,
+   "skills_hit": [
+    "Python",
+    "Backend",
+    "REST"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
+   "title": "Full Stack Product Software Engineer",
+   "company": "Dropbox",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-23T18:31:47+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 44,
+   "h_score": 44,
+   "skills_hit": [
+    "Python",
+    "Node.js",
+    "Backend",
+    "Full stack",
+    "React"
+   ],
+   "penalties": [
+    "asks 5+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
@@ -348,6 +548,51 @@
    "is_new": false
   },
   {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-software-development-engineer",
+   "title": "Software Development Engineer",
+   "company": "BeyondTrust",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-software-development-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-25T06:01:16+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "jobicy-156997",
+   "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
+   "company": "Canonical",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
+   "source": "Jobicy",
+   "posted": "2026-11-25T03:30:39+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 40,
+   "h_score": 40,
+   "skills_hit": [
+    "Python",
+    "Docker",
+    "Kubernetes"
+   ],
+   "penalties": [],
+   "llm": null,
+   "is_new": true
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform",
    "title": "Senior Software Engineer, Data Platform",
    "company": "Doximity",
@@ -371,7 +616,7 @@
     "senior title"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-frontend-engineer",
@@ -423,7 +668,7 @@
     "asks 5+ yrs"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer",
@@ -444,6 +689,30 @@
     "AWS",
     "RAG",
     "Agents"
+   ],
+   "penalties": [
+    "senior title"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "gh-consensys-8374566",
+   "title": "Senior Software Engineer: Assets",
+   "company": "consensys",
+   "location": "United States - Remote, EMEA - Remote",
+   "url": "https://job-boards.greenhouse.io/consensys/jobs/8374566",
+   "source": "Greenhouse:consensys",
+   "posted": "2026-11-25T01:08:44-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 34,
+   "h_score": 34,
+   "skills_hit": [
+    "TypeScript",
+    "Agents",
+    "React"
    ],
    "penalties": [
     "senior title"
@@ -505,52 +774,27 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries",
-   "title": "Analytics Lead, Full Stack (Collections & Recoveries)",
-   "company": "Affirm",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-24T06:01:35+00:00",
+   "id": "jobicy-156939",
+   "title": "Data API Engineer",
+   "company": "Supabase",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/156939-data-api-engineer",
+   "source": "Jobicy",
+   "posted": "2026-11-25T03:25:13+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
    "score": 32,
    "h_score": 32,
    "skills_hit": [
-    "Python",
-    "Full stack"
+    "PostgreSQL",
+    "Backend"
    ],
    "penalties": [
-    "senior title",
     "weak skill overlap"
    ],
    "llm": null,
    "is_new": true
-  },
-  {
-   "id": "gh-canonical-6062471",
-   "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
-   "company": "canonical",
-   "location": "Home based - Worldwide",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/6062471",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-22T07:45:59-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 32,
-   "h_score": 32,
-   "skills_hit": [
-    "Python",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "senior title"
-   ],
-   "llm": null,
-   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ledgy-senior-devops-engineer",
@@ -615,28 +859,6 @@
    "is_new": false
   },
   {
-   "id": "gh-canonical-7432750",
-   "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
-   "company": "canonical",
-   "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/7432750",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-22T07:45:59-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 30,
-   "h_score": 30,
-   "skills_hit": [
-    "Python",
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend",
    "title": "Senior Software Engineer, Full Stack (80% backend)",
    "company": "Postscript",
@@ -669,28 +891,6 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-   "title": "AI Creative Engineer (Social Media)",
-   "company": "Elvoro",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-18T00:12:31+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 30,
-   "h_score": 30,
-   "skills_hit": [
-    "Python",
-    "REST",
-    "React"
-   ],
-   "penalties": [],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "ashby-supabase-26f7817d-ca92-4094-a2b5-f22e07a218c4",
    "title": "Developer Relations Engineer",
    "company": "supabase",
@@ -717,33 +917,6 @@
    "is_new": false
   },
   {
-   "id": "ashby-supabase-0055f731-cffa-4c74-9c00-8abfa579873d",
-   "title": "Software Engineer - AI Tooling",
-   "company": "supabase",
-   "location": "Remote, Global",
-   "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
-   "source": "Ashby:supabase",
-   "posted": "2026-11-10T17:43:44.365000+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 30,
-   "h_score": 30,
-   "skills_hit": [
-    "TypeScript",
-    "PostgreSQL",
-    "Backend",
-    "Evals",
-    "Agents",
-    "pgvector"
-   ],
-   "penalties": [
-    "asks 5+ yrs"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-site-reliability-engineer",
    "title": "Site Reliability Engineer",
    "company": "BeyondTrust",
@@ -763,30 +936,7 @@
    ],
    "penalties": [],
    "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "arbeitnow-product-engineer-ai-london-182770",
-   "title": "Product Engineer // AI",
-   "company": "ClaimSorted",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/product-engineer-ai-london-182770",
-   "source": "Arbeitnow",
-   "posted": "2026-11-22T21:40:14+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 28,
-   "h_score": 28,
-   "skills_hit": [
-    "Agents",
-    "Full stack"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-growth-engineer",
@@ -880,6 +1030,29 @@
    "penalties": [],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-validator-engineer",
+   "title": "Validator Engineer",
+   "company": "Ritual",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/ritual-validator-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-25T06:01:32+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 24,
+   "h_score": 24,
+   "skills_hit": [
+    "Kubernetes",
+    "Terraform"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer",
@@ -982,6 +1155,52 @@
    "is_new": false
   },
   {
+   "id": "himalayas-https://himalayas.app/companies/cardinal-insurance-management-systems/jobs/software-developer-codeplex",
+   "title": "Software Developer - Codeplex",
+   "company": "Cardinal Insurance Management Systems",
+   "location": "South Africa",
+   "url": "https://himalayas.app/companies/cardinal-insurance-management-systems/jobs/software-developer-codeplex?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-25T13:46:39+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "REST"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries",
+   "title": "Analytics Lead, Full Stack (Collections & Recoveries)",
+   "company": "Affirm",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-24T06:01:35+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 22,
+   "h_score": 22,
+   "skills_hit": [
+    "Python",
+    "Full stack"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-1",
    "title": "Analytics Lead, Full Stack",
    "company": "Affirm",
@@ -1003,16 +1222,16 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-machine-learning-engineer-payments",
-   "title": "Senior Machine Learning Engineer, Payments",
-   "company": "Airbnb",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-machine-learning-engineer-payments",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-21T18:31:57+00:00",
+   "id": "gh-canonical-6062471",
+   "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/6062471",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-22T07:45:59-05:00",
    "salary": "",
    "path": "remote",
    "visa": null,
@@ -1020,13 +1239,11 @@
    "h_score": 22,
    "skills_hit": [
     "Python",
-    "LLM",
-    "Agents",
-    "Payments"
+    "Docker",
+    "Kubernetes"
    ],
    "penalties": [
-    "senior title",
-    "asks 5+ yrs"
+    "senior title"
    ],
    "llm": null,
    "is_new": false
@@ -1054,29 +1271,6 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/tailscale-billing-engineer",
-   "title": "Billing Engineer",
-   "company": "Tailscale",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/tailscale-billing-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-21T18:31:57+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 20,
-   "h_score": 20,
-   "skills_hit": [
-    "Backend",
-    "Payments"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
    "id": "wwr-https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query",
    "title": "Senior Software Engineer, Query",
    "company": "CircleCI",
@@ -1098,6 +1292,28 @@
    "penalties": [
     "senior title"
    ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+   "title": "AI Creative Engineer (Social Media)",
+   "company": "Elvoro",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-18T00:12:31+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 20,
+   "h_score": 20,
+   "skills_hit": [
+    "Python",
+    "REST",
+    "React"
+   ],
+   "penalties": [],
    "llm": null,
    "is_new": false
   },
@@ -1150,48 +1366,27 @@
    "is_new": false
   },
   {
-   "id": "arbeitnow-platform-engineer-amsterdam-55956",
-   "title": "Platform Engineer",
-   "company": "Catawiki",
-   "location": "Amsterdam",
-   "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/platform-engineer-amsterdam-55956",
-   "source": "Arbeitnow",
-   "posted": "2026-11-20T15:55:17+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 18,
-   "h_score": 18,
-   "skills_hit": [
-    "AWS",
-    "Kubernetes",
-    "Terraform"
-   ],
-   "penalties": [
-    "asks 5+ yrs"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
-   "title": "Senior Software Engineer Guest & Host",
-   "company": "Airbnb",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend",
+   "title": "Senior Software Engineer, Backend",
+   "company": "Customer.io",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
+   "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend",
    "source": "WeWorkRemotely",
-   "posted": "2026-11-24T06:02:14+00:00",
+   "posted": "2026-11-25T06:02:50+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 16,
-   "h_score": 16,
+   "score": 18,
+   "h_score": 18,
    "skills_hit": [
-    "Payments"
+    "Backend",
+    "AWS",
+    "Agents",
+    "React"
    ],
    "penalties": [
     "senior title",
-    "weak skill overlap"
+    "asks 7+ yrs"
    ],
    "llm": null,
    "is_new": true
@@ -1216,7 +1411,7 @@
     "weak skill overlap"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-money",
@@ -1241,7 +1436,7 @@
     "asks 5+ yrs"
    ],
    "llm": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "arbeitnow-propulsion-data-modeling-engineer-bordeaux-26107",
@@ -1258,51 +1453,6 @@
    "h_score": 16,
    "skills_hit": [
     "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": true
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-machine-learning-engineer",
-   "title": "Machine Learning Engineer",
-   "company": "Ritual",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/ritual-machine-learning-engineer",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-21T18:31:57+00:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 16,
-   "h_score": 16,
-   "skills_hit": [
-    "Python"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "gh-canonical-3821346",
-   "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
-   "company": "canonical",
-   "location": "Home based - Worldwide",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/3821346",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-22T07:45:59-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 14,
-   "h_score": 14,
-   "skills_hit": [
-    "Docker",
-    "Kubernetes"
    ],
    "penalties": [
     "weak skill overlap"
@@ -1335,24 +1485,20 @@
    "is_new": false
   },
   {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
-   "title": "Senior Mobile Software Engineer, Quality Engineering",
-   "company": "Airbnb",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
-   "source": "WeWorkRemotely",
-   "posted": "2026-11-24T06:02:03+00:00",
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/optomechanical-design-engineer-precision-cnc-parts",
+   "title": "Optomechanical Design Engineer \u2014 Precision CNC Parts",
+   "company": "micro1",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/micro1/jobs/optomechanical-design-engineer-precision-cnc-parts?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-25T14:21:00+00:00",
    "salary": "",
    "path": "remote",
    "visa": null,
-   "score": 12,
-   "h_score": 12,
-   "skills_hit": [
-    "LLM",
-    "Payments"
-   ],
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
    "penalties": [
-    "senior title",
     "asks 5+ yrs",
     "weak skill overlap"
    ],
@@ -1360,64 +1506,63 @@
    "is_new": true
   },
   {
-   "id": "arbeitnow-software-engineer-zurich-412786",
-   "title": "Software Engineer",
-   "company": "Benetics AI",
-   "location": "Z\u00fcrich",
-   "url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-412786",
-   "source": "Arbeitnow",
-   "posted": "2026-11-19T14:31:02+00:00",
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-semiconductor-vacuum-hardware",
+   "title": "Mechanical Design Engineer \u2014 Semiconductor & Vacuum Hardware",
+   "company": "micro1",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-semiconductor-vacuum-hardware?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-25T14:20:55+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
-   "score": 12,
-   "h_score": 12,
-   "skills_hit": [
-    "Python",
-    "TypeScript"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-infra-engineer-london-361604",
-   "title": "Infra Engineer",
-   "company": "ClaimSorted",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/infra-engineer-london-361604",
-   "source": "Arbeitnow",
-   "posted": "2026-11-22T21:40:14+00:00",
-   "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
    "score": 10,
    "h_score": 10,
    "skills_hit": [],
    "penalties": [
+    "asks 5+ yrs",
     "weak skill overlap"
    ],
    "llm": null,
    "is_new": true
   },
   {
-   "id": "arbeitnow-thermo-mechanical-engineer-bordeaux-147977",
-   "title": "Thermo-Mechanical Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977",
-   "source": "Arbeitnow",
-   "posted": "2026-11-20T21:40:14+00:00",
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-robotics-cnc-parts",
+   "title": "Mechanical Design Engineer \u2014 Robotics CNC Parts",
+   "company": "micro1",
+   "location": "Worldwide",
+   "url": "https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-robotics-cnc-parts?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-25T14:20:52+00:00",
    "salary": "",
-   "path": "visa",
-   "visa": "yes",
+   "path": "remote",
+   "visa": null,
+   "score": 10,
+   "h_score": 10,
+   "skills_hit": [],
+   "penalties": [
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/tailscale-billing-engineer",
+   "title": "Billing Engineer",
+   "company": "Tailscale",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/tailscale-billing-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-21T18:31:57+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
    "score": 10,
    "h_score": 10,
    "skills_hit": [
-    "Python",
-    "Evals"
+    "Backend",
+    "Payments"
    ],
    "penalties": [
     "weak skill overlap"
@@ -1451,6 +1596,30 @@
    ],
    "llm": null,
    "is_new": false
+  },
+  {
+   "id": "arbeitnow-meridial-senior-research-software-engineer-image-processing-london-281803",
+   "title": "Meridial \u2013 Senior Research Software Engineer \u2013 Image Processing",
+   "company": "Convergentresearch",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/convergentresearch/meridial-senior-research-software-engineer-image-processing-london-281803",
+   "source": "Arbeitnow",
+   "posted": "2026-11-25T03:07:02+00:00",
+   "salary": "",
+   "path": "visa",
+   "visa": "yes",
+   "score": 8,
+   "h_score": 8,
+   "skills_hit": [
+    "Python"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
   },
   {
    "id": "ashby-supabase-463d8cd7-3092-44eb-b80e-8d21008e569e",
@@ -1528,44 +1697,91 @@
    "is_new": false
   },
   {
-   "id": "gh-canonical-6189337",
-   "title": "Embedded Linux Senior Software Engineer - Optimisation",
-   "company": "canonical",
-   "location": "Home based - Worldwide",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/6189337",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-22T07:45:59-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 6,
-   "h_score": 6,
-   "skills_hit": [
-    "Docker",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "senior title",
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "arbeitnow-combustion-devices-development-engineer-bordeaux-238174",
-   "title": "Combustion Devices Development Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-devices-development-engineer-bordeaux-238174",
+   "id": "arbeitnow-senior-software-engineer-amsterdam-48232",
+   "title": "Senior Software Engineer",
+   "company": "GreenFlux",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/greenflux/senior-software-engineer-amsterdam-48232",
    "source": "Arbeitnow",
-   "posted": "2026-11-20T21:40:14+00:00",
+   "posted": "2026-11-25T12:31:33+00:00",
    "salary": "",
    "path": "visa",
    "visa": "yes",
    "score": 6,
    "h_score": 6,
    "skills_hit": [
+    "TypeScript",
+    "Backend",
+    "Redis"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 7+ yrs"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
+   "title": "Senior Software Engineer Guest & Host",
+   "company": "Airbnb",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-24T06:02:14+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 6,
+   "h_score": 6,
+   "skills_hit": [
+    "Payments"
+   ],
+   "penalties": [
+    "senior title",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-machine-learning-engineer",
+   "title": "Machine Learning Engineer",
+   "company": "Ritual",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/ritual-machine-learning-engineer",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-21T18:31:57+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 6,
+   "h_score": 6,
+   "skills_hit": [
     "Python"
+   ],
+   "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "gh-canonical-3821346",
+   "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/3821346",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-22T07:45:59-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 4,
+   "h_score": 4,
+   "skills_hit": [
+    "Docker",
+    "Kubernetes"
    ],
    "penalties": [
     "weak skill overlap"
@@ -1590,6 +1806,80 @@
     "Payments"
    ],
    "penalties": [
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": false
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-partner-integrations",
+   "title": "Senior Software Engineer, Partner Integrations",
+   "company": "Airbnb",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-partner-integrations",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-24T18:31:09+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 2,
+   "h_score": 2,
+   "skills_hit": [
+    "Backend",
+    "Payments"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 6+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
+   "title": "Senior Mobile Software Engineer, Quality Engineering",
+   "company": "Airbnb",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
+   "source": "WeWorkRemotely",
+   "posted": "2026-11-24T06:02:03+00:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 2,
+   "h_score": 2,
+   "skills_hit": [
+    "LLM",
+    "Payments"
+   ],
+   "penalties": [
+    "senior title",
+    "asks 5+ yrs",
+    "weak skill overlap"
+   ],
+   "llm": null,
+   "is_new": true
+  },
+  {
+   "id": "gh-canonical-6189337",
+   "title": "Embedded Linux Senior Software Engineer - Optimisation",
+   "company": "canonical",
+   "location": "Home based - Worldwide",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/6189337",
+   "source": "Greenhouse:canonical",
+   "posted": "2026-11-22T07:45:59-05:00",
+   "salary": "",
+   "path": "remote",
+   "visa": null,
+   "score": 0,
+   "h_score": 0,
+   "skills_hit": [
+    "Docker",
+    "Kubernetes"
+   ],
+   "penalties": [
+    "senior title",
     "weak skill overlap"
    ],
    "llm": null,
@@ -1794,29 +2084,6 @@
    "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",
    "source": "Greenhouse:canonical",
    "posted": "2026-11-11T16:10:49-05:00",
-   "salary": "",
-   "path": "remote",
-   "visa": null,
-   "score": 0,
-   "h_score": 0,
-   "skills_hit": [
-    "Python",
-    "Kubernetes"
-   ],
-   "penalties": [
-    "weak skill overlap"
-   ],
-   "llm": null,
-   "is_new": false
-  },
-  {
-   "id": "gh-canonical-3290946",
-   "title": "Software Engineer - Solutions Engineering",
-   "company": "canonical",
-   "location": "Home based - Worldwide",
-   "url": "https://job-boards.greenhouse.io/canonical/jobs/3290946",
-   "source": "Greenhouse:canonical",
-   "posted": "2026-11-11T02:47:44-05:00",
    "salary": "",
    "path": "remote",
    "visa": null,
